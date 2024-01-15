@@ -1,0 +1,26 @@
+{
+  "questProgress:9": {
+    "0:10": {
+      "completed:9": {
+        "0:10": {
+          "claimed:1": 0,
+          "timestamp:4": 1704479392976,
+          "uuid:8": "f96c042c-d1ef-4ea1-800a-b30514375265"
+        }
+      },
+      "tasks:9": {},
+      "questID:3": 0
+    },
+    "1:10": {
+      "completed:9": {},
+      "tasks:9": {
+        "0:10": {
+          "orig_prog:10": {},
+          "taskID:8": "betterquesting:placeholder",
+          "index:3": 0
+        }
+      },
+      "questID:3": 1
+    }
+  }
+}

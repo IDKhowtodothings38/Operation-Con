@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="vs-control-1.12.2-1.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../mods/vs-control-1.12.2-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

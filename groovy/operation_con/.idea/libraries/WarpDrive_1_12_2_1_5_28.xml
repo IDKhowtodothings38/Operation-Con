@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="WarpDrive-1.12.2-1.5.28">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../mods/WarpDrive-1.12.2-1.5.28.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

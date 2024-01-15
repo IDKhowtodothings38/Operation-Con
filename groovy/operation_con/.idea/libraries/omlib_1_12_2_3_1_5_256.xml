@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="omlib-1.12.2-3.1.5-256">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../mods/omlib-1.12.2-3.1.5-256.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

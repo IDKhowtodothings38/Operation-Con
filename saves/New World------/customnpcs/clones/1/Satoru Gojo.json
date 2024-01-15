@@ -1,0 +1,613 @@
+{
+    "id": "customnpcs:customnpc",
+    "Motion": [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    "Rotation": [
+        248.38042f,
+        0.0f
+    ],
+    "FallDistance": 0.0f,
+    "Fire": -1s,
+    "Air": 300s,
+    "OnGround": 1b,
+    "Dimension": 0,
+    "Invulnerable": 0b,
+    "PortalCooldown": 0,
+    "UpdateBlocked": 0b,
+    "ForgeData": {
+        "srpcothimmunity": 1,
+        "cnpcmarkdata": {
+            "marks": [
+            ]
+        }
+    },
+    "ForgeCaps": {
+        "llibrary:extendedentitydatacapability": {
+        }
+    },
+    "Health": 8467.0f,
+    "HurtTime": 0s,
+    "HurtByTimestamp": 2219,
+    "DeathTime": 0s,
+    "AbsorptionAmount": 0.0f,
+    "Attributes": [
+        {
+            "Name": "generic.maxHealth",
+            "Base": 8467.0d
+        },
+        {
+            "Name": "generic.knockbackResistance",
+            "Base": 0.0d
+        },
+        {
+            "Name": "generic.movementSpeed",
+            "Base": 0.3499999940395355d
+        },
+        {
+            "Name": "generic.armor",
+            "Base": 0.0d
+        },
+        {
+            "Name": "generic.armorToughness",
+            "Base": 0.0d
+        },
+        {
+            "Name": "forge.swimSpeed",
+            "Base": 1.0d
+        },
+        {
+            "Name": "generic.followRange",
+            "Base": 128.0d
+        },
+        {
+            "Name": "generic.attackDamage",
+            "Base": 15.0d
+        },
+        {
+            "Name": "generic.flyingSpeed",
+            "Base": 0.699999988079071d
+        }
+    ],
+    "FallFlying": 0b,
+    "CanPickUpLoot": 0b,
+    "PersistenceRequired": 0b,
+    "ArmorItems": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "HandItems": [
+        {
+        },
+        {
+        }
+    ],
+    "ArmorDropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "HandDropChances": [
+        0.085f,
+        0.085f
+    ],
+    "Leashed": 0b,
+    "LeftHanded": 0b,
+    "Name": "Satoru Gojo",
+    "MarkovGeneratorId": 1,
+    "MarkovGender": 0,
+    "Title": "The Honored One",
+    "SkinUrl": "",
+    "Texture": "customnpcs:textures/gojo_satoru.png",
+    "CloakTexture": "",
+    "GlowTexture": "",
+    "UsingSkinUrl": 0b,
+    "Size": 6,
+    "ShowName": 0,
+    "SkinColor": 16777215,
+    "NpcVisible": 0,
+    "NoLivingAnimation": 0b,
+    "IsStatue": 0b,
+    "BossBar": 1b,
+    "BossColor": 1,
+    "Resistances": {
+        "Knockback": 2.0f,
+        "Arrow": 2.0f,
+        "Melee": 2.0f,
+        "Explosion": 2.0f
+    },
+    "MaxHealth": 8500,
+    "AggroRange": 64,
+    "HideBodyWhenKilled": 0b,
+    "RespawnTime": 0,
+    "SpawnCycle": 3,
+    "CreatureType": 0,
+    "HealthRegen": 75,
+    "CombatRegen": 5,
+    "ImmuneToFire": 1b,
+    "PotionImmune": 1b,
+    "CanDrown": 0b,
+    "BurnInSun": 0b,
+    "NoFallDamage": 0b,
+    "IgnoreCobweb": 1b,
+    "AttackStrenght": 15,
+    "AttackSpeed": 8,
+    "AttackRange": 7,
+    "KnockBack": 2,
+    "PotionEffect": 5,
+    "PotionDuration": 5,
+    "PotionAmp": 1,
+    "BurstCount": 2,
+    "pSpeed": 1,
+    "pDamage": 4,
+    "pImpact": 0,
+    "pSize": 5,
+    "pArea": 0,
+    "pTrail": 0,
+    "MaxFiringRange": 64,
+    "FireRate": 20,
+    "minDelay": 60,
+    "maxDelay": 300,
+    "ShotCount": 1,
+    "Accuracy": 99,
+    "pRender3D": 1b,
+    "pSpin": 0b,
+    "pStick": 0b,
+    "pPhysics": 1b,
+    "pXlr8": 1b,
+    "pGlows": 0b,
+    "AimWhileShooting": 0b,
+    "pEffect": 0,
+    "pDur": 5,
+    "pEffAmp": 0,
+    "FiringSound": "minecraft:block.end_portal.spawn",
+    "HitSound": "minecraft:block.end_gateway.spawn",
+    "GroundSound": "minecraft:block.redstone_torch.burnout",
+    "FireIndirect": 0,
+    "DistanceToMelee": 20,
+    "CanSwim": 1b,
+    "ReactsToFire": 0b,
+    "AvoidsWater": 0b,
+    "AvoidsSun": 0b,
+    "ReturnToStart": 0b,
+    "OnAttack": 0,
+    "DoorInteract": 1,
+    "FindShelter": 2,
+    "DirectLOS": 0b,
+    "CanLeap": 0b,
+    "CanSprint": 0b,
+    "TacticalRadius": 8,
+    "MovingPause": 1b,
+    "npcInteracting": 1b,
+    "stopAndInteract": 1b,
+    "MoveState": 0,
+    "StandingState": 0,
+    "MovingState": 1,
+    "TacticalVariant": 0,
+    "MovementType": 0,
+    "Orientation": 0,
+    "PositionOffsetX": 5.0f,
+    "PositionOffsetY": 5.0f,
+    "PositionOffsetZ": 5.0f,
+    "WalkingRange": 99,
+    "MoveSpeed": 7,
+    "MovingPos": 0,
+    "MovingPatern": 0,
+    "AttackInvisible": 0b,
+    "Scripts": [
+        {
+            "Script": "var Intensity = 1 //Positive values are a push, neative values are a pull.
+var MaxRange = 6
+var DistanceScalar = -100 //How the push/pull effect will be amplified based on the distance between npc and target. Can be negative. 0 for no effect
+var Speed = 0 //How fast the wave goes out. Higher is slower
+var Particle = \"instantSpell\" // You can edit specifics further down in the script
+
+var AbilityAttemptTime = 0 //seconds
+
+function init(t){
+t.npc.timers.forceStart(1,AbilityAttemptTime*20,true)}
+
+function timer(t){
+if(t.id==1){
+CircleAttack(t.npc) 
+}}
+
+function CircleAttack(npc){
+var Thread = Java.type(\"java.lang.Thread\");
+var HankThread = Java.extend(Thread,{run: function(){
+var vics = npc.world.getNearbyEntities(npc.x,npc.y,npc.z,MaxRange,-1)
+for(var j = 0;j<vics.length;++j){
+if(vics[j]!=npc){
+var dist = npc.getPos().distanceTo(vics[j].getPos())
+var Str = Intensity + DistanceScalar*dist
+var d = FrontVectors(npc,GetPlayerRotation(npc,vics[j]),0,Intensity,0)
+vics[j].setMotionX(d[0])
+vics[j].setMotionY(0.1)
+vics[j].setMotionZ(d[2])}}
+if(Intensity > 0){
+for(var k = 0; k< MaxRange*2;++k){
+for(var i = 0; i<72;++i){
+var d = FrontVectors(npc,i*5,0,k/2*(Intensity/Math.abs(Intensity)),0)
+npc.world.spawnParticle(Particle,npc.x+d[0],npc.y,npc.z+d[2],0,0,0,0,1)}
+Thread.sleep(Speed)}}
+else{
+for(var k = MaxRange*2; k>0 ;--k){
+for(var i = 0; i<72;++i){
+var d = FrontVectors(npc,i*5,0,k/2*(Intensity/Math.abs(Intensity)),0)
+npc.world.spawnParticle(Particle,npc.x+d[0],npc.y,npc.z+d[2],0,0,0,0,1)}
+Thread.sleep(Speed)}}
+}});var H = new HankThread();H.start();}
+
+function GetPlayerRotation(npc, player){
+var dx = npc.getX()-player.getX();
+var dz = player.getZ()-npc.getZ();
+if(dz>=0){
+var angle = (Math.atan(dx/dz)*180/Math.PI);
+if(angle < 0){
+angle = 360+angle;}}
+if(dz<0){
+dz = -dz;
+var angle = 180-(Math.atan(dx/dz)*180/Math.PI);}
+return angle;}
+
+function FrontVectors(entity,dr,dp,distance,mode){
+if(mode == 1){var angle = dr + entity.getRotation();var pitch = (-entity.getPitch()+dp)*Math.PI/180}
+if(mode == 0){var angle = dr;var pitch = (dp)*Math.PI/180}
+var dx = -Math.sin(angle*Math.PI/180)*(distance*Math.cos(pitch))
+var dy = Math.sin(pitch)*distance
+var dz = Math.cos(angle*Math.PI/180)*(distance*Math.cos(pitch))
+return [dx,dy,dz]}",
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "function damaged(t){
+if(t.damageSource.isProjectile() && t.source){
+if(!t.npc.isAttacking())t.npc.setAttackTarget(t.source)
+t.npc.world.playSoundAt(t.npc.getPos(),\"minecraft:entity.blaze.shoot\",5,1)
+t.npc.world.spawnParticle(\"largesmoke\",t.npc.x,t.npc.y+1,t.npc.z,0.3,0.5,0.3,0,25)
+var TrueSource = t.damageSource.getImmediateSource()
+t.setCanceled(true)
+var nbt = TrueSource.getEntityNbt()
+var x =nbt.getList(\"Motion\",6)[0]
+var y =nbt.getList(\"Motion\",6)[1]
+var z =nbt.getList(\"Motion\",6)[2]
+var Speed = Math.sqrt(x*x+y*y+z*z)
+var d = FrontVectors(t.npc,GetPlayerRotation(t.npc,t.source),GetPlayerPitch(t.npc,t.source),Speed/2,0)
+nbt.setList(\"Motion\",[d[0],d[1],d[2]])
+var newProj = t.npc.world.createEntityFromNBT(nbt)
+newProj.generateNewUUID()
+t.npc.world.spawnEntity(newProj)
+TrueSource.despawn()}}
+
+function FrontVectors(entity,dr,dp,distance,mode){
+if(!mode)mode=0
+if(mode == 1){var angle = dr + entity.getRotation();var pitch = (-entity.getPitch()+dp)*Math.PI/180;if(dp==0)pitch=0;}
+if(mode == 0){var angle = dr;var pitch = (dp)*Math.PI/180}
+var dx = -Math.sin(angle*Math.PI/180)*(distance*Math.cos(pitch))
+var dy = Math.sin(pitch)*distance
+var dz = Math.cos(angle*Math.PI/180)*(distance*Math.cos(pitch))
+return [dx,dy,dz]}
+
+function GetPlayerRotation(npc, player){
+var dx = npc.getX()-player.getX();
+var dz = player.getZ()-npc.getZ();
+if(dz>=0){
+var angle = (Math.atan(dx/dz)*180/Math.PI);
+if(angle < 0){
+angle = 360+angle;}}
+if(dz<0){
+dz = -dz;
+var angle = 180-(Math.atan(dx/dz)*180/Math.PI);}
+return angle;}
+
+function GetPlayerPitch(npc,player){
+var distance = Math.sqrt(Math.pow((npc.x - player.x),2)+Math.pow((npc.z - player.z),2))
+var dy = player.y-npc.y
+var pitch = Math.atan(dy/distance)*180/Math.PI
+return pitch}
+
+",
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "var LaunchSpeed = 10;
+var CloneNameList = [\"Blue\", \"Red\", \"Hollow Purple\"]
+var CloneName
+var ServerClonesTab = 1
+var AutoTarget = true //manually set the projectile NPCs attack target to the NPC's attack target
+
+function randomNum(max, min) {
+    return Math.random() * (max - min) + min
+}
+
+function rangedLaunched(t){
+var randomNumber = randomNum(3, 1);
+
+if(randomNumber = 1){
+CloneName = CloneNameList[0]
+}
+else if(randomNumber = 2){
+CloneName = CloneNameList[1]
+}
+else if(randomNumber = 3){
+CloneName = CloneNameList[2]
+}
+
+var npc = t.npc
+var targ = npc.getAttackTarget()
+if(!targ)return;
+var shot = t.projectiles[0]
+shot.despawn()
+var clone = t.API.clones.spawn(npc.x+23,npc.y+1.5,npc.z+23,ServerClonesTab,CloneName,npc.world)
+var d = FrontVectors(npc,GetPlayerRotation(npc, targ),GetPlayerPitch(npc,targ)+5,LaunchSpeed,0)
+clone.setMotionX(d[0])
+clone.setMotionY(d[1])
+clone.setMotionZ(d[2])
+if(AutoTarget)clone.setAttackTarget(targ)}
+
+function FrontVectors(entity,dr,dp,distance,mode){
+if(!mode)mode=0
+if(mode == 1){var angle = dr + entity.getRotation();var pitch = (-entity.getPitch()+dp)*Math.PI/180;if(dp==0)pitch=0;}
+if(mode == 0){var angle = dr;var pitch = (dp)*Math.PI/180}
+var dx = -Math.sin(angle*Math.PI/180)*(distance*Math.cos(pitch))
+var dy = Math.sin(pitch)*distance
+var dz = Math.cos(angle*Math.PI/180)*(distance*Math.cos(pitch))
+return [dx,dy,dz]}
+
+
+function GetPlayerRotation(npc, player){
+var dx = npc.getX()-player.getX();
+var dz = player.getZ()-npc.getZ();
+if(dz>=0){
+var angle = (Math.atan(dx/dz)*180/Math.PI);
+if(angle < 0){
+angle = 360+angle;}}
+if(dz<0){
+dz = -dz;
+var angle = 180-(Math.atan(dx/dz)*180/Math.PI);}
+return angle;}
+
+function GetPlayerPitch(npc,player){
+var distance = Math.sqrt(Math.pow((npc.x - player.x),2)+Math.pow((npc.z - player.z),2))
+var dy = player.y-npc.y
+var pitch = Math.atan(dy/distance)*180/Math.PI
+return pitch}
+
+
+//end",
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        }
+    ],
+    "ScriptLanguage": "ECMAScript",
+    "ScriptEnabled": 1b,
+    "NpcsTimers": [
+        {
+            "ID": 1,
+            "TimerTicks": 1,
+            "Repeat": 1b,
+            "Ticks": 0
+        }
+    ],
+    "NpcLines": {
+        "Lines": [
+            {
+                "Slot": 0,
+                "Line": "In Heaven And Earth I Alone Am The Honored One",
+                "Song": ""
+            }
+        ]
+    },
+    "NpcKilledLines": {
+        "Lines": [
+            {
+                "Slot": 0,
+                "Line": "Reverse Grip Technique",
+                "Song": ""
+            }
+        ]
+    },
+    "NpcInteractLines": {
+        "Lines": [
+            {
+                "Slot": 0,
+                "Line": "Hello @p",
+                "Song": ""
+            }
+        ]
+    },
+    "NpcAttackLines": {
+        "Lines": [
+            {
+                "Slot": 0,
+                "Line": "You're Weak",
+                "Song": ""
+            },
+            {
+                "Slot": 1,
+                "Line": "You Cryin?",
+                "Song": ""
+            }
+        ]
+    },
+    "NpcKillLines": {
+        "Lines": [
+        ]
+    },
+    "NpcInteractNPCLines": {
+        "Lines": [
+        ]
+    },
+    "OrderedLines": 0b,
+    "NpcIdleSound": "",
+    "NpcAngrySound": "",
+    "NpcHurtSound": "minecraft:entity.player.hurt",
+    "NpcDeathSound": "minecraft:entity.player.hurt",
+    "NpcStepSound": "",
+    "FactionID": 3,
+    "AttackOtherFactions": 1b,
+    "DefendFaction": 1b,
+    "DisablePitch": 0b,
+    "Role": 0,
+    "NpcJob": 0,
+    "FactionPoints": {
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "OptionFaction2Points": 100,
+        "DecreaseFaction1Points": 0b,
+        "DecreaseFaction2Points": 0b
+    },
+    "NPCDialogOptions": [
+    ],
+    "NpcScenes": {
+        "Scenes": [
+        ]
+    },
+    "MinExp": 0,
+    "MaxExp": 0,
+    "NpcInv": [
+    ],
+    "Armor": [
+    ],
+    "Weapons": [
+        {
+            "Slot": 1b,
+            "id": "minecraft:stone_button",
+            "Count": 1,
+            "Damage": 0s,
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        }
+    ],
+    "DropChance": [
+        {
+            "Slot": 0,
+            "Integer": 100
+        },
+        {
+            "Slot": 1,
+            "Integer": 100
+        },
+        {
+            "Slot": 2,
+            "Integer": 100
+        },
+        {
+            "Slot": 3,
+            "Integer": 100
+        },
+        {
+            "Slot": 4,
+            "Integer": 100
+        },
+        {
+            "Slot": 5,
+            "Integer": 100
+        },
+        {
+            "Slot": 6,
+            "Integer": 100
+        },
+        {
+            "Slot": 7,
+            "Integer": 100
+        },
+        {
+            "Slot": 8,
+            "Integer": 100
+        }
+    ],
+    "LootMode": 0,
+    "TransformIsActive": 0b,
+    "TransformHasDisplay": 0b,
+    "TransformHasAI": 0b,
+    "TransformHasAdvanced": 0b,
+    "TransformHasInv": 0b,
+    "TransformHasStats": 0b,
+    "TransformHasRole": 0b,
+    "TransformHasJob": 0b,
+    "TransformEditingModus": 0b,
+    "KilledTime": 0L,
+    "TotalTicksAlive": 28327L,
+    "ModRev": 18,
+    "LinkedNpcName": "",
+    "NpcModelData": {
+        "ArmsConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": -0.0f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "BodyConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "LegsConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.012000002f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "HeadConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "LegParts": {
+            "Type": 0b,
+            "Color": 16777215,
+            "PlayerTexture": 0b,
+            "Pattern": 0b
+        },
+        "Eyes": {
+            "Type": 0b,
+            "Color": 11685080,
+            "PlayerTexture": 0b,
+            "Pattern": 0b,
+            "Glint": 1b,
+            "SkinColor": 11830381,
+            "BrowColor": 5982516,
+            "PositionY": 1,
+            "BrowThickness": 4
+        },
+        "ExtraData": {
+        },
+        "Parts": [
+        ]
+    }
+}

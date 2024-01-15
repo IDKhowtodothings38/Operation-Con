@@ -1,0 +1,317 @@
+{
+    "minecraft": {
+        "": {}
+    },
+    "mcp": {
+        "": {}
+    },
+    "FML": {
+        "": {}
+    },
+    "forge": {
+        "": {}
+    },
+    "placeholdername": {
+        "": {}
+    },
+    "mixinbooter": {
+        "": {}
+    },
+    "biometweakercore": {
+        "": {}
+    },
+    "foamfixcore": {
+        "": {}
+    },
+    "WarpDriveCore": {
+        "": {}
+    },
+    "wolffsmod": {
+        "": {}
+    },
+    "valkyrienskies": {
+        "": {}
+    },
+    "forgeendertech": {
+        "": {}
+    },
+    "adlods": {
+        "": {}
+    },
+    "libvulpes": {
+        "": {}
+    },
+    "advancedrocketry": {
+        "": {}
+    },
+    "aiimprovements": {
+        "": {}
+    },
+    "appliedenergistics2": {
+        "": {}
+    },
+    "attributefix": {
+        "": {}
+    },
+    "betterquesting": {
+        "": {}
+    },
+    "biometweaker": {
+        "": {}
+    },
+    "biomesoplenty": {
+        "": {}
+    },
+    "bookshelf": {
+        "": {}
+    },
+    "gamestages": {
+        "": {}
+    },
+    "bq_msi": {
+        "": {}
+    },
+    "cctweaked": {
+        "": {}
+    },
+    "computercraft": {
+        "": {}
+    },
+    "jei": {
+        "": {}
+    },
+    "loliasm": {
+        "": {}
+    },
+    "mclib": {
+        "": {}
+    },
+    "metamorph": {
+        "": {}
+    },
+    "chameleon_morph": {
+        "": {}
+    },
+    "codechickenlib": {
+        "": {}
+    },
+    "custommainmenu": {
+        "": {}
+    },
+    "customnpcs": {
+        "": {}
+    },
+    "endercore": {
+        "": {}
+    },
+    "enderio": {
+        "": {}
+    },
+    "enderiointegrationtic": {
+        "": {}
+    },
+    "enderiobase": {
+        "": {}
+    },
+    "enderioconduits": {
+        "": {}
+    },
+    "enderioconduitsappliedenergistics": {
+        "": {}
+    },
+    "enderioconduitsopencomputers": {
+        "": {}
+    },
+    "enderioconduitsrefinedstorage": {
+        "": {}
+    },
+    "enderiointegrationforestry": {
+        "": {}
+    },
+    "enderiointegrationticlate": {
+        "": {}
+    },
+    "enderioinvpanel": {
+        "": {}
+    },
+    "enderiomachines": {
+        "": {}
+    },
+    "enderiopowertools": {
+        "": {}
+    },
+    "fastfurnace": {
+        "": {}
+    },
+    "fastleafdecay": {
+        "": {}
+    },
+    "fastbench": {
+        "": {}
+    },
+    "flansmod": {
+        "": {}
+    },
+    "foamfix": {
+        "": {}
+    },
+    "fpsreducer": {
+        "": {}
+    },
+    "geckolib3": {
+        "": {}
+    },
+    "groovyscript": {
+        "": {}
+    },
+    "gregtech": {
+        "": {}
+    },
+    "gcym": {
+        "": {}
+    },
+    "growthcraft": {
+        "": {}
+    },
+    "growthcraft_fishtrap": {
+        "": {}
+    },
+    "growthcraft_apples": {
+        "": {}
+    },
+    "growthcraft_cellar": {
+        "": {}
+    },
+    "growthcraft_grapes": {
+        "": {}
+    },
+    "growthcraft_bamboo": {
+        "": {}
+    },
+    "growthcraft_bees": {
+        "": {}
+    },
+    "growthcraft_rice": {
+        "": {}
+    },
+    "growthcraft_hops": {
+        "": {}
+    },
+    "growthcraft_milk": {
+        "": {}
+    },
+    "guideapi": {
+        "": {}
+    },
+    "icbmclassic": {
+        "": {}
+    },
+    "icbmcc": {
+        "": {}
+    },
+    "justenoughdimensions": {
+        "": {}
+    },
+    "jee": {
+        "": {}
+    },
+    "jeid": {
+        "": {}
+    },
+    "jeresources": {
+        "": {}
+    },
+    "patchouli": {
+        "": {}
+    },
+    "llibrary": {
+        "": {}
+    },
+    "lepidodendron": {
+        "": {}
+    },
+    "lostcities": {
+        "": {}
+    },
+    "modularforcefieldsystem": {
+        "": {}
+    },
+    "modernweaponspack": {
+        "": {}
+    },
+    "numina": {
+        "": {}
+    },
+    "redstoneflux": {
+        "": {}
+    },
+    "powersuits": {
+        "": {}
+    },
+    "nocubessrparmory": {
+        "": {}
+    },
+    "nocubessrpnests": {
+        "": {}
+    },
+    "nocubessrpsurvival": {
+        "": {}
+    },
+    "omlib": {
+        "": {}
+    },
+    "openmodularturrets": {
+        "": {}
+    },
+    "oreexcavation": {
+        "": {}
+    },
+    "particleculling": {
+        "": {}
+    },
+    "performant": {
+        "": {}
+    },
+    "placebo": {
+        "": {}
+    },
+    "simplepartspack": {
+        "": {}
+    },
+    "srparasites": {
+        "": {}
+    },
+    "scapeandrunvaccine": {
+        "": {}
+    },
+    "synlib": {
+        "": {}
+    },
+    "tickdynamic": {
+        "": {}
+    },
+    "vs_world": {
+        "": {}
+    },
+    "vs_control": {
+        "": {}
+    },
+    "matteroverdrive": {
+        "": {}
+    },
+    "warpdrive": {
+        "": {}
+    },
+    "ww2pack": {
+        "": {}
+    },
+    "wyrmsofnyrus": {
+        "": {}
+    },
+    "primal_tech": {
+        "": {}
+    },
+    "": {
+        "": {}
+    }
+}

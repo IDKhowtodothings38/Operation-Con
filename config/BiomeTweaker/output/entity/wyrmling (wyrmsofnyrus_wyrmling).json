@@ -1,0 +1,6 @@
+
+{
+  "Name": "wyrmling",
+  "Registry ID": "wyrmsofnyrus:wyrmling",
+  "Class": "com.vetpetmon.wyrmsofnyrus.entity.wyrms.EntityWyrmling"
+}

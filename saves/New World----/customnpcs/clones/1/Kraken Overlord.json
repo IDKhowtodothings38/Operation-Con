@@ -1,0 +1,3021 @@
+{
+    "id": "customnpcs:customnpc",
+    "Motion": [
+        0.02956002814796756d,
+        -0.0784000015258789d,
+        -0.045196132306193695d
+    ],
+    "Rotation": [
+        210.3685f,
+        0.0f
+    ],
+    "FallDistance": 0.0f,
+    "Fire": -1s,
+    "Air": 300s,
+    "OnGround": 1b,
+    "Dimension": 0,
+    "Invulnerable": 0b,
+    "PortalCooldown": 0,
+    "UpdateBlocked": 0b,
+    "ForgeData": {
+        "srpcothimmunity": 1,
+        "cnpcmarkdata": {
+            "marks": [
+            ]
+        }
+    },
+    "ForgeCaps": {
+        "llibrary:extendedentitydatacapability": {
+        }
+    },
+    "Health": 800.0f,
+    "HurtTime": 0s,
+    "HurtByTimestamp": 45,
+    "DeathTime": 0s,
+    "AbsorptionAmount": 0.0f,
+    "Attributes": [
+        {
+            "Name": "generic.maxHealth",
+            "Base": 800.0d
+        },
+        {
+            "Name": "generic.knockbackResistance",
+            "Base": 0.0d
+        },
+        {
+            "Name": "generic.movementSpeed",
+            "Base": 0.30000001192092896d
+        },
+        {
+            "Name": "generic.armor",
+            "Base": 0.0d
+        },
+        {
+            "Name": "generic.armorToughness",
+            "Base": 0.0d
+        },
+        {
+            "Name": "forge.swimSpeed",
+            "Base": 1.0d
+        },
+        {
+            "Name": "generic.followRange",
+            "Base": 128.0d
+        },
+        {
+            "Name": "generic.attackDamage",
+            "Base": 35.0d
+        },
+        {
+            "Name": "generic.flyingSpeed",
+            "Base": 0.6000000238418579d
+        }
+    ],
+    "FallFlying": 0b,
+    "CanPickUpLoot": 0b,
+    "PersistenceRequired": 0b,
+    "ArmorItems": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "HandItems": [
+        {
+        },
+        {
+        }
+    ],
+    "ArmorDropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "HandDropChances": [
+        0.085f,
+        0.085f
+    ],
+    "Leashed": 0b,
+    "LeftHanded": 0b,
+    "Name": "Kraken Overlord",
+    "MarkovGeneratorId": 4,
+    "MarkovGender": 0,
+    "Title": "",
+    "SkinUrl": "",
+    "Texture": "matteroverdrive:textures/entities/android_colorless.png",
+    "CloakTexture": "",
+    "GlowTexture": "",
+    "UsingSkinUrl": 0b,
+    "Size": 8,
+    "ShowName": 1,
+    "SkinColor": 16777215,
+    "NpcVisible": 0,
+    "NoLivingAnimation": 0b,
+    "IsStatue": 0b,
+    "BossBar": 1b,
+    "BossColor": 1,
+    "Resistances": {
+        "Knockback": 2.0f,
+        "Arrow": 1.9014084f,
+        "Melee": 1.3521127f,
+        "Explosion": 1.9014084f
+    },
+    "MaxHealth": 800,
+    "AggroRange": 64,
+    "HideBodyWhenKilled": 0b,
+    "RespawnTime": 0,
+    "SpawnCycle": 3,
+    "CreatureType": 0,
+    "HealthRegen": 1,
+    "CombatRegen": 1,
+    "ImmuneToFire": 1b,
+    "PotionImmune": 1b,
+    "CanDrown": 0b,
+    "BurnInSun": 0b,
+    "NoFallDamage": 1b,
+    "IgnoreCobweb": 1b,
+    "AttackStrenght": 35,
+    "AttackSpeed": 50,
+    "AttackRange": 5,
+    "KnockBack": 4,
+    "PotionEffect": 8,
+    "PotionDuration": 8,
+    "PotionAmp": 2,
+    "BurstCount": 3,
+    "pSpeed": 1,
+    "pDamage": 20,
+    "pImpact": 3,
+    "pSize": 8,
+    "pArea": 2,
+    "pTrail": 1,
+    "MaxFiringRange": 48,
+    "FireRate": 10,
+    "minDelay": 80,
+    "maxDelay": 120,
+    "ShotCount": 5,
+    "Accuracy": 65,
+    "pRender3D": 1b,
+    "pSpin": 0b,
+    "pStick": 0b,
+    "pPhysics": 0b,
+    "pXlr8": 1b,
+    "pGlows": 0b,
+    "AimWhileShooting": 1b,
+    "pEffect": 1,
+    "pDur": 10,
+    "pEffAmp": 0,
+    "FiringSound": "matteroverdrive:weapons.bolt_hit",
+    "HitSound": "matteroverdrive:weapons.laser_fire",
+    "GroundSound": "openmodularturrets:rail_gun_hit",
+    "FireIndirect": 0,
+    "DistanceToMelee": 5,
+    "CanSwim": 1b,
+    "ReactsToFire": 0b,
+    "AvoidsWater": 0b,
+    "AvoidsSun": 0b,
+    "ReturnToStart": 1b,
+    "OnAttack": 0,
+    "DoorInteract": 1,
+    "FindShelter": 2,
+    "DirectLOS": 1b,
+    "CanLeap": 0b,
+    "CanSprint": 0b,
+    "TacticalRadius": 8,
+    "MovingPause": 0b,
+    "npcInteracting": 0b,
+    "stopAndInteract": 1b,
+    "MoveState": 0,
+    "StandingState": 0,
+    "MovingState": 1,
+    "TacticalVariant": 0,
+    "MovementType": 0,
+    "Orientation": 0,
+    "PositionOffsetX": 5.0f,
+    "PositionOffsetY": 5.0f,
+    "PositionOffsetZ": 5.0f,
+    "WalkingRange": 99,
+    "MoveSpeed": 6,
+    "MovingPos": 0,
+    "MovingPatern": 0,
+    "AttackInvisible": 0b,
+    "Scripts": [
+    ],
+    "ScriptLanguage": "ECMAScript",
+    "ScriptEnabled": 0b,
+    "NpcsTimers": [
+    ],
+    "NpcLines": {
+        "Lines": [
+            {
+                "Slot": 0,
+                "Line": "BEEBOOP",
+                "Song": ""
+            }
+        ]
+    },
+    "NpcKilledLines": {
+        "Lines": [
+            {
+                "Slot": 0,
+                "Line": "Activate Protocol 430",
+                "Song": ""
+            }
+        ]
+    },
+    "NpcInteractLines": {
+        "Lines": [
+            {
+                "Slot": 0,
+                "Line": "BOOP",
+                "Song": ""
+            }
+        ]
+    },
+    "NpcAttackLines": {
+        "Lines": [
+            {
+                "Slot": 0,
+                "Line": "BEEEP",
+                "Song": ""
+            }
+        ]
+    },
+    "NpcKillLines": {
+        "Lines": [
+        ]
+    },
+    "NpcInteractNPCLines": {
+        "Lines": [
+        ]
+    },
+    "OrderedLines": 0b,
+    "NpcIdleSound": "matteroverdrive:android.shockwave",
+    "NpcAngrySound": "matteroverdrive:android.shield_power_up",
+    "NpcHurtSound": "matteroverdrive:force_field",
+    "NpcDeathSound": "minecraft:entity.generic.explode",
+    "NpcStepSound": "",
+    "FactionID": 4,
+    "AttackOtherFactions": 1b,
+    "DefendFaction": 1b,
+    "DisablePitch": 0b,
+    "Role": 0,
+    "NpcJob": 6,
+    "FactionPoints": {
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "OptionFaction2Points": 100,
+        "DecreaseFaction1Points": 0b,
+        "DecreaseFaction2Points": 0b
+    },
+    "NPCDialogOptions": [
+    ],
+    "NpcScenes": {
+        "Scenes": [
+        ]
+    },
+    "SpawnerNBT1": {
+        "id": "customnpcs:customnpc",
+        "Motion": [
+            0.0d,
+            -0.05376277666810639d,
+            0.0d
+        ],
+        "Rotation": [
+            -274.43848f,
+            30.805658f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 0b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+            "srpcothimmunity": 1,
+            "cnpcmarkdata": {
+                "marks": [
+                ]
+            }
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 24.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 435,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 24.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 0.0d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.3499999940395355d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 0.0d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 128.0d
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 5.0d
+            },
+            {
+                "Name": "generic.flyingSpeed",
+                "Base": 0.699999988079071d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 0b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "Name": "Drone",
+        "MarkovGeneratorId": 5,
+        "MarkovGender": 0,
+        "Title": "",
+        "SkinUrl": "",
+        "Texture": "matteroverdrive:textures/entities/drone_default.png",
+        "CloakTexture": "",
+        "GlowTexture": "",
+        "UsingSkinUrl": 0b,
+        "Size": 5,
+        "ShowName": 1,
+        "SkinColor": 16777215,
+        "NpcVisible": 0,
+        "NoLivingAnimation": 0b,
+        "IsStatue": 0b,
+        "BossBar": 0b,
+        "BossColor": 1,
+        "Resistances": {
+            "Knockback": 0.69014084f,
+            "Arrow": 1.3098592f,
+            "Melee": 0.69014084f,
+            "Explosion": 0.0f
+        },
+        "MaxHealth": 25,
+        "AggroRange": 64,
+        "HideBodyWhenKilled": 0b,
+        "RespawnTime": 0,
+        "SpawnCycle": 3,
+        "CreatureType": 0,
+        "HealthRegen": 1,
+        "CombatRegen": 1,
+        "ImmuneToFire": 0b,
+        "PotionImmune": 0b,
+        "CanDrown": 0b,
+        "BurnInSun": 0b,
+        "NoFallDamage": 1b,
+        "IgnoreCobweb": 1b,
+        "AttackStrenght": 5,
+        "AttackSpeed": 20,
+        "AttackRange": 2,
+        "KnockBack": 0,
+        "PotionEffect": 0,
+        "PotionDuration": 5,
+        "PotionAmp": 0,
+        "BurstCount": 30,
+        "pSpeed": 5,
+        "pDamage": 5,
+        "pImpact": 0,
+        "pSize": 5,
+        "pArea": 0,
+        "pTrail": 4,
+        "MaxFiringRange": 64,
+        "FireRate": 1,
+        "minDelay": 120,
+        "maxDelay": 250,
+        "ShotCount": 1,
+        "Accuracy": 57,
+        "pRender3D": 1b,
+        "pSpin": 0b,
+        "pStick": 0b,
+        "pPhysics": 0b,
+        "pXlr8": 1b,
+        "pGlows": 0b,
+        "AimWhileShooting": 1b,
+        "pEffect": 7,
+        "pDur": 5,
+        "pEffAmp": 0,
+        "FiringSound": "matteroverdrive:weapons.laser_fire",
+        "HitSound": "matteroverdrive:weapons.laser_ricochet",
+        "GroundSound": "minecraft:block.stone.break",
+        "FireIndirect": 0,
+        "DistanceToMelee": 0,
+        "CanSwim": 1b,
+        "ReactsToFire": 0b,
+        "AvoidsWater": 0b,
+        "AvoidsSun": 0b,
+        "ReturnToStart": 1b,
+        "OnAttack": 0,
+        "DoorInteract": 1,
+        "FindShelter": 2,
+        "DirectLOS": 0b,
+        "CanLeap": 0b,
+        "CanSprint": 0b,
+        "TacticalRadius": 64,
+        "MovingPause": 0b,
+        "npcInteracting": 0b,
+        "stopAndInteract": 0b,
+        "MoveState": 0,
+        "StandingState": 0,
+        "MovingState": 1,
+        "TacticalVariant": 3,
+        "MovementType": 1,
+        "Orientation": 0,
+        "PositionOffsetX": 5.0f,
+        "PositionOffsetY": 5.0f,
+        "PositionOffsetZ": 5.0f,
+        "WalkingRange": 99,
+        "MoveSpeed": 7,
+        "MovingPos": 0,
+        "MovingPatern": 0,
+        "AttackInvisible": 0b,
+        "Scripts": [
+        ],
+        "ScriptLanguage": "ECMAScript",
+        "ScriptEnabled": 0b,
+        "NpcsTimers": [
+        ],
+        "NpcLines": {
+            "Lines": [
+            ]
+        },
+        "NpcKilledLines": {
+            "Lines": [
+            ]
+        },
+        "NpcInteractLines": {
+            "Lines": [
+                {
+                    "Slot": 0,
+                    "Line": "Hello @p",
+                    "Song": ""
+                }
+            ]
+        },
+        "NpcAttackLines": {
+            "Lines": [
+            ]
+        },
+        "NpcKillLines": {
+            "Lines": [
+            ]
+        },
+        "NpcInteractNPCLines": {
+            "Lines": [
+            ]
+        },
+        "OrderedLines": 0b,
+        "NpcIdleSound": "matteroverdrive:transporter",
+        "NpcAngrySound": "matteroverdrive:android.shield_power_up",
+        "NpcHurtSound": "matteroverdrive:android.shockwave",
+        "NpcDeathSound": "matteroverdrive:anomaly_consume",
+        "NpcStepSound": "",
+        "FactionID": 4,
+        "AttackOtherFactions": 1b,
+        "DefendFaction": 1b,
+        "DisablePitch": 0b,
+        "Role": 0,
+        "NpcJob": 0,
+        "FactionPoints": {
+            "OptionFactions1": -1,
+            "OptionFactions2": -1,
+            "OptionFaction1Points": 100,
+            "OptionFaction2Points": 100,
+            "DecreaseFaction1Points": 0b,
+            "DecreaseFaction2Points": 0b
+        },
+        "NPCDialogOptions": [
+        ],
+        "NpcScenes": {
+            "Scenes": [
+            ]
+        },
+        "MinExp": 0,
+        "MaxExp": 0,
+        "NpcInv": [
+        ],
+        "Armor": [
+        ],
+        "Weapons": [
+            {
+                "Slot": 1b,
+                "id": "matteroverdrive:gravitational_anomaly",
+                "Count": 1,
+                "Damage": 0s,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                }
+            }
+        ],
+        "DropChance": [
+            {
+                "Slot": 0,
+                "Integer": 100
+            },
+            {
+                "Slot": 1,
+                "Integer": 100
+            },
+            {
+                "Slot": 2,
+                "Integer": 100
+            },
+            {
+                "Slot": 3,
+                "Integer": 100
+            },
+            {
+                "Slot": 4,
+                "Integer": 100
+            },
+            {
+                "Slot": 5,
+                "Integer": 100
+            },
+            {
+                "Slot": 6,
+                "Integer": 100
+            },
+            {
+                "Slot": 7,
+                "Integer": 100
+            },
+            {
+                "Slot": 8,
+                "Integer": 100
+            }
+        ],
+        "LootMode": 0,
+        "TransformIsActive": 0b,
+        "TransformHasDisplay": 0b,
+        "TransformHasAI": 0b,
+        "TransformHasAdvanced": 0b,
+        "TransformHasInv": 0b,
+        "TransformHasStats": 0b,
+        "TransformHasRole": 0b,
+        "TransformHasJob": 0b,
+        "TransformEditingModus": 0b,
+        "KilledTime": 0L,
+        "TotalTicksAlive": 0L,
+        "ModRev": 18,
+        "LinkedNpcName": "",
+        "NpcModelData": {
+            "EntityClass": "matteroverdrive.entity.EntityDrone",
+            "ArmsConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": -0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "BodyConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "LegsConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.012000002f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "HeadConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "LegParts": {
+                "Type": 0b,
+                "Color": 16777215,
+                "PlayerTexture": 0b,
+                "Pattern": 0b
+            },
+            "Eyes": {
+                "Type": 0b,
+                "Color": 4882687,
+                "PlayerTexture": 0b,
+                "Pattern": 0b,
+                "Glint": 1b,
+                "SkinColor": 11830381,
+                "BrowColor": 5982516,
+                "PositionY": 1,
+                "BrowThickness": 4
+            },
+            "ExtraData": {
+            },
+            "Parts": [
+            ]
+        }
+    },
+    "SpawnerNBT2": {
+        "id": "customnpcs:customnpc",
+        "Motion": [
+            0.0d,
+            -0.05376277666810639d,
+            0.0d
+        ],
+        "Rotation": [
+            -274.43848f,
+            30.805658f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 0b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+            "srpcothimmunity": 1,
+            "cnpcmarkdata": {
+                "marks": [
+                ]
+            }
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 24.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 435,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 24.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 0.0d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.3499999940395355d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 0.0d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 128.0d
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 5.0d
+            },
+            {
+                "Name": "generic.flyingSpeed",
+                "Base": 0.699999988079071d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 0b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "Name": "Drone",
+        "MarkovGeneratorId": 5,
+        "MarkovGender": 0,
+        "Title": "",
+        "SkinUrl": "",
+        "Texture": "matteroverdrive:textures/entities/drone_default.png",
+        "CloakTexture": "",
+        "GlowTexture": "",
+        "UsingSkinUrl": 0b,
+        "Size": 5,
+        "ShowName": 1,
+        "SkinColor": 16777215,
+        "NpcVisible": 0,
+        "NoLivingAnimation": 0b,
+        "IsStatue": 0b,
+        "BossBar": 0b,
+        "BossColor": 1,
+        "Resistances": {
+            "Knockback": 0.69014084f,
+            "Arrow": 1.3098592f,
+            "Melee": 0.69014084f,
+            "Explosion": 0.0f
+        },
+        "MaxHealth": 25,
+        "AggroRange": 64,
+        "HideBodyWhenKilled": 0b,
+        "RespawnTime": 0,
+        "SpawnCycle": 3,
+        "CreatureType": 0,
+        "HealthRegen": 1,
+        "CombatRegen": 1,
+        "ImmuneToFire": 0b,
+        "PotionImmune": 0b,
+        "CanDrown": 0b,
+        "BurnInSun": 0b,
+        "NoFallDamage": 1b,
+        "IgnoreCobweb": 1b,
+        "AttackStrenght": 5,
+        "AttackSpeed": 20,
+        "AttackRange": 2,
+        "KnockBack": 0,
+        "PotionEffect": 0,
+        "PotionDuration": 5,
+        "PotionAmp": 0,
+        "BurstCount": 30,
+        "pSpeed": 5,
+        "pDamage": 5,
+        "pImpact": 0,
+        "pSize": 5,
+        "pArea": 0,
+        "pTrail": 4,
+        "MaxFiringRange": 64,
+        "FireRate": 1,
+        "minDelay": 120,
+        "maxDelay": 250,
+        "ShotCount": 1,
+        "Accuracy": 57,
+        "pRender3D": 1b,
+        "pSpin": 0b,
+        "pStick": 0b,
+        "pPhysics": 0b,
+        "pXlr8": 1b,
+        "pGlows": 0b,
+        "AimWhileShooting": 1b,
+        "pEffect": 7,
+        "pDur": 5,
+        "pEffAmp": 0,
+        "FiringSound": "matteroverdrive:weapons.laser_fire",
+        "HitSound": "matteroverdrive:weapons.laser_ricochet",
+        "GroundSound": "minecraft:block.stone.break",
+        "FireIndirect": 0,
+        "DistanceToMelee": 0,
+        "CanSwim": 1b,
+        "ReactsToFire": 0b,
+        "AvoidsWater": 0b,
+        "AvoidsSun": 0b,
+        "ReturnToStart": 1b,
+        "OnAttack": 0,
+        "DoorInteract": 1,
+        "FindShelter": 2,
+        "DirectLOS": 0b,
+        "CanLeap": 0b,
+        "CanSprint": 0b,
+        "TacticalRadius": 64,
+        "MovingPause": 0b,
+        "npcInteracting": 0b,
+        "stopAndInteract": 0b,
+        "MoveState": 0,
+        "StandingState": 0,
+        "MovingState": 1,
+        "TacticalVariant": 3,
+        "MovementType": 1,
+        "Orientation": 0,
+        "PositionOffsetX": 5.0f,
+        "PositionOffsetY": 5.0f,
+        "PositionOffsetZ": 5.0f,
+        "WalkingRange": 99,
+        "MoveSpeed": 7,
+        "MovingPos": 0,
+        "MovingPatern": 0,
+        "AttackInvisible": 0b,
+        "Scripts": [
+        ],
+        "ScriptLanguage": "ECMAScript",
+        "ScriptEnabled": 0b,
+        "NpcsTimers": [
+        ],
+        "NpcLines": {
+            "Lines": [
+            ]
+        },
+        "NpcKilledLines": {
+            "Lines": [
+            ]
+        },
+        "NpcInteractLines": {
+            "Lines": [
+                {
+                    "Slot": 0,
+                    "Line": "Hello @p",
+                    "Song": ""
+                }
+            ]
+        },
+        "NpcAttackLines": {
+            "Lines": [
+            ]
+        },
+        "NpcKillLines": {
+            "Lines": [
+            ]
+        },
+        "NpcInteractNPCLines": {
+            "Lines": [
+            ]
+        },
+        "OrderedLines": 0b,
+        "NpcIdleSound": "matteroverdrive:transporter",
+        "NpcAngrySound": "matteroverdrive:android.shield_power_up",
+        "NpcHurtSound": "matteroverdrive:android.shockwave",
+        "NpcDeathSound": "matteroverdrive:anomaly_consume",
+        "NpcStepSound": "",
+        "FactionID": 4,
+        "AttackOtherFactions": 1b,
+        "DefendFaction": 1b,
+        "DisablePitch": 0b,
+        "Role": 0,
+        "NpcJob": 0,
+        "FactionPoints": {
+            "OptionFactions1": -1,
+            "OptionFactions2": -1,
+            "OptionFaction1Points": 100,
+            "OptionFaction2Points": 100,
+            "DecreaseFaction1Points": 0b,
+            "DecreaseFaction2Points": 0b
+        },
+        "NPCDialogOptions": [
+        ],
+        "NpcScenes": {
+            "Scenes": [
+            ]
+        },
+        "MinExp": 0,
+        "MaxExp": 0,
+        "NpcInv": [
+        ],
+        "Armor": [
+        ],
+        "Weapons": [
+            {
+                "Slot": 1b,
+                "id": "matteroverdrive:gravitational_anomaly",
+                "Count": 1,
+                "Damage": 0s,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                }
+            }
+        ],
+        "DropChance": [
+            {
+                "Slot": 0,
+                "Integer": 100
+            },
+            {
+                "Slot": 1,
+                "Integer": 100
+            },
+            {
+                "Slot": 2,
+                "Integer": 100
+            },
+            {
+                "Slot": 3,
+                "Integer": 100
+            },
+            {
+                "Slot": 4,
+                "Integer": 100
+            },
+            {
+                "Slot": 5,
+                "Integer": 100
+            },
+            {
+                "Slot": 6,
+                "Integer": 100
+            },
+            {
+                "Slot": 7,
+                "Integer": 100
+            },
+            {
+                "Slot": 8,
+                "Integer": 100
+            }
+        ],
+        "LootMode": 0,
+        "TransformIsActive": 0b,
+        "TransformHasDisplay": 0b,
+        "TransformHasAI": 0b,
+        "TransformHasAdvanced": 0b,
+        "TransformHasInv": 0b,
+        "TransformHasStats": 0b,
+        "TransformHasRole": 0b,
+        "TransformHasJob": 0b,
+        "TransformEditingModus": 0b,
+        "KilledTime": 0L,
+        "TotalTicksAlive": 0L,
+        "ModRev": 18,
+        "LinkedNpcName": "",
+        "NpcModelData": {
+            "EntityClass": "matteroverdrive.entity.EntityDrone",
+            "ArmsConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": -0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "BodyConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "LegsConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.012000002f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "HeadConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "LegParts": {
+                "Type": 0b,
+                "Color": 16777215,
+                "PlayerTexture": 0b,
+                "Pattern": 0b
+            },
+            "Eyes": {
+                "Type": 0b,
+                "Color": 4882687,
+                "PlayerTexture": 0b,
+                "Pattern": 0b,
+                "Glint": 1b,
+                "SkinColor": 11830381,
+                "BrowColor": 5982516,
+                "PositionY": 1,
+                "BrowThickness": 4
+            },
+            "ExtraData": {
+            },
+            "Parts": [
+            ]
+        }
+    },
+    "SpawnerNBT3": {
+        "id": "customnpcs:customnpc",
+        "Motion": [
+            0.0d,
+            -0.05376277666810639d,
+            0.0d
+        ],
+        "Rotation": [
+            -274.43848f,
+            30.805658f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 0b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+            "srpcothimmunity": 1,
+            "cnpcmarkdata": {
+                "marks": [
+                ]
+            }
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 24.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 435,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 24.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 0.0d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.3499999940395355d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 0.0d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 128.0d
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 5.0d
+            },
+            {
+                "Name": "generic.flyingSpeed",
+                "Base": 0.699999988079071d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 0b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "Name": "Drone",
+        "MarkovGeneratorId": 5,
+        "MarkovGender": 0,
+        "Title": "",
+        "SkinUrl": "",
+        "Texture": "matteroverdrive:textures/entities/drone_default.png",
+        "CloakTexture": "",
+        "GlowTexture": "",
+        "UsingSkinUrl": 0b,
+        "Size": 5,
+        "ShowName": 1,
+        "SkinColor": 16777215,
+        "NpcVisible": 0,
+        "NoLivingAnimation": 0b,
+        "IsStatue": 0b,
+        "BossBar": 0b,
+        "BossColor": 1,
+        "Resistances": {
+            "Knockback": 0.69014084f,
+            "Arrow": 1.3098592f,
+            "Melee": 0.69014084f,
+            "Explosion": 0.0f
+        },
+        "MaxHealth": 25,
+        "AggroRange": 64,
+        "HideBodyWhenKilled": 0b,
+        "RespawnTime": 0,
+        "SpawnCycle": 3,
+        "CreatureType": 0,
+        "HealthRegen": 1,
+        "CombatRegen": 1,
+        "ImmuneToFire": 0b,
+        "PotionImmune": 0b,
+        "CanDrown": 0b,
+        "BurnInSun": 0b,
+        "NoFallDamage": 1b,
+        "IgnoreCobweb": 1b,
+        "AttackStrenght": 5,
+        "AttackSpeed": 20,
+        "AttackRange": 2,
+        "KnockBack": 0,
+        "PotionEffect": 0,
+        "PotionDuration": 5,
+        "PotionAmp": 0,
+        "BurstCount": 30,
+        "pSpeed": 5,
+        "pDamage": 5,
+        "pImpact": 0,
+        "pSize": 5,
+        "pArea": 0,
+        "pTrail": 4,
+        "MaxFiringRange": 64,
+        "FireRate": 1,
+        "minDelay": 120,
+        "maxDelay": 250,
+        "ShotCount": 1,
+        "Accuracy": 57,
+        "pRender3D": 1b,
+        "pSpin": 0b,
+        "pStick": 0b,
+        "pPhysics": 0b,
+        "pXlr8": 1b,
+        "pGlows": 0b,
+        "AimWhileShooting": 1b,
+        "pEffect": 7,
+        "pDur": 5,
+        "pEffAmp": 0,
+        "FiringSound": "matteroverdrive:weapons.laser_fire",
+        "HitSound": "matteroverdrive:weapons.laser_ricochet",
+        "GroundSound": "minecraft:block.stone.break",
+        "FireIndirect": 0,
+        "DistanceToMelee": 0,
+        "CanSwim": 1b,
+        "ReactsToFire": 0b,
+        "AvoidsWater": 0b,
+        "AvoidsSun": 0b,
+        "ReturnToStart": 1b,
+        "OnAttack": 0,
+        "DoorInteract": 1,
+        "FindShelter": 2,
+        "DirectLOS": 0b,
+        "CanLeap": 0b,
+        "CanSprint": 0b,
+        "TacticalRadius": 64,
+        "MovingPause": 0b,
+        "npcInteracting": 0b,
+        "stopAndInteract": 0b,
+        "MoveState": 0,
+        "StandingState": 0,
+        "MovingState": 1,
+        "TacticalVariant": 3,
+        "MovementType": 1,
+        "Orientation": 0,
+        "PositionOffsetX": 5.0f,
+        "PositionOffsetY": 5.0f,
+        "PositionOffsetZ": 5.0f,
+        "WalkingRange": 99,
+        "MoveSpeed": 7,
+        "MovingPos": 0,
+        "MovingPatern": 0,
+        "AttackInvisible": 0b,
+        "Scripts": [
+        ],
+        "ScriptLanguage": "ECMAScript",
+        "ScriptEnabled": 0b,
+        "NpcsTimers": [
+        ],
+        "NpcLines": {
+            "Lines": [
+            ]
+        },
+        "NpcKilledLines": {
+            "Lines": [
+            ]
+        },
+        "NpcInteractLines": {
+            "Lines": [
+                {
+                    "Slot": 0,
+                    "Line": "Hello @p",
+                    "Song": ""
+                }
+            ]
+        },
+        "NpcAttackLines": {
+            "Lines": [
+            ]
+        },
+        "NpcKillLines": {
+            "Lines": [
+            ]
+        },
+        "NpcInteractNPCLines": {
+            "Lines": [
+            ]
+        },
+        "OrderedLines": 0b,
+        "NpcIdleSound": "matteroverdrive:transporter",
+        "NpcAngrySound": "matteroverdrive:android.shield_power_up",
+        "NpcHurtSound": "matteroverdrive:android.shockwave",
+        "NpcDeathSound": "matteroverdrive:anomaly_consume",
+        "NpcStepSound": "",
+        "FactionID": 4,
+        "AttackOtherFactions": 1b,
+        "DefendFaction": 1b,
+        "DisablePitch": 0b,
+        "Role": 0,
+        "NpcJob": 0,
+        "FactionPoints": {
+            "OptionFactions1": -1,
+            "OptionFactions2": -1,
+            "OptionFaction1Points": 100,
+            "OptionFaction2Points": 100,
+            "DecreaseFaction1Points": 0b,
+            "DecreaseFaction2Points": 0b
+        },
+        "NPCDialogOptions": [
+        ],
+        "NpcScenes": {
+            "Scenes": [
+            ]
+        },
+        "MinExp": 0,
+        "MaxExp": 0,
+        "NpcInv": [
+        ],
+        "Armor": [
+        ],
+        "Weapons": [
+            {
+                "Slot": 1b,
+                "id": "matteroverdrive:gravitational_anomaly",
+                "Count": 1,
+                "Damage": 0s,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                }
+            }
+        ],
+        "DropChance": [
+            {
+                "Slot": 0,
+                "Integer": 100
+            },
+            {
+                "Slot": 1,
+                "Integer": 100
+            },
+            {
+                "Slot": 2,
+                "Integer": 100
+            },
+            {
+                "Slot": 3,
+                "Integer": 100
+            },
+            {
+                "Slot": 4,
+                "Integer": 100
+            },
+            {
+                "Slot": 5,
+                "Integer": 100
+            },
+            {
+                "Slot": 6,
+                "Integer": 100
+            },
+            {
+                "Slot": 7,
+                "Integer": 100
+            },
+            {
+                "Slot": 8,
+                "Integer": 100
+            }
+        ],
+        "LootMode": 0,
+        "TransformIsActive": 0b,
+        "TransformHasDisplay": 0b,
+        "TransformHasAI": 0b,
+        "TransformHasAdvanced": 0b,
+        "TransformHasInv": 0b,
+        "TransformHasStats": 0b,
+        "TransformHasRole": 0b,
+        "TransformHasJob": 0b,
+        "TransformEditingModus": 0b,
+        "KilledTime": 0L,
+        "TotalTicksAlive": 0L,
+        "ModRev": 18,
+        "LinkedNpcName": "",
+        "NpcModelData": {
+            "EntityClass": "matteroverdrive.entity.EntityDrone",
+            "ArmsConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": -0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "BodyConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "LegsConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.012000002f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "HeadConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "LegParts": {
+                "Type": 0b,
+                "Color": 16777215,
+                "PlayerTexture": 0b,
+                "Pattern": 0b
+            },
+            "Eyes": {
+                "Type": 0b,
+                "Color": 4882687,
+                "PlayerTexture": 0b,
+                "Pattern": 0b,
+                "Glint": 1b,
+                "SkinColor": 11830381,
+                "BrowColor": 5982516,
+                "PositionY": 1,
+                "BrowThickness": 4
+            },
+            "ExtraData": {
+            },
+            "Parts": [
+            ]
+        }
+    },
+    "SpawnerNBT4": {
+        "id": "customnpcs:customnpc",
+        "Motion": [
+            0.0d,
+            -0.05376277666810639d,
+            0.0d
+        ],
+        "Rotation": [
+            -274.43848f,
+            30.805658f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 0b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+            "srpcothimmunity": 1,
+            "cnpcmarkdata": {
+                "marks": [
+                ]
+            }
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 24.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 435,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 24.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 0.0d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.3499999940395355d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 0.0d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 128.0d
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 5.0d
+            },
+            {
+                "Name": "generic.flyingSpeed",
+                "Base": 0.699999988079071d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 0b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "Name": "Drone",
+        "MarkovGeneratorId": 5,
+        "MarkovGender": 0,
+        "Title": "",
+        "SkinUrl": "",
+        "Texture": "matteroverdrive:textures/entities/drone_default.png",
+        "CloakTexture": "",
+        "GlowTexture": "",
+        "UsingSkinUrl": 0b,
+        "Size": 5,
+        "ShowName": 1,
+        "SkinColor": 16777215,
+        "NpcVisible": 0,
+        "NoLivingAnimation": 0b,
+        "IsStatue": 0b,
+        "BossBar": 0b,
+        "BossColor": 1,
+        "Resistances": {
+            "Knockback": 0.69014084f,
+            "Arrow": 1.3098592f,
+            "Melee": 0.69014084f,
+            "Explosion": 0.0f
+        },
+        "MaxHealth": 25,
+        "AggroRange": 64,
+        "HideBodyWhenKilled": 0b,
+        "RespawnTime": 0,
+        "SpawnCycle": 3,
+        "CreatureType": 0,
+        "HealthRegen": 1,
+        "CombatRegen": 1,
+        "ImmuneToFire": 0b,
+        "PotionImmune": 0b,
+        "CanDrown": 0b,
+        "BurnInSun": 0b,
+        "NoFallDamage": 1b,
+        "IgnoreCobweb": 1b,
+        "AttackStrenght": 5,
+        "AttackSpeed": 20,
+        "AttackRange": 2,
+        "KnockBack": 0,
+        "PotionEffect": 0,
+        "PotionDuration": 5,
+        "PotionAmp": 0,
+        "BurstCount": 30,
+        "pSpeed": 5,
+        "pDamage": 5,
+        "pImpact": 0,
+        "pSize": 5,
+        "pArea": 0,
+        "pTrail": 4,
+        "MaxFiringRange": 64,
+        "FireRate": 1,
+        "minDelay": 120,
+        "maxDelay": 250,
+        "ShotCount": 1,
+        "Accuracy": 57,
+        "pRender3D": 1b,
+        "pSpin": 0b,
+        "pStick": 0b,
+        "pPhysics": 0b,
+        "pXlr8": 1b,
+        "pGlows": 0b,
+        "AimWhileShooting": 1b,
+        "pEffect": 7,
+        "pDur": 5,
+        "pEffAmp": 0,
+        "FiringSound": "matteroverdrive:weapons.laser_fire",
+        "HitSound": "matteroverdrive:weapons.laser_ricochet",
+        "GroundSound": "minecraft:block.stone.break",
+        "FireIndirect": 0,
+        "DistanceToMelee": 0,
+        "CanSwim": 1b,
+        "ReactsToFire": 0b,
+        "AvoidsWater": 0b,
+        "AvoidsSun": 0b,
+        "ReturnToStart": 1b,
+        "OnAttack": 0,
+        "DoorInteract": 1,
+        "FindShelter": 2,
+        "DirectLOS": 0b,
+        "CanLeap": 0b,
+        "CanSprint": 0b,
+        "TacticalRadius": 64,
+        "MovingPause": 0b,
+        "npcInteracting": 0b,
+        "stopAndInteract": 0b,
+        "MoveState": 0,
+        "StandingState": 0,
+        "MovingState": 1,
+        "TacticalVariant": 3,
+        "MovementType": 1,
+        "Orientation": 0,
+        "PositionOffsetX": 5.0f,
+        "PositionOffsetY": 5.0f,
+        "PositionOffsetZ": 5.0f,
+        "WalkingRange": 99,
+        "MoveSpeed": 7,
+        "MovingPos": 0,
+        "MovingPatern": 0,
+        "AttackInvisible": 0b,
+        "Scripts": [
+        ],
+        "ScriptLanguage": "ECMAScript",
+        "ScriptEnabled": 0b,
+        "NpcsTimers": [
+        ],
+        "NpcLines": {
+            "Lines": [
+            ]
+        },
+        "NpcKilledLines": {
+            "Lines": [
+            ]
+        },
+        "NpcInteractLines": {
+            "Lines": [
+                {
+                    "Slot": 0,
+                    "Line": "Hello @p",
+                    "Song": ""
+                }
+            ]
+        },
+        "NpcAttackLines": {
+            "Lines": [
+            ]
+        },
+        "NpcKillLines": {
+            "Lines": [
+            ]
+        },
+        "NpcInteractNPCLines": {
+            "Lines": [
+            ]
+        },
+        "OrderedLines": 0b,
+        "NpcIdleSound": "matteroverdrive:transporter",
+        "NpcAngrySound": "matteroverdrive:android.shield_power_up",
+        "NpcHurtSound": "matteroverdrive:android.shockwave",
+        "NpcDeathSound": "matteroverdrive:anomaly_consume",
+        "NpcStepSound": "",
+        "FactionID": 4,
+        "AttackOtherFactions": 1b,
+        "DefendFaction": 1b,
+        "DisablePitch": 0b,
+        "Role": 0,
+        "NpcJob": 0,
+        "FactionPoints": {
+            "OptionFactions1": -1,
+            "OptionFactions2": -1,
+            "OptionFaction1Points": 100,
+            "OptionFaction2Points": 100,
+            "DecreaseFaction1Points": 0b,
+            "DecreaseFaction2Points": 0b
+        },
+        "NPCDialogOptions": [
+        ],
+        "NpcScenes": {
+            "Scenes": [
+            ]
+        },
+        "MinExp": 0,
+        "MaxExp": 0,
+        "NpcInv": [
+        ],
+        "Armor": [
+        ],
+        "Weapons": [
+            {
+                "Slot": 1b,
+                "id": "matteroverdrive:gravitational_anomaly",
+                "Count": 1,
+                "Damage": 0s,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                }
+            }
+        ],
+        "DropChance": [
+            {
+                "Slot": 0,
+                "Integer": 100
+            },
+            {
+                "Slot": 1,
+                "Integer": 100
+            },
+            {
+                "Slot": 2,
+                "Integer": 100
+            },
+            {
+                "Slot": 3,
+                "Integer": 100
+            },
+            {
+                "Slot": 4,
+                "Integer": 100
+            },
+            {
+                "Slot": 5,
+                "Integer": 100
+            },
+            {
+                "Slot": 6,
+                "Integer": 100
+            },
+            {
+                "Slot": 7,
+                "Integer": 100
+            },
+            {
+                "Slot": 8,
+                "Integer": 100
+            }
+        ],
+        "LootMode": 0,
+        "TransformIsActive": 0b,
+        "TransformHasDisplay": 0b,
+        "TransformHasAI": 0b,
+        "TransformHasAdvanced": 0b,
+        "TransformHasInv": 0b,
+        "TransformHasStats": 0b,
+        "TransformHasRole": 0b,
+        "TransformHasJob": 0b,
+        "TransformEditingModus": 0b,
+        "KilledTime": 0L,
+        "TotalTicksAlive": 0L,
+        "ModRev": 18,
+        "LinkedNpcName": "",
+        "NpcModelData": {
+            "EntityClass": "matteroverdrive.entity.EntityDrone",
+            "ArmsConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": -0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "BodyConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "LegsConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.012000002f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "HeadConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "LegParts": {
+                "Type": 0b,
+                "Color": 16777215,
+                "PlayerTexture": 0b,
+                "Pattern": 0b
+            },
+            "Eyes": {
+                "Type": 0b,
+                "Color": 4882687,
+                "PlayerTexture": 0b,
+                "Pattern": 0b,
+                "Glint": 1b,
+                "SkinColor": 11830381,
+                "BrowColor": 5982516,
+                "PositionY": 1,
+                "BrowThickness": 4
+            },
+            "ExtraData": {
+            },
+            "Parts": [
+            ]
+        }
+    },
+    "SpawnerNBT5": {
+        "id": "customnpcs:customnpc",
+        "Motion": [
+            0.0d,
+            -0.05376277666810639d,
+            0.0d
+        ],
+        "Rotation": [
+            -274.43848f,
+            30.805658f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 0b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+            "srpcothimmunity": 1,
+            "cnpcmarkdata": {
+                "marks": [
+                ]
+            }
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 24.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 435,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 24.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 0.0d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.3499999940395355d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 0.0d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 128.0d
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 5.0d
+            },
+            {
+                "Name": "generic.flyingSpeed",
+                "Base": 0.699999988079071d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 0b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "Name": "Drone",
+        "MarkovGeneratorId": 5,
+        "MarkovGender": 0,
+        "Title": "",
+        "SkinUrl": "",
+        "Texture": "matteroverdrive:textures/entities/drone_default.png",
+        "CloakTexture": "",
+        "GlowTexture": "",
+        "UsingSkinUrl": 0b,
+        "Size": 5,
+        "ShowName": 1,
+        "SkinColor": 16777215,
+        "NpcVisible": 0,
+        "NoLivingAnimation": 0b,
+        "IsStatue": 0b,
+        "BossBar": 0b,
+        "BossColor": 1,
+        "Resistances": {
+            "Knockback": 0.69014084f,
+            "Arrow": 1.3098592f,
+            "Melee": 0.69014084f,
+            "Explosion": 0.0f
+        },
+        "MaxHealth": 25,
+        "AggroRange": 64,
+        "HideBodyWhenKilled": 0b,
+        "RespawnTime": 0,
+        "SpawnCycle": 3,
+        "CreatureType": 0,
+        "HealthRegen": 1,
+        "CombatRegen": 1,
+        "ImmuneToFire": 0b,
+        "PotionImmune": 0b,
+        "CanDrown": 0b,
+        "BurnInSun": 0b,
+        "NoFallDamage": 1b,
+        "IgnoreCobweb": 1b,
+        "AttackStrenght": 5,
+        "AttackSpeed": 20,
+        "AttackRange": 2,
+        "KnockBack": 0,
+        "PotionEffect": 0,
+        "PotionDuration": 5,
+        "PotionAmp": 0,
+        "BurstCount": 30,
+        "pSpeed": 5,
+        "pDamage": 5,
+        "pImpact": 0,
+        "pSize": 5,
+        "pArea": 0,
+        "pTrail": 4,
+        "MaxFiringRange": 64,
+        "FireRate": 1,
+        "minDelay": 120,
+        "maxDelay": 250,
+        "ShotCount": 1,
+        "Accuracy": 57,
+        "pRender3D": 1b,
+        "pSpin": 0b,
+        "pStick": 0b,
+        "pPhysics": 0b,
+        "pXlr8": 1b,
+        "pGlows": 0b,
+        "AimWhileShooting": 1b,
+        "pEffect": 7,
+        "pDur": 5,
+        "pEffAmp": 0,
+        "FiringSound": "matteroverdrive:weapons.laser_fire",
+        "HitSound": "matteroverdrive:weapons.laser_ricochet",
+        "GroundSound": "minecraft:block.stone.break",
+        "FireIndirect": 0,
+        "DistanceToMelee": 0,
+        "CanSwim": 1b,
+        "ReactsToFire": 0b,
+        "AvoidsWater": 0b,
+        "AvoidsSun": 0b,
+        "ReturnToStart": 1b,
+        "OnAttack": 0,
+        "DoorInteract": 1,
+        "FindShelter": 2,
+        "DirectLOS": 0b,
+        "CanLeap": 0b,
+        "CanSprint": 0b,
+        "TacticalRadius": 64,
+        "MovingPause": 0b,
+        "npcInteracting": 0b,
+        "stopAndInteract": 0b,
+        "MoveState": 0,
+        "StandingState": 0,
+        "MovingState": 1,
+        "TacticalVariant": 3,
+        "MovementType": 1,
+        "Orientation": 0,
+        "PositionOffsetX": 5.0f,
+        "PositionOffsetY": 5.0f,
+        "PositionOffsetZ": 5.0f,
+        "WalkingRange": 99,
+        "MoveSpeed": 7,
+        "MovingPos": 0,
+        "MovingPatern": 0,
+        "AttackInvisible": 0b,
+        "Scripts": [
+        ],
+        "ScriptLanguage": "ECMAScript",
+        "ScriptEnabled": 0b,
+        "NpcsTimers": [
+        ],
+        "NpcLines": {
+            "Lines": [
+            ]
+        },
+        "NpcKilledLines": {
+            "Lines": [
+            ]
+        },
+        "NpcInteractLines": {
+            "Lines": [
+                {
+                    "Slot": 0,
+                    "Line": "Hello @p",
+                    "Song": ""
+                }
+            ]
+        },
+        "NpcAttackLines": {
+            "Lines": [
+            ]
+        },
+        "NpcKillLines": {
+            "Lines": [
+            ]
+        },
+        "NpcInteractNPCLines": {
+            "Lines": [
+            ]
+        },
+        "OrderedLines": 0b,
+        "NpcIdleSound": "matteroverdrive:transporter",
+        "NpcAngrySound": "matteroverdrive:android.shield_power_up",
+        "NpcHurtSound": "matteroverdrive:android.shockwave",
+        "NpcDeathSound": "matteroverdrive:anomaly_consume",
+        "NpcStepSound": "",
+        "FactionID": 4,
+        "AttackOtherFactions": 1b,
+        "DefendFaction": 1b,
+        "DisablePitch": 0b,
+        "Role": 0,
+        "NpcJob": 0,
+        "FactionPoints": {
+            "OptionFactions1": -1,
+            "OptionFactions2": -1,
+            "OptionFaction1Points": 100,
+            "OptionFaction2Points": 100,
+            "DecreaseFaction1Points": 0b,
+            "DecreaseFaction2Points": 0b
+        },
+        "NPCDialogOptions": [
+        ],
+        "NpcScenes": {
+            "Scenes": [
+            ]
+        },
+        "MinExp": 0,
+        "MaxExp": 0,
+        "NpcInv": [
+        ],
+        "Armor": [
+        ],
+        "Weapons": [
+            {
+                "Slot": 1b,
+                "id": "matteroverdrive:gravitational_anomaly",
+                "Count": 1,
+                "Damage": 0s,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                }
+            }
+        ],
+        "DropChance": [
+            {
+                "Slot": 0,
+                "Integer": 100
+            },
+            {
+                "Slot": 1,
+                "Integer": 100
+            },
+            {
+                "Slot": 2,
+                "Integer": 100
+            },
+            {
+                "Slot": 3,
+                "Integer": 100
+            },
+            {
+                "Slot": 4,
+                "Integer": 100
+            },
+            {
+                "Slot": 5,
+                "Integer": 100
+            },
+            {
+                "Slot": 6,
+                "Integer": 100
+            },
+            {
+                "Slot": 7,
+                "Integer": 100
+            },
+            {
+                "Slot": 8,
+                "Integer": 100
+            }
+        ],
+        "LootMode": 0,
+        "TransformIsActive": 0b,
+        "TransformHasDisplay": 0b,
+        "TransformHasAI": 0b,
+        "TransformHasAdvanced": 0b,
+        "TransformHasInv": 0b,
+        "TransformHasStats": 0b,
+        "TransformHasRole": 0b,
+        "TransformHasJob": 0b,
+        "TransformEditingModus": 0b,
+        "KilledTime": 0L,
+        "TotalTicksAlive": 0L,
+        "ModRev": 18,
+        "LinkedNpcName": "",
+        "NpcModelData": {
+            "EntityClass": "matteroverdrive.entity.EntityDrone",
+            "ArmsConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": -0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "BodyConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "LegsConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.012000002f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "HeadConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "LegParts": {
+                "Type": 0b,
+                "Color": 16777215,
+                "PlayerTexture": 0b,
+                "Pattern": 0b
+            },
+            "Eyes": {
+                "Type": 0b,
+                "Color": 4882687,
+                "PlayerTexture": 0b,
+                "Pattern": 0b,
+                "Glint": 1b,
+                "SkinColor": 11830381,
+                "BrowColor": 5982516,
+                "PositionY": 1,
+                "BrowThickness": 4
+            },
+            "ExtraData": {
+            },
+            "Parts": [
+            ]
+        }
+    },
+    "SpawnerNBT6": {
+        "id": "customnpcs:customnpc",
+        "Motion": [
+            0.0d,
+            -0.05376277666810639d,
+            0.0d
+        ],
+        "Rotation": [
+            -274.43848f,
+            30.805658f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 0b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+            "srpcothimmunity": 1,
+            "cnpcmarkdata": {
+                "marks": [
+                ]
+            }
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 24.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 435,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 24.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 0.0d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.3499999940395355d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 0.0d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 128.0d
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 5.0d
+            },
+            {
+                "Name": "generic.flyingSpeed",
+                "Base": 0.699999988079071d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 0b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "Name": "Drone",
+        "MarkovGeneratorId": 5,
+        "MarkovGender": 0,
+        "Title": "",
+        "SkinUrl": "",
+        "Texture": "matteroverdrive:textures/entities/drone_default.png",
+        "CloakTexture": "",
+        "GlowTexture": "",
+        "UsingSkinUrl": 0b,
+        "Size": 5,
+        "ShowName": 1,
+        "SkinColor": 16777215,
+        "NpcVisible": 0,
+        "NoLivingAnimation": 0b,
+        "IsStatue": 0b,
+        "BossBar": 0b,
+        "BossColor": 1,
+        "Resistances": {
+            "Knockback": 0.69014084f,
+            "Arrow": 1.3098592f,
+            "Melee": 0.69014084f,
+            "Explosion": 0.0f
+        },
+        "MaxHealth": 25,
+        "AggroRange": 64,
+        "HideBodyWhenKilled": 0b,
+        "RespawnTime": 0,
+        "SpawnCycle": 3,
+        "CreatureType": 0,
+        "HealthRegen": 1,
+        "CombatRegen": 1,
+        "ImmuneToFire": 0b,
+        "PotionImmune": 0b,
+        "CanDrown": 0b,
+        "BurnInSun": 0b,
+        "NoFallDamage": 1b,
+        "IgnoreCobweb": 1b,
+        "AttackStrenght": 5,
+        "AttackSpeed": 20,
+        "AttackRange": 2,
+        "KnockBack": 0,
+        "PotionEffect": 0,
+        "PotionDuration": 5,
+        "PotionAmp": 0,
+        "BurstCount": 30,
+        "pSpeed": 5,
+        "pDamage": 5,
+        "pImpact": 0,
+        "pSize": 5,
+        "pArea": 0,
+        "pTrail": 4,
+        "MaxFiringRange": 64,
+        "FireRate": 1,
+        "minDelay": 120,
+        "maxDelay": 250,
+        "ShotCount": 1,
+        "Accuracy": 57,
+        "pRender3D": 1b,
+        "pSpin": 0b,
+        "pStick": 0b,
+        "pPhysics": 0b,
+        "pXlr8": 1b,
+        "pGlows": 0b,
+        "AimWhileShooting": 1b,
+        "pEffect": 7,
+        "pDur": 5,
+        "pEffAmp": 0,
+        "FiringSound": "matteroverdrive:weapons.laser_fire",
+        "HitSound": "matteroverdrive:weapons.laser_ricochet",
+        "GroundSound": "minecraft:block.stone.break",
+        "FireIndirect": 0,
+        "DistanceToMelee": 0,
+        "CanSwim": 1b,
+        "ReactsToFire": 0b,
+        "AvoidsWater": 0b,
+        "AvoidsSun": 0b,
+        "ReturnToStart": 1b,
+        "OnAttack": 0,
+        "DoorInteract": 1,
+        "FindShelter": 2,
+        "DirectLOS": 0b,
+        "CanLeap": 0b,
+        "CanSprint": 0b,
+        "TacticalRadius": 64,
+        "MovingPause": 0b,
+        "npcInteracting": 0b,
+        "stopAndInteract": 0b,
+        "MoveState": 0,
+        "StandingState": 0,
+        "MovingState": 1,
+        "TacticalVariant": 3,
+        "MovementType": 1,
+        "Orientation": 0,
+        "PositionOffsetX": 5.0f,
+        "PositionOffsetY": 5.0f,
+        "PositionOffsetZ": 5.0f,
+        "WalkingRange": 99,
+        "MoveSpeed": 7,
+        "MovingPos": 0,
+        "MovingPatern": 0,
+        "AttackInvisible": 0b,
+        "Scripts": [
+        ],
+        "ScriptLanguage": "ECMAScript",
+        "ScriptEnabled": 0b,
+        "NpcsTimers": [
+        ],
+        "NpcLines": {
+            "Lines": [
+            ]
+        },
+        "NpcKilledLines": {
+            "Lines": [
+            ]
+        },
+        "NpcInteractLines": {
+            "Lines": [
+                {
+                    "Slot": 0,
+                    "Line": "Hello @p",
+                    "Song": ""
+                }
+            ]
+        },
+        "NpcAttackLines": {
+            "Lines": [
+            ]
+        },
+        "NpcKillLines": {
+            "Lines": [
+            ]
+        },
+        "NpcInteractNPCLines": {
+            "Lines": [
+            ]
+        },
+        "OrderedLines": 0b,
+        "NpcIdleSound": "matteroverdrive:transporter",
+        "NpcAngrySound": "matteroverdrive:android.shield_power_up",
+        "NpcHurtSound": "matteroverdrive:android.shockwave",
+        "NpcDeathSound": "matteroverdrive:anomaly_consume",
+        "NpcStepSound": "",
+        "FactionID": 4,
+        "AttackOtherFactions": 1b,
+        "DefendFaction": 1b,
+        "DisablePitch": 0b,
+        "Role": 0,
+        "NpcJob": 0,
+        "FactionPoints": {
+            "OptionFactions1": -1,
+            "OptionFactions2": -1,
+            "OptionFaction1Points": 100,
+            "OptionFaction2Points": 100,
+            "DecreaseFaction1Points": 0b,
+            "DecreaseFaction2Points": 0b
+        },
+        "NPCDialogOptions": [
+        ],
+        "NpcScenes": {
+            "Scenes": [
+            ]
+        },
+        "MinExp": 0,
+        "MaxExp": 0,
+        "NpcInv": [
+        ],
+        "Armor": [
+        ],
+        "Weapons": [
+            {
+                "Slot": 1b,
+                "id": "matteroverdrive:gravitational_anomaly",
+                "Count": 1,
+                "Damage": 0s,
+                "ForgeCaps": {
+                    "customnpcs:itemscripteddata": {
+                    }
+                }
+            }
+        ],
+        "DropChance": [
+            {
+                "Slot": 0,
+                "Integer": 100
+            },
+            {
+                "Slot": 1,
+                "Integer": 100
+            },
+            {
+                "Slot": 2,
+                "Integer": 100
+            },
+            {
+                "Slot": 3,
+                "Integer": 100
+            },
+            {
+                "Slot": 4,
+                "Integer": 100
+            },
+            {
+                "Slot": 5,
+                "Integer": 100
+            },
+            {
+                "Slot": 6,
+                "Integer": 100
+            },
+            {
+                "Slot": 7,
+                "Integer": 100
+            },
+            {
+                "Slot": 8,
+                "Integer": 100
+            }
+        ],
+        "LootMode": 0,
+        "TransformIsActive": 0b,
+        "TransformHasDisplay": 0b,
+        "TransformHasAI": 0b,
+        "TransformHasAdvanced": 0b,
+        "TransformHasInv": 0b,
+        "TransformHasStats": 0b,
+        "TransformHasRole": 0b,
+        "TransformHasJob": 0b,
+        "TransformEditingModus": 0b,
+        "KilledTime": 0L,
+        "TotalTicksAlive": 0L,
+        "ModRev": 18,
+        "LinkedNpcName": "",
+        "NpcModelData": {
+            "EntityClass": "matteroverdrive.entity.EntityDrone",
+            "ArmsConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": -0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "BodyConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "LegsConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.012000002f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "HeadConfig": {
+                "ScaleX": 1.0f,
+                "ScaleY": 1.0f,
+                "ScaleZ": 1.0f,
+                "TransX": 0.0f,
+                "TransY": 0.0f,
+                "TransZ": 0.0f,
+                "NotShared": 0b
+            },
+            "LegParts": {
+                "Type": 0b,
+                "Color": 16777215,
+                "PlayerTexture": 0b,
+                "Pattern": 0b
+            },
+            "Eyes": {
+                "Type": 0b,
+                "Color": 4882687,
+                "PlayerTexture": 0b,
+                "Pattern": 0b,
+                "Glint": 1b,
+                "SkinColor": 11830381,
+                "BrowColor": 5982516,
+                "PositionY": 1,
+                "BrowThickness": 4
+            },
+            "ExtraData": {
+            },
+            "Parts": [
+            ]
+        }
+    },
+    "SpawnerId": "E27dGZ2Z",
+    "SpawnerDoesntDie": 0b,
+    "SpawnerType": 1,
+    "SpawnerXOffset": 0,
+    "SpawnerYOffset": 0,
+    "SpawnerZOffset": 0,
+    "DespawnOnTargetLost": 1b,
+    "MinExp": 0,
+    "MaxExp": 0,
+    "NpcInv": [
+    ],
+    "Armor": [
+        {
+            "Slot": 1b,
+            "id": "nocubessrparmory:evolutionarmorbody",
+            "Count": 1,
+            "Damage": 116s,
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        },
+        {
+            "Slot": 2b,
+            "id": "nocubessrparmory:evolutionarmorlegs",
+            "Count": 1,
+            "Damage": 116s,
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        },
+        {
+            "Slot": 3b,
+            "id": "nocubessrparmory:evolutionarmorboots",
+            "Count": 1,
+            "Damage": 116s,
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        }
+    ],
+    "Weapons": [
+        {
+            "Slot": 0b,
+            "id": "srparasites:weapon_sword_sentient",
+            "Count": 1,
+            "Damage": 0s,
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        },
+        {
+            "Slot": 1b,
+            "id": "matteroverdrive:forcefield_emitter",
+            "Count": 1,
+            "Damage": 0s,
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        },
+        {
+            "Slot": 2b,
+            "id": "srparasites:weapon_sword_sentient",
+            "Count": 1,
+            "Damage": 0s,
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        }
+    ],
+    "DropChance": [
+        {
+            "Slot": 0,
+            "Integer": 100
+        },
+        {
+            "Slot": 1,
+            "Integer": 100
+        },
+        {
+            "Slot": 2,
+            "Integer": 100
+        },
+        {
+            "Slot": 3,
+            "Integer": 100
+        },
+        {
+            "Slot": 4,
+            "Integer": 100
+        },
+        {
+            "Slot": 5,
+            "Integer": 100
+        },
+        {
+            "Slot": 6,
+            "Integer": 100
+        },
+        {
+            "Slot": 7,
+            "Integer": 100
+        },
+        {
+            "Slot": 8,
+            "Integer": 100
+        }
+    ],
+    "LootMode": 0,
+    "TransformIsActive": 0b,
+    "TransformHasDisplay": 0b,
+    "TransformHasAI": 0b,
+    "TransformHasAdvanced": 0b,
+    "TransformHasInv": 0b,
+    "TransformHasStats": 0b,
+    "TransformHasRole": 0b,
+    "TransformHasJob": 0b,
+    "TransformEditingModus": 0b,
+    "KilledTime": 0L,
+    "TotalTicksAlive": 2349L,
+    "ModRev": 18,
+    "LinkedNpcName": "",
+    "NpcModelData": {
+        "EntityClass": "noppes.npcs.entity.EntityNPC64x32",
+        "ArmsConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": -0.0f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "BodyConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "LegsConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.012000002f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "HeadConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "LegParts": {
+            "Type": 0b,
+            "Color": 16777215,
+            "PlayerTexture": 0b,
+            "Pattern": 0b
+        },
+        "Eyes": {
+            "Type": 0b,
+            "Color": 6717235,
+            "PlayerTexture": 0b,
+            "Pattern": 0b,
+            "Glint": 1b,
+            "SkinColor": 11830381,
+            "BrowColor": 5982516,
+            "PositionY": 1,
+            "BrowThickness": 4
+        },
+        "ExtraData": {
+            "NpcLines": {
+                "Lines": [
+                ]
+            },
+            "NpcKilledLines": {
+                "Lines": [
+                ]
+            },
+            "NpcInteractLines": {
+                "Lines": [
+                    {
+                        "Slot": 0,
+                        "Line": "Hello @p",
+                        "Song": ""
+                    }
+                ]
+            },
+            "NpcAttackLines": {
+                "Lines": [
+                ]
+            },
+            "NpcKillLines": {
+                "Lines": [
+                ]
+            },
+            "NpcInteractNPCLines": {
+                "Lines": [
+                ]
+            },
+            "OrderedLines": 0b,
+            "NpcIdleSound": "",
+            "NpcAngrySound": "",
+            "NpcHurtSound": "minecraft:entity.player.hurt",
+            "NpcDeathSound": "minecraft:entity.player.hurt",
+            "NpcStepSound": "",
+            "FactionID": 0,
+            "AttackOtherFactions": 0b,
+            "DefendFaction": 0b,
+            "DisablePitch": 0b,
+            "Role": 0,
+            "NpcJob": 0,
+            "FactionPoints": {
+                "OptionFactions1": -1,
+                "OptionFactions2": -1,
+                "OptionFaction1Points": 100,
+                "OptionFaction2Points": 100,
+                "DecreaseFaction1Points": 0b,
+                "DecreaseFaction2Points": 0b
+            },
+            "NPCDialogOptions": [
+            ],
+            "NpcScenes": {
+                "Scenes": [
+                ]
+            },
+            "CanSwim": 1b,
+            "ReactsToFire": 0b,
+            "AvoidsWater": 0b,
+            "AvoidsSun": 0b,
+            "ReturnToStart": 1b,
+            "OnAttack": 0,
+            "DoorInteract": 2,
+            "FindShelter": 2,
+            "DirectLOS": 1b,
+            "CanLeap": 0b,
+            "CanSprint": 0b,
+            "TacticalRadius": 8,
+            "MovingPause": 1b,
+            "npcInteracting": 1b,
+            "stopAndInteract": 1b,
+            "MoveState": 0,
+            "StandingState": 0,
+            "MovingState": 0,
+            "TacticalVariant": 0,
+            "MovementType": 0,
+            "Orientation": 0,
+            "PositionOffsetX": 5.0f,
+            "PositionOffsetY": 5.0f,
+            "PositionOffsetZ": 5.0f,
+            "WalkingRange": 10,
+            "MoveSpeed": 5,
+            "MovingPathNew": [
+            ],
+            "MovingPos": 0,
+            "MovingPatern": 0,
+            "StartPosNew": [I;0,0,0],
+            "AttackInvisible": 0b,
+            "Resistances": {
+                "Knockback": 1.0f,
+                "Arrow": 1.0f,
+                "Melee": 1.0f,
+                "Explosion": 1.0f
+            },
+            "MaxHealth": 20,
+            "AggroRange": 16,
+            "HideBodyWhenKilled": 0b,
+            "RespawnTime": 20,
+            "SpawnCycle": 0,
+            "CreatureType": 0,
+            "HealthRegen": 1,
+            "CombatRegen": 0,
+            "ImmuneToFire": 0b,
+            "PotionImmune": 0b,
+            "CanDrown": 1b,
+            "BurnInSun": 0b,
+            "NoFallDamage": 0b,
+            "IgnoreCobweb": 0b,
+            "AttackStrenght": 5,
+            "AttackSpeed": 20,
+            "AttackRange": 2,
+            "KnockBack": 0,
+            "PotionEffect": 0,
+            "PotionDuration": 5,
+            "PotionAmp": 0,
+            "BurstCount": 1,
+            "pSpeed": 10,
+            "pDamage": 4,
+            "pImpact": 0,
+            "pSize": 5,
+            "pArea": 0,
+            "pTrail": 0,
+            "MaxFiringRange": 15,
+            "FireRate": 5,
+            "minDelay": 20,
+            "maxDelay": 40,
+            "ShotCount": 1,
+            "Accuracy": 60,
+            "pRender3D": 1b,
+            "pSpin": 0b,
+            "pStick": 0b,
+            "pPhysics": 1b,
+            "pXlr8": 0b,
+            "pGlows": 0b,
+            "AimWhileShooting": 0b,
+            "pEffect": 0,
+            "pDur": 5,
+            "pEffAmp": 0,
+            "FiringSound": "minecraft:entity.arrow.shoot",
+            "HitSound": "minecraft:entity.arrow.hit",
+            "GroundSound": "minecraft:block.stone.break",
+            "FireIndirect": 0,
+            "DistanceToMelee": 0,
+            "Name": "Dalewit",
+            "MarkovGeneratorId": 2,
+            "MarkovGender": 0,
+            "Title": "",
+            "SkinUrl": "",
+            "Texture": "customnpcs:textures/entity/humanmale/steve64x32.png",
+            "CloakTexture": "",
+            "GlowTexture": "",
+            "UsingSkinUrl": 0b,
+            "Size": 5,
+            "ShowName": 0,
+            "SkinColor": 16777215,
+            "NpcVisible": 0,
+            "NoLivingAnimation": 0b,
+            "IsStatue": 0b,
+            "BossBar": 0b,
+            "BossColor": 0,
+            "MinExp": 0,
+            "MaxExp": 0,
+            "NpcInv": [
+            ],
+            "Armor": [
+            ],
+            "Weapons": [
+            ],
+            "DropChance": [
+            ],
+            "LootMode": 0
+        },
+        "Parts": [
+        ]
+    }
+}

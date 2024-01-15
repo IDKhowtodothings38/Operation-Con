@@ -1,0 +1,1308 @@
+{
+    "id": "customnpcs:customnpc",
+    "Motion": [
+        3.6779830102170425d,
+        0.0d,
+        2.3261904568658993d
+    ],
+    "Rotation": [
+        97.42668f,
+        0.0f
+    ],
+    "FallDistance": 0.0f,
+    "Fire": 0s,
+    "Air": 300s,
+    "OnGround": 0b,
+    "Dimension": 0,
+    "Invulnerable": 0b,
+    "PortalCooldown": 0,
+    "UpdateBlocked": 0b,
+    "ForgeData": {
+        "srpcothimmunity": 1,
+        "cnpcmarkdata": {
+            "marks": [
+            ]
+        }
+    },
+    "ForgeCaps": {
+        "llibrary:extendedentitydatacapability": {
+        }
+    },
+    "Health": 2485.0f,
+    "HurtTime": 0s,
+    "HurtByTimestamp": 698,
+    "DeathTime": 0s,
+    "AbsorptionAmount": 0.0f,
+    "Attributes": [
+        {
+            "Name": "generic.maxHealth",
+            "Base": 2485.0d
+        },
+        {
+            "Name": "generic.knockbackResistance",
+            "Base": 0.0d
+        },
+        {
+            "Name": "generic.movementSpeed",
+            "Base": 0.20000000298023224d
+        },
+        {
+            "Name": "generic.armor",
+            "Base": 0.0d
+        },
+        {
+            "Name": "generic.armorToughness",
+            "Base": 0.0d
+        },
+        {
+            "Name": "forge.swimSpeed",
+            "Base": 1.0d
+        },
+        {
+            "Name": "generic.followRange",
+            "Base": 128.0d
+        },
+        {
+            "Name": "generic.attackDamage",
+            "Base": 35.0d
+        },
+        {
+            "Name": "generic.flyingSpeed",
+            "Base": 0.4000000059604645d
+        }
+    ],
+    "FallFlying": 0b,
+    "CanPickUpLoot": 0b,
+    "PersistenceRequired": 0b,
+    "ArmorItems": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "HandItems": [
+        {
+        },
+        {
+        }
+    ],
+    "ArmorDropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "HandDropChances": [
+        0.085f,
+        0.085f
+    ],
+    "Leashed": 0b,
+    "LeftHanded": 0b,
+    "Name": "The First Ancestor",
+    "MarkovGeneratorId": 5,
+    "MarkovGender": 0,
+    "Title": "",
+    "SkinUrl": "",
+    "Texture": "srparasites:textures/entity/monster/elvia.png",
+    "CloakTexture": "",
+    "GlowTexture": "",
+    "UsingSkinUrl": 0b,
+    "Size": 30,
+    "ShowName": 1,
+    "SkinColor": 16777215,
+    "NpcVisible": 0,
+    "NoLivingAnimation": 0b,
+    "IsStatue": 0b,
+    "BossBar": 1b,
+    "BossColor": 2,
+    "Resistances": {
+        "Knockback": 2.0f,
+        "Arrow": 1.7042253f,
+        "Melee": 1.7042253f,
+        "Explosion": 1.9014084f
+    },
+    "MaxHealth": 2500,
+    "AggroRange": 128,
+    "HideBodyWhenKilled": 0b,
+    "RespawnTime": 0,
+    "SpawnCycle": 3,
+    "CreatureType": 0,
+    "HealthRegen": 1,
+    "CombatRegen": 1,
+    "ImmuneToFire": 1b,
+    "PotionImmune": 1b,
+    "CanDrown": 0b,
+    "BurnInSun": 0b,
+    "NoFallDamage": 1b,
+    "IgnoreCobweb": 1b,
+    "AttackStrenght": 35,
+    "AttackSpeed": 100,
+    "AttackRange": 7,
+    "KnockBack": 4,
+    "PotionEffect": 8,
+    "PotionDuration": 5,
+    "PotionAmp": 0,
+    "BurstCount": 5,
+    "pSpeed": 20,
+    "pDamage": 37,
+    "pImpact": 3,
+    "pSize": 20,
+    "pArea": 3,
+    "pTrail": 5,
+    "MaxFiringRange": 128,
+    "FireRate": 10,
+    "minDelay": 50,
+    "maxDelay": 50,
+    "ShotCount": 10,
+    "Accuracy": 45,
+    "pRender3D": 0b,
+    "pSpin": 0b,
+    "pStick": 0b,
+    "pPhysics": 0b,
+    "pXlr8": 1b,
+    "pGlows": 0b,
+    "AimWhileShooting": 1b,
+    "pEffect": 8,
+    "pDur": 5,
+    "pEffAmp": 1,
+    "FiringSound": "wyrmsofnyrus:shellhit",
+    "HitSound": "srparasites:anged.shooting",
+    "GroundSound": "srparasites:alafha.shootingpost",
+    "FireIndirect": 0,
+    "DistanceToMelee": 0,
+    "CanSwim": 0b,
+    "ReactsToFire": 0b,
+    "AvoidsWater": 0b,
+    "AvoidsSun": 0b,
+    "ReturnToStart": 0b,
+    "OnAttack": 0,
+    "DoorInteract": 0,
+    "FindShelter": 2,
+    "DirectLOS": 0b,
+    "CanLeap": 0b,
+    "CanSprint": 0b,
+    "TacticalRadius": 64,
+    "MovingPause": 0b,
+    "npcInteracting": 1b,
+    "stopAndInteract": 0b,
+    "MoveState": 0,
+    "StandingState": 0,
+    "MovingState": 1,
+    "TacticalVariant": 0,
+    "MovementType": 1,
+    "Orientation": 0,
+    "PositionOffsetX": 5.0f,
+    "PositionOffsetY": 5.0f,
+    "PositionOffsetZ": 5.0f,
+    "WalkingRange": 99,
+    "MoveSpeed": 4,
+    "MovingPos": 0,
+    "MovingPatern": 0,
+    "AttackInvisible": 0b,
+    "Scripts": [
+        {
+            "Script": "var target;
+var npc;
+
+function target(e) {
+    target = e.entity;
+    e.npc.timers.forceStart(341, 10, false);
+}
+
+function timer(e) {
+    var npcHor = e.npc.getPos().x / e.npc.getPos().z;
+    var targetHor = target.getPos().x / target.getPos().z;
+    var dh = targetHor - npcHor;
+    var dy = target.getPos().y - e.npc.getPos().y;
+    e.npc.setRotation(Math.atan(dh / dy));
+    for(var i = 0; i < 10; i++) {
+    e.npc.shootItem(target, e.npc.inventory.getProjectile(), 50);
+    }
+    target = null;
+}",
+            "Console": [
+                {
+                    "Long": 1703790734311L,
+                    "String": "javax.script.ScriptException: TypeError: Can not invoke method [jdk.internal.dynalink.beans.SimpleDynamicMethod void noppes.npcs.api.wrapper.EntityLivingWrapper.navigateTo(double,double,double,double)] with the passed arguments; they do not match any of its method signatures. in <eval> at line number 6
+	at jdk.nashorn.api.scripting.NashornScriptEngine.throwAsScriptException(NashornScriptEngine.java:455)
+	at jdk.nashorn.api.scripting.NashornScriptEngine.invokeImpl(NashornScriptEngine.java:387)
+	at jdk.nashorn.api.scripting.NashornScriptEngine.invokeFunction(NashornScriptEngine.java:187)
+	at noppes.npcs.controllers.ScriptContainer.run(ScriptContainer.java:169)
+	at noppes.npcs.controllers.ScriptContainer.run(ScriptContainer.java:126)
+	at noppes.npcs.entity.data.DataScript.runScript(DataScript.java:58)
+	at noppes.npcs.EventHooks.onNPCTarget(EventHooks.java:60)
+	at noppes.npcs.entity.EntityNPCInterface.func_70624_b(EntityNPCInterface.java:624)
+	at noppes.npcs.ai.target.EntityAIClosestTarget.func_75249_e(EntityAIClosestTarget.java:58)
+	at net.minecraft.entity.ai.EntityAITasks.func_75774_a(SourceFile:102)
+	at net.minecraft.entity.EntityLiving.func_70626_be(EntityLiving.java:760)
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2359)
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577)
+	at noppes.npcs.entity.EntityNPCInterface.func_70636_d(EntityNPCInterface.java:425)
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179)
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295)
+	at noppes.npcs.entity.EntityNPCInterface.func_70071_h_(EntityNPCInterface.java:297)
+	at noppes.npcs.entity.EntityCustomNpc.func_70071_h_(EntityCustomNpc.java:50)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: <eval>:6 TypeError: Can not invoke method [jdk.internal.dynalink.beans.SimpleDynamicMethod void noppes.npcs.api.wrapper.EntityLivingWrapper.navigateTo(double,double,double,double)] with the passed arguments; they do not match any of its method signatures.
+	at jdk.nashorn.internal.runtime.ECMAErrors.error(ECMAErrors.java:57)
+	at jdk.nashorn.internal.runtime.ECMAErrors.typeError(ECMAErrors.java:213)
+	at jdk.nashorn.internal.runtime.ECMAErrors.typeError(ECMAErrors.java:185)
+	at jdk.nashorn.internal.runtime.ECMAErrors.typeError(ECMAErrors.java:172)
+	at jdk.nashorn.internal.runtime.linker.NashornBottomLinker.linkBean(NashornBottomLinker.java:98)
+	at jdk.nashorn.internal.runtime.linker.NashornBottomLinker.getGuardedInvocation(NashornBottomLinker.java:71)
+	at jdk.internal.dynalink.support.CompositeGuardingDynamicLinker.getGuardedInvocation(CompositeGuardingDynamicLinker.java:124)
+	at jdk.internal.dynalink.support.LinkerServicesImpl.getGuardedInvocation(LinkerServicesImpl.java:149)
+	at jdk.internal.dynalink.DynamicLinker.relink(DynamicLinker.java:233)
+	at jdk.nashorn.internal.scripts.Script$Recompilation$9$41A$\\^eval\\_.target(<eval>:6)
+	at jdk.nashorn.internal.runtime.ScriptFunctionData.invoke(ScriptFunctionData.java:638)
+	at jdk.nashorn.internal.runtime.ScriptFunction.invoke(ScriptFunction.java:229)
+	at jdk.nashorn.internal.runtime.ScriptRuntime.apply(ScriptRuntime.java:387)
+	at jdk.nashorn.api.scripting.ScriptObjectMirror.callMember(ScriptObjectMirror.java:192)
+	at jdk.nashorn.api.scripting.NashornScriptEngine.invokeImpl(NashornScriptEngine.java:381)
+	... 26 more"
+                },
+                {
+                    "Long": 1703790900512L,
+                    "String": "javax.script.ScriptException: ReferenceError: \"Double\" is not defined in <eval> at line number 6
+	at jdk.nashorn.api.scripting.NashornScriptEngine.throwAsScriptException(NashornScriptEngine.java:455)
+	at jdk.nashorn.api.scripting.NashornScriptEngine.invokeImpl(NashornScriptEngine.java:387)
+	at jdk.nashorn.api.scripting.NashornScriptEngine.invokeFunction(NashornScriptEngine.java:187)
+	at noppes.npcs.controllers.ScriptContainer.run(ScriptContainer.java:169)
+	at noppes.npcs.controllers.ScriptContainer.run(ScriptContainer.java:126)
+	at noppes.npcs.entity.data.DataScript.runScript(DataScript.java:58)
+	at noppes.npcs.EventHooks.onNPCTarget(EventHooks.java:60)
+	at noppes.npcs.entity.EntityNPCInterface.func_70624_b(EntityNPCInterface.java:624)
+	at noppes.npcs.ai.target.EntityAIClosestTarget.func_75249_e(EntityAIClosestTarget.java:58)
+	at net.minecraft.entity.ai.EntityAITasks.func_75774_a(SourceFile:102)
+	at net.minecraft.entity.EntityLiving.func_70626_be(EntityLiving.java:760)
+	at net.minecraft.entity.EntityLivingBase.func_70636_d(EntityLivingBase.java:2359)
+	at net.minecraft.entity.EntityLiving.func_70636_d(EntityLiving.java:577)
+	at noppes.npcs.entity.EntityNPCInterface.func_70636_d(EntityNPCInterface.java:425)
+	at net.minecraft.entity.EntityLivingBase.func_70071_h_(EntityLivingBase.java:2179)
+	at net.minecraft.entity.EntityLiving.func_70071_h_(EntityLiving.java:295)
+	at noppes.npcs.entity.EntityNPCInterface.func_70071_h_(EntityNPCInterface.java:297)
+	at noppes.npcs.entity.EntityCustomNpc.func_70071_h_(EntityCustomNpc.java:50)
+	at net.minecraft.world.World.func_72866_a(World.java:1996)
+	at net.minecraft.world.WorldServer.func_72866_a(WorldServer.java:832)
+	at net.minecraft.world.World.func_72870_g(World.java:1958)
+	at net.minecraft.world.World.func_72939_s(World.java:1762)
+	at net.minecraft.world.WorldServer.func_72939_s(WorldServer.java:613)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:767)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:185)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:745)
+Caused by: <eval>:6 ReferenceError: \"Double\" is not defined
+	at jdk.nashorn.internal.runtime.ECMAErrors.error(ECMAErrors.java:57)
+	at jdk.nashorn.internal.runtime.ECMAErrors.referenceError(ECMAErrors.java:319)
+	at jdk.nashorn.internal.runtime.ECMAErrors.referenceError(ECMAErrors.java:291)
+	at jdk.nashorn.internal.objects.Global.__noSuchProperty__(Global.java:914)
+	at jdk.nashorn.internal.scripts.Script$Recompilation$11$41A$\\^eval\\_.target(<eval>:6)
+	at jdk.nashorn.internal.runtime.ScriptFunctionData.invoke(ScriptFunctionData.java:638)
+	at jdk.nashorn.internal.runtime.ScriptFunction.invoke(ScriptFunction.java:229)
+	at jdk.nashorn.internal.runtime.ScriptRuntime.apply(ScriptRuntime.java:387)
+	at jdk.nashorn.api.scripting.ScriptObjectMirror.callMember(ScriptObjectMirror.java:192)
+	at jdk.nashorn.api.scripting.NashornScriptEngine.invokeImpl(NashornScriptEngine.java:381)
+	... 26 more"
+                }
+            ],
+            "ScriptList": [
+            ]
+        }
+    ],
+    "ScriptLanguage": "ECMAScript",
+    "ScriptEnabled": 1b,
+    "NpcsTimers": [
+    ],
+    "NpcLines": {
+        "Lines": [
+        ]
+    },
+    "NpcKilledLines": {
+        "Lines": [
+        ]
+    },
+    "NpcInteractLines": {
+        "Lines": [
+            {
+                "Slot": 0,
+                "Line": "Hello @p",
+                "Song": ""
+            }
+        ]
+    },
+    "NpcAttackLines": {
+        "Lines": [
+        ]
+    },
+    "NpcKillLines": {
+        "Lines": [
+        ]
+    },
+    "NpcInteractNPCLines": {
+        "Lines": [
+        ]
+    },
+    "OrderedLines": 0b,
+    "NpcIdleSound": "srparasites:aemana.growl",
+    "NpcAngrySound": "srparasites:ashyco.growl",
+    "NpcHurtSound": "srparasites:acanra.hurt",
+    "NpcDeathSound": "srparasites:anogla.death",
+    "NpcStepSound": "",
+    "FactionID": 3,
+    "AttackOtherFactions": 1b,
+    "DefendFaction": 1b,
+    "DisablePitch": 0b,
+    "Role": 0,
+    "NpcJob": 6,
+    "FactionPoints": {
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "OptionFaction2Points": 100,
+        "DecreaseFaction1Points": 0b,
+        "DecreaseFaction2Points": 0b
+    },
+    "NPCDialogOptions": [
+    ],
+    "NpcScenes": {
+        "Scenes": [
+        ]
+    },
+    "SpawnerNBT1": {
+        "id": "srparasites:anc_dreadnaut",
+        "Motion": [
+            -0.002988966289168757d,
+            0.10237296461691633d,
+            0.02428879660356049d
+        ],
+        "Rotation": [
+            7.0154557f,
+            0.0f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 0b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "NoGravity": 1b,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 600.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 0,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 600.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 2.0d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.699999988079071d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 24.00000035762787d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 64.0d,
+                "Modifiers": [
+                    {
+                        "Name": "Random spawn bonus",
+                        "Amount": 0.019985880185783268d,
+                        "Operation": 1,
+                        "UUIDMost": -8756624474305442240L,
+                        "UUIDLeast": -6461165007195570885L
+                    }
+                ]
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 2.0d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 0b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "parasitetype": 0,
+        "parasitedespawn": 1b,
+        "parasitekills": -10.0f,
+        "parasitecolob": 1b,
+        "parasitecoldl": 0b,
+        "phasecreat": 0b,
+        "srpinvblocksname": [
+        ],
+        "srpinvblocksnumber": [
+        ],
+        "paracolony": 0b,
+        "damagetypecap": 5,
+        "sprresistances": [
+        ],
+        "sprresistancei": [
+        ],
+        "urten": 1b,
+        "ulten": 1b,
+        "raten": 1b,
+        "laten": 1b,
+        "healtheight": 1b,
+        "healthsix": 1b,
+        "healthfour": 1b,
+        "healthtwo": 1b,
+        "ModRev": 1
+    },
+    "SpawnerNBT2": {
+        "id": "srparasites:anc_dreadnaut",
+        "Motion": [
+            -0.002988966289168757d,
+            0.10237296461691633d,
+            0.02428879660356049d
+        ],
+        "Rotation": [
+            7.0154557f,
+            0.0f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 0b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "NoGravity": 1b,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 600.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 0,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 600.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 2.0d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.699999988079071d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 24.00000035762787d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 64.0d,
+                "Modifiers": [
+                    {
+                        "Name": "Random spawn bonus",
+                        "Amount": 0.019985880185783268d,
+                        "Operation": 1,
+                        "UUIDMost": -8756624474305442240L,
+                        "UUIDLeast": -6461165007195570885L
+                    }
+                ]
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 2.0d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 0b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "parasitetype": 0,
+        "parasitedespawn": 1b,
+        "parasitekills": -10.0f,
+        "parasitecolob": 1b,
+        "parasitecoldl": 0b,
+        "phasecreat": 0b,
+        "srpinvblocksname": [
+        ],
+        "srpinvblocksnumber": [
+        ],
+        "paracolony": 0b,
+        "damagetypecap": 5,
+        "sprresistances": [
+        ],
+        "sprresistancei": [
+        ],
+        "urten": 1b,
+        "ulten": 1b,
+        "raten": 1b,
+        "laten": 1b,
+        "healtheight": 1b,
+        "healthsix": 1b,
+        "healthfour": 1b,
+        "healthtwo": 1b,
+        "ModRev": 1
+    },
+    "SpawnerNBT3": {
+        "id": "srparasites:anc_dreadnaut",
+        "Motion": [
+            -0.002988966289168757d,
+            0.10237296461691633d,
+            0.02428879660356049d
+        ],
+        "Rotation": [
+            7.0154557f,
+            0.0f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 0b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "NoGravity": 1b,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 600.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 0,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 600.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 2.0d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.699999988079071d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 24.00000035762787d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 64.0d,
+                "Modifiers": [
+                    {
+                        "Name": "Random spawn bonus",
+                        "Amount": 0.019985880185783268d,
+                        "Operation": 1,
+                        "UUIDMost": -8756624474305442240L,
+                        "UUIDLeast": -6461165007195570885L
+                    }
+                ]
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 2.0d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 0b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "parasitetype": 0,
+        "parasitedespawn": 1b,
+        "parasitekills": -10.0f,
+        "parasitecolob": 1b,
+        "parasitecoldl": 0b,
+        "phasecreat": 0b,
+        "srpinvblocksname": [
+        ],
+        "srpinvblocksnumber": [
+        ],
+        "paracolony": 0b,
+        "damagetypecap": 5,
+        "sprresistances": [
+        ],
+        "sprresistancei": [
+        ],
+        "urten": 1b,
+        "ulten": 1b,
+        "raten": 1b,
+        "laten": 1b,
+        "healtheight": 1b,
+        "healthsix": 1b,
+        "healthfour": 1b,
+        "healthtwo": 1b,
+        "ModRev": 1
+    },
+    "SpawnerNBT4": {
+        "id": "srparasites:anc_dreadnaut",
+        "Motion": [
+            -0.002988966289168757d,
+            0.10237296461691633d,
+            0.02428879660356049d
+        ],
+        "Rotation": [
+            7.0154557f,
+            0.0f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 0b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "NoGravity": 1b,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 600.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 0,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 600.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 2.0d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.699999988079071d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 24.00000035762787d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 64.0d,
+                "Modifiers": [
+                    {
+                        "Name": "Random spawn bonus",
+                        "Amount": 0.019985880185783268d,
+                        "Operation": 1,
+                        "UUIDMost": -8756624474305442240L,
+                        "UUIDLeast": -6461165007195570885L
+                    }
+                ]
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 2.0d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 0b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "parasitetype": 0,
+        "parasitedespawn": 1b,
+        "parasitekills": -10.0f,
+        "parasitecolob": 1b,
+        "parasitecoldl": 0b,
+        "phasecreat": 0b,
+        "srpinvblocksname": [
+        ],
+        "srpinvblocksnumber": [
+        ],
+        "paracolony": 0b,
+        "damagetypecap": 5,
+        "sprresistances": [
+        ],
+        "sprresistancei": [
+        ],
+        "urten": 1b,
+        "ulten": 1b,
+        "raten": 1b,
+        "laten": 1b,
+        "healtheight": 1b,
+        "healthsix": 1b,
+        "healthfour": 1b,
+        "healthtwo": 1b,
+        "ModRev": 1
+    },
+    "SpawnerNBT5": {
+        "id": "srparasites:anc_dreadnaut",
+        "Motion": [
+            -0.002988966289168757d,
+            0.10237296461691633d,
+            0.02428879660356049d
+        ],
+        "Rotation": [
+            7.0154557f,
+            0.0f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 0b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "NoGravity": 1b,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 600.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 0,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 600.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 2.0d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.699999988079071d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 24.00000035762787d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 64.0d,
+                "Modifiers": [
+                    {
+                        "Name": "Random spawn bonus",
+                        "Amount": 0.019985880185783268d,
+                        "Operation": 1,
+                        "UUIDMost": -8756624474305442240L,
+                        "UUIDLeast": -6461165007195570885L
+                    }
+                ]
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 2.0d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 0b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "parasitetype": 0,
+        "parasitedespawn": 1b,
+        "parasitekills": -10.0f,
+        "parasitecolob": 1b,
+        "parasitecoldl": 0b,
+        "phasecreat": 0b,
+        "srpinvblocksname": [
+        ],
+        "srpinvblocksnumber": [
+        ],
+        "paracolony": 0b,
+        "damagetypecap": 5,
+        "sprresistances": [
+        ],
+        "sprresistancei": [
+        ],
+        "urten": 1b,
+        "ulten": 1b,
+        "raten": 1b,
+        "laten": 1b,
+        "healtheight": 1b,
+        "healthsix": 1b,
+        "healthfour": 1b,
+        "healthtwo": 1b,
+        "ModRev": 1
+    },
+    "SpawnerNBT6": {
+        "id": "srparasites:anc_dreadnaut",
+        "Motion": [
+            -0.002988966289168757d,
+            0.10237296461691633d,
+            0.02428879660356049d
+        ],
+        "Rotation": [
+            7.0154557f,
+            0.0f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 0b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "NoGravity": 1b,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 600.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 0,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 600.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 2.0d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.699999988079071d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 24.00000035762787d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 64.0d,
+                "Modifiers": [
+                    {
+                        "Name": "Random spawn bonus",
+                        "Amount": 0.019985880185783268d,
+                        "Operation": 1,
+                        "UUIDMost": -8756624474305442240L,
+                        "UUIDLeast": -6461165007195570885L
+                    }
+                ]
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 2.0d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 0b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "parasitetype": 0,
+        "parasitedespawn": 1b,
+        "parasitekills": -10.0f,
+        "parasitecolob": 1b,
+        "parasitecoldl": 0b,
+        "phasecreat": 0b,
+        "srpinvblocksname": [
+        ],
+        "srpinvblocksnumber": [
+        ],
+        "paracolony": 0b,
+        "damagetypecap": 5,
+        "sprresistances": [
+        ],
+        "sprresistancei": [
+        ],
+        "urten": 1b,
+        "ulten": 1b,
+        "raten": 1b,
+        "laten": 1b,
+        "healtheight": 1b,
+        "healthsix": 1b,
+        "healthfour": 1b,
+        "healthtwo": 1b,
+        "ModRev": 1
+    },
+    "SpawnerId": "i8MxOalk",
+    "SpawnerDoesntDie": 0b,
+    "SpawnerType": 1,
+    "SpawnerXOffset": 0,
+    "SpawnerYOffset": 0,
+    "SpawnerZOffset": 0,
+    "DespawnOnTargetLost": 1b,
+    "MinExp": 0,
+    "MaxExp": 0,
+    "NpcInv": [
+    ],
+    "Armor": [
+    ],
+    "Weapons": [
+        {
+            "Slot": 1b,
+            "id": "srparasites:itemmobspawner_mes",
+            "Count": 1,
+            "Damage": 0s,
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        }
+    ],
+    "DropChance": [
+        {
+            "Slot": 0,
+            "Integer": 100
+        },
+        {
+            "Slot": 1,
+            "Integer": 100
+        },
+        {
+            "Slot": 2,
+            "Integer": 100
+        },
+        {
+            "Slot": 3,
+            "Integer": 100
+        },
+        {
+            "Slot": 4,
+            "Integer": 100
+        },
+        {
+            "Slot": 5,
+            "Integer": 100
+        },
+        {
+            "Slot": 6,
+            "Integer": 100
+        },
+        {
+            "Slot": 7,
+            "Integer": 100
+        },
+        {
+            "Slot": 8,
+            "Integer": 100
+        }
+    ],
+    "LootMode": 0,
+    "TransformIsActive": 0b,
+    "TransformHasDisplay": 0b,
+    "TransformHasAI": 0b,
+    "TransformHasAdvanced": 0b,
+    "TransformHasInv": 0b,
+    "TransformHasStats": 0b,
+    "TransformHasRole": 0b,
+    "TransformHasJob": 0b,
+    "TransformEditingModus": 0b,
+    "KilledTime": 0L,
+    "TotalTicksAlive": 101523L,
+    "ModRev": 18,
+    "LinkedNpcName": "",
+    "NpcModelData": {
+        "EntityClass": "com.dhanantry.scapeandrunparasites.entity.monster.pure.preeminent.EntityElvia",
+        "ArmsConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": -0.0f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "BodyConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "LegsConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.012000002f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "HeadConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "LegParts": {
+            "Type": 0b,
+            "Color": 16777215,
+            "PlayerTexture": 0b,
+            "Pattern": 0b
+        },
+        "Eyes": {
+            "Type": 0b,
+            "Color": 3361970,
+            "PlayerTexture": 0b,
+            "Pattern": 0b,
+            "Glint": 1b,
+            "SkinColor": 11830381,
+            "BrowColor": 5982516,
+            "PositionY": 1,
+            "BrowThickness": 4
+        },
+        "ExtraData": {
+        },
+        "Parts": [
+        ]
+    }
+}

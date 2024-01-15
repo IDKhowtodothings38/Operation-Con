@@ -1,0 +1,89 @@
+
+{
+  "ID": 116,
+  "Name": "Creeped Lands",
+  "Resource Location": "wyrmsofnyrus:creeped_lands",
+  "Class": "com.vetpetmon.wyrmsofnyrus.world.biome.CreepedLands.WoNCreepedLands",
+  "Root Height": 0.1,
+  "Height Variation": 0.2,
+  "Top Block": "wyrmsofnyrus:hivecreeptop[active\u003d0]",
+  "Filler Block": "wyrmsofnyrus:hivecreepblock[active\u003d0]",
+  "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
+  "Actual Filler Blocks": "Disabled. Activate in BiomeTweakerCore.",
+  "Grass Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Foliage Color": "Disabled. Activate in BiomeTweakerCore.",
+  "Water Color": "-6193834",
+  "Temperature": 0.5,
+  "Humidity": 0.5,
+  "Water Tint": -6193834,
+  "Enable Rain": true,
+  "Enable Snow": false,
+  "Dictionary Types": [
+    "WASTELAND"
+  ],
+  "BiomeManager Entries": {},
+  "Spawnable Creatures": [],
+  "Spawnable Monsters": [
+    {
+      "Entity Class": "com.vetpetmon.wyrmsofnyrus.entity.creeped.EntityMinos",
+      "Weight": 10,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.vetpetmon.wyrmsofnyrus.entity.creeped.EntityCrawler",
+      "Weight": 20,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.vetpetmon.wyrmsofnyrus.entity.creeped.EntityBiter",
+      "Weight": 10,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.vetpetmon.wyrmsofnyrus.entity.creeped.EntityCreepedHumanoid",
+      "Weight": 40,
+      "Min Group Count": 0,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.vetpetmon.wyrmsofnyrus.entity.creeped.EntityPrime",
+      "Weight": 2,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    },
+    {
+      "Entity Class": "com.vetpetmon.wyrmsofnyrus.entity.creeped.EntityCreepwyrm",
+      "Weight": 1,
+      "Min Group Count": 1,
+      "Max Group Count": 1
+    }
+  ],
+  "Spawnable Water Creatures": [],
+  "Spawnable Cave Creatures": [],
+  "Spawn Biome": false,
+  "Tweaked": false,
+  "BOP Generators": {
+    "FLOWERS Generators": [
+      {
+        "ID": "flora",
+        "Name": "glowshrooms"
+      },
+      {
+        "ID": "flora",
+        "Name": "miners_delight"
+      },
+      {
+        "ID": "flora",
+        "Name": "roots"
+      }
+    ]
+  },
+  "BOP Owner": "OTHER",
+  "BOP Weight Map": {},
+  "BOP Climate Weights": {},
+  "BOP Island Weight": 0
+}

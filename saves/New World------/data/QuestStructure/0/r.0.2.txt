@@ -1,0 +1,9 @@
+StoneLeafMound,198,207,1478,1485
+StonePlantMound1,227,233,1524,1530
+StonePlantMound,338,343,1360,1365
+StonePlantMound3,362,371,1454,1465
+StonePlantMound,246,251,1341,1346
+StonePlantMound4,372,379,1401,1408
+BlazeSpawnerCrystal,395,401,1449,1455
+StonePlantMound4,359,366,1256,1263
+StonePlantMound2,431,444,1412,1424

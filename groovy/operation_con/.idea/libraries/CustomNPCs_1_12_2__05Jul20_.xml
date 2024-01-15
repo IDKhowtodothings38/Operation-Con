@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CustomNPCs_1.12.2-(05Jul20)">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../mods/CustomNPCs_1.12.2-(05Jul20).jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

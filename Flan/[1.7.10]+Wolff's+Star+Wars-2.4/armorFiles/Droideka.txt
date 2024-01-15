@@ -1,0 +1,12 @@
+Name Droideka
+ShortName droideka
+ItemID 31218
+Icon droideka
+Colour 255 255 255
+Type Head
+Defence 0.5
+ArmourTexture droideka
+Model mineworld.Droideka
+SmokeProtection False
+NightVision True
+MoveSpeedModifier 0.8

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MatterOverdrive-1.12.2-0.7.1.0-universal">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../mods/MatterOverdrive-1.12.2-0.7.1.0-universal.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

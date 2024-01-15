@@ -1,0 +1,9 @@
+============  GroovyLog  ====  12.01.2024  ============
+GroovyScript version: 0.7.3
+[19:21:28] [CLIENT/INFO] [placeholdername]: Running scripts in loader 'preInit'
+[19:37:15] [CLIENT/INFO] [placeholdername]: Running scripts in loader 'init'
+[19:37:48] [CLIENT/INFO] [placeholdername]: Running scripts in loader 'postInit'
+[19:38:00] [CLIENT/INFO] [placeholdername]:  - executing postInit\early_game.groovy
+[19:38:00] [CLIENT/INFO] [placeholdername]:  - executing postInit\main.groovy
+Hello World!
+[19:38:03] [CLIENT/INFO] [placeholdername]:  - executing postInit\oregen.groovy

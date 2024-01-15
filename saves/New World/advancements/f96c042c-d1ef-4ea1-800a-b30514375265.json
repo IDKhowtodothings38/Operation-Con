@@ -1,0 +1,56 @@
+{
+  "lepidodendron:pf_palaeopedia_given": {
+    "criteria": {
+      "pf_trigger": "2023-12-18 17:00:15 -0600"
+    },
+    "done": true
+  },
+  "enderio:root": {
+    "criteria": {
+      "location": "2023-12-18 17:00:18 -0600"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advsrparmoryroot": {
+    "criteria": {
+      "advsrparmoryroot": "2023-12-18 17:00:32 -0600"
+    },
+    "done": true
+  },
+  "nocubessrpnests:advsrpnestsaddonroot": {
+    "criteria": {
+      "advsrpnestsaddonroot": "2023-12-18 17:00:32 -0600"
+    },
+    "done": true
+  },
+  "wyrmsofnyrus:root": {
+    "criteria": {
+      "tick": "2023-12-18 17:00:32 -0600"
+    },
+    "done": true
+  },
+  "lepidodendron:pf_base_adv": {
+    "criteria": {
+      "tick": "2023-12-18 17:00:32 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2023-12-18 17:00:18 -0600"
+    },
+    "done": false
+  },
+  "lepidodendron:pf_base_adv_knowledge": {
+    "criteria": {
+      "tick": "2023-12-18 17:00:32 -0600"
+    },
+    "done": true
+  },
+  "nocubessrpsurvival:advparasitesurvivalroot": {
+    "criteria": {
+      "advparasitesurvivalroot": "2023-12-18 17:00:32 -0600"
+    },
+    "done": true
+  }
+}

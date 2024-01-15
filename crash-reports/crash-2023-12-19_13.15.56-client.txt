@@ -1,0 +1,338 @@
+---- Minecraft Crash Report ----
+// Lolis deobfuscated this stacktrace using MCP's stable-39 mappings.
+// I let you down. Sorry :(
+
+Time: 2023-12-19 13:15:56 CST
+Description: Initializing game
+
+net.minecraftforge.fml.common.LoaderExceptionModCrash: Caught exception from Modular ForceField System (modularforcefieldsystem)
+Caused by: java.lang.NoClassDefFoundError: com/nekokittygames/mffs/common/tileentity/TileEntityExtractor
+    at com.nekokittygames.mffs.client.ClientProxy.registerTileEntitySpecialRenderer(ClientProxy.java:46)
+    at com.nekokittygames.mffs.common.ModularForceFieldSystem.preInit(ModularForceFieldSystem.java:348)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:497)
+    at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+    at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:497)
+    at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+    at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+    at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+    at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+    at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+    at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+    at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+    at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+    at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:497)
+    at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+    at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+    at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+    at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+    at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+    at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+    at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+    at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+    at net.minecraftforge.fml.common.Loader.preinitializeMods(Loader.java:629)
+    at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:252)
+    at net.minecraft.client.Minecraft.init(Minecraft.java:467)
+    at net.minecraft.client.Minecraft.run(Minecraft.java:4601)
+    at net.minecraft.client.main.Main.main(SourceFile:123)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:497)
+    at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+    at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+Caused by: java.lang.ClassNotFoundException: com.nekokittygames.mffs.common.tileentity.TileEntityExtractor
+    at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+    at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+    at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+    ... 42 more
+Caused by: java.lang.NoClassDefFoundError: cofh/redstoneflux/api/IEnergyReceiver
+    at java.lang.ClassLoader.defineClass1(Native Method)
+    at java.lang.ClassLoader.defineClass(ClassLoader.java:760)
+    at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142)
+    at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+    ... 44 more
+Caused by: java.lang.ClassNotFoundException: cofh.redstoneflux.api.IEnergyReceiver
+    at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+    at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+    at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+    ... 48 more
+Caused by: java.lang.NullPointerException
+    at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182)
+    ... 50 more
+
+No Mixin Metadata is found in the Stacktrace.
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+  Minecraft Version: 1.12.2
+  Operating System: Windows 10 (amd64) version 10.0
+  Java Version: 1.8.0_51, Oracle Corporation
+  Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+  Memory: 5409947704 bytes (5159 MB) / 6361972736 bytes (6067 MB) up to 6361972736 bytes (6067 MB)
+  JVM Flags: 30 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx6G -Xms6G -Xmn768m -XX:+DisableExplicitGC -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+UseNUMA -XX:+CMSParallelRemarkEnabled -XX:MaxTenuringThreshold=15 -XX:MaxGCPauseMillis=30 -XX:GCPauseIntervalMillis=150 -XX:+UseAdaptiveGCBoundary -XX:-UseGCOverheadLimit -XX:+UseBiasedLocking -XX:SurvivorRatio=8 -XX:TargetSurvivorRatio=90 -XX:MaxTenuringThreshold=15 -XX:+UseFastAccessorMethods -XX:+UseCompressedOops -XX:+OptimizeStringConcat -XX:+AggressiveOpts -XX:ReservedCodeCacheSize=2048m -XX:+UseCodeCacheFlushing -XX:SoftRefLRUPolicyMSPerMB=10000 -XX:ParallelGCThreads=10 -XX:+AlwaysPreTouch -XX:+ParallelRefProcEnabled -XX:+PerfDisableSharedMem -XX:-UsePerfData
+  IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+  FML: MCP 9.42 LoliASM 5.18 Powered by Forge 14.23.5.2859 76 mods loaded, 75 mods active
+       States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+       
+       | State | ID                                | Version                             | Source                                                      | Signature                                |
+       |:----- |:--------------------------------- |:----------------------------------- |:----------------------------------------------------------- |:---------------------------------------- |
+       | LCH   | minecraft                         | 1.12.2                              | minecraft.jar                                               | None                                     |
+       | LCH   | mcp                               | 9.42                                | minecraft.jar                                               | None                                     |
+       | LCH   | FML                               | 8.0.99.99                           | forge-1.12.2-14.23.5.2859.jar                               | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+       | LCH   | forge                             | 14.23.5.2859                        | forge-1.12.2-14.23.5.2859.jar                               | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+       | LCH   | placeholdername                   | 1.0.0                               | Operation Con                                               | None                                     |
+       | LCH   | mixinbooter                       | 8.8                                 | minecraft.jar                                               | None                                     |
+       | LCH   | foamfixcore                       | 7.7.4                               | minecraft.jar                                               | None                                     |
+       | LCH   | WarpDriveCore                     | 1.12.2-1.5.28.SNAPSHOT              | minecraft.jar                                               | None                                     |
+       | LCH   | wolffsmod                         | 2.2                                 | [1.12.2]-Flan's-Mod-Vehicles-for-Custom-NPCs-2.2.jar        | None                                     |
+       | LCH   | valkyrienskies                    | 1.1.7                               | [[valkyrien-skies-1.1.7-all]].jar                           | None                                     |
+       | LCH   | forgeendertech                    | 1.12.2-4.5.6.1                      | ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar                | None                                     |
+       | LCH   | adpother                          | 1.12.2-1.2.25.0                     | AdPother-1.12.2-1.2.25.0-build.0673.jar                     | None                                     |
+       | LCH   | libvulpes                         | 0.4.2.-25                           | LibVulpes-1.12.2-0.4.2-25-universal.jar                     | None                                     |
+       | LCH   | advancedrocketry                  | 1.12.2-2.0.0-17                     | AdvancedRocketry-1.12.2-2.0.0-17.jar                        | None                                     |
+       | LCH   | aiimprovements                    | 0.0.1.3                             | AIImprovements-1.12-0.0.1b3.jar                             | None                                     |
+       | LCH   | appliedenergistics2               | rv6-stable-7-extended_life-v0.55.29 | appliedenergistics2-rv6-stable-7-extended_life-v0.55.29.jar | None                                     |
+       | LCH   | attributefix                      | 1.0.12                              | AttributeFix-Forge-1.12.2-1.0.12.jar                        | None                                     |
+       | LCH   | bookshelf                         | 2.3.590                             | Bookshelf-1.12.2-2.3.590.jar                                | d476d1b22b218a10d845928d1665d45fce301b27 |
+       | LCH   | cctweaked                         | 1.89.2                              | cc-tweaked-1.12.2-1.89.2.jar                                | None                                     |
+       | LCH   | computercraft                     | 1.89.2                              | cc-tweaked-1.12.2-1.89.2.jar                                | None                                     |
+       | LCH   | jei                               | 4.16.1.301                          | jei_1.12.2-4.16.1.301.jar                                   | None                                     |
+       | LCH   | loliasm                           | 5.18                                | censoredasm5.18.jar                                         | None                                     |
+       | LCH   | codechickenlib                    | 3.2.3.358                           | CodeChickenLib-1.12.2-3.2.3.358-universal.jar               | f1850c39b2516232a2108a7bd84d1cb5df93b261 |
+       | LCH   | custommainmenu                    | 2.0.9.1                             | CustomMainMenu-MC1.12.2-2.0.9.1.jar                         | None                                     |
+       | LCH   | customnpcs                        | 1.12                                | CustomNPCs_1.12.2-(05Jul20).jar                             | None                                     |
+       | LCH   | endercore                         | 1.12.2-0.5.78                       | EnderCore-1.12.2-0.5.78.jar                                 | None                                     |
+       | LCH   | enderio                           | 5.3.72                              | EnderIO-1.12.2-5.3.72.jar                                   | None                                     |
+       | LCH   | enderiointegrationtic             | 5.3.72                              | EnderIO-1.12.2-5.3.72.jar                                   | None                                     |
+       | LCH   | enderiobase                       | 5.3.72                              | EnderIO-1.12.2-5.3.72.jar                                   | None                                     |
+       | LCH   | enderioconduits                   | 5.3.72                              | EnderIO-1.12.2-5.3.72.jar                                   | None                                     |
+       | LCH   | enderioconduitsappliedenergistics | 5.3.72                              | EnderIO-1.12.2-5.3.72.jar                                   | None                                     |
+       | LCH   | enderioconduitsopencomputers      | 5.3.72                              | EnderIO-1.12.2-5.3.72.jar                                   | None                                     |
+       | LCH   | enderioconduitsrefinedstorage     | 5.3.72                              | EnderIO-1.12.2-5.3.72.jar                                   | None                                     |
+       | LCH   | enderiointegrationforestry        | 5.3.72                              | EnderIO-1.12.2-5.3.72.jar                                   | None                                     |
+       | LCH   | enderiointegrationticlate         | 5.3.72                              | EnderIO-1.12.2-5.3.72.jar                                   | None                                     |
+       | LCH   | enderioinvpanel                   | 5.3.72                              | EnderIO-1.12.2-5.3.72.jar                                   | None                                     |
+       | LCH   | enderiomachines                   | 5.3.72                              | EnderIO-1.12.2-5.3.72.jar                                   | None                                     |
+       | LCH   | enderiopowertools                 | 5.3.72                              | EnderIO-1.12.2-5.3.72.jar                                   | None                                     |
+       | LCH   | fastfurnace                       | 1.3.1                               | FastFurnace-1.12.2-1.3.1.jar                                | None                                     |
+       | LCH   | fastleafdecay                     | v14                                 | FastLeafDecay-v14.jar                                       | None                                     |
+       | LCH   | fastbench                         | 1.7.4                               | FastWorkbench-1.12.2-1.7.4.jar                              | None                                     |
+       | LCH   | flansmod                          | 5.10.0                              | Flan's Mod-1.12.2-5.10.0.jar                                | None                                     |
+       | LCH   | foamfix                           | @VERSION@                           | foamfix-0.10.15-1.12.2.jar                                  | None                                     |
+       | LCH   | fpsreducer                        | mc1.12.2-1.20                       | FpsReducer-mc1.12.2-1.20.jar                                | None                                     |
+       | LCH   | gamestages                        | 2.0.123                             | GameStages-1.12.2-2.0.123.jar                               | d476d1b22b218a10d845928d1665d45fce301b27 |
+       | LCH   | geckolib3                         | 3.0.30                              | geckolib-forge-1.12.2-3.0.31.jar                            | None                                     |
+       | LCH   | groovyscript                      | 0.7.2                               | groovyscript-0.7.2.jar                                      | None                                     |
+       | LCH   | guideapi                          | 1.12-2.1.8-63                       | Guide-API-1.12-2.1.8-63.jar                                 | None                                     |
+       | LCH   | patchouli                         | 1.0-23.6                            | Patchouli-1.0-23.6.jar                                      | None                                     |
+       | LCH   | llibrary                          | 1.7.20                              | llibrary-1.7.20-1.12.2.jar                                  | b9f30a813bee3b9dd5652c460310cfcd54f6b7ec |
+       | LCH   | lepidodendron                     | 58.01                               | lepidodendron-1.12.2-58.01.jar                              | None                                     |
+       | LCH   | lostcities                        | 2.0.22                              | lostcities-1.12-2.0.22.jar                                  | None                                     |
+       | LCE   | modularforcefieldsystem           | 3.0.1                               | MFFS-1.12.2-4.0.1.0_1.12_cc3a5aa.jar                        | None                                     |
+       | LC    | modernweaponspack                 | 5.8.2                               | Modern Warfare-Content Pack-1.12.2-5.8.2.jar                | None                                     |
+       | LC    | numina                            | 1.0                                 | Numina-1.12.2-1.1.049.jar                                   | None                                     |
+       | LC    | powersuits                        | 1.1.048                             | ModularPowersuits-1.12.2-1.1.048.jar                        | None                                     |
+       | LC    | nocubessrparmory                  | 3.0.0                               | NoCubes_SRP_Combat_Addon_3.0.0.jar                          | None                                     |
+       | LC    | nocubessrpnests                   | 3.0.0                               | NoCubes_SRP_Nests_Addon_3.0.0.jar                           | None                                     |
+       | LC    | nocubessrpsurvival                | 3.0.0                               | NoCubes_SRP_Survival_Addon_3.0.0.jar                        | None                                     |
+       | LC    | omlib                             | 3.1.5-256                           | omlib-1.12.2-3.1.5-256.jar                                  | None                                     |
+       | LC    | openmodularturrets                | 3.1.14-382                          | openmodularturrets-1.12.2-3.1.14-382.jar                    | None                                     |
+       | LC    | particleculling                   | v1.4.1                              | particleculling-1.12.2-v1.4.1.jar                           | None                                     |
+       | LC    | performant                        | 1.12.2-1.5                          | performant-1.11.jar                                         | None                                     |
+       | LC    | placebo                           | 1.6.0                               | Placebo-1.12.2-1.6.1.jar                                    | None                                     |
+       | LC    | simplepartspack                   | 5.7.2                               | Simple Parts-Content Pack-1.12.2-5.7.2.jar                  | None                                     |
+       | LC    | srparasites                       | 1.9.12                              | SRParasites-1.12.2v1.9.12.jar                               | None                                     |
+       | LC    | scapeandrunvaccine                | 1.0.0                               | srpvaccine-1.0.0.jar                                        | None                                     |
+       | LC    | synlib                            | 2.0                                 | synlib-2.0.jar                                              | None                                     |
+       | LC    | tickdynamic                       | 1.0.3                               | TickDynamic-1.12.2-1.0.3.jar                                | None                                     |
+       | LC    | vs_world                          | 1.12.2-1.0.0                        | vs-world-1.12.2-1.0.0.jar                                   | None                                     |
+       | LC    | vs_control                        | 1.12.2-1.1.1                        | vs-control-1.12.2-1.1.1.jar                                 | None                                     |
+       | LC    | matteroverdrive                   | 0.7.0.0                             | MatterOverdrive-1.12.2-0.7.1.0-universal.jar                | None                                     |
+       | LC    | warpdrive                         | 1.12.2-1.5.28.SNAPSHOT              | WarpDrive-1.12.2-1.5.28.jar                                 | f7be6b40743c6a8205df86c5e57547d578605d8a |
+       | LC    | ww2pack                           | 5.7.2                               | WW2-Content Pack-1.12.2-5.7.2.jar                           | None                                     |
+       | LC    | wyrmsofnyrus                      | 0.5.90                              | wyrmsofnyrus-0.5.90.jar                                     | None                                     |
+       | UD    | advancedrocketrycore              | 1                                   | minecraft.jar                                               | None                                     |
+  Loaded coremods (and transformers): LoadingPlugin (AdPother-1.12.2-1.2.25.0-build.0673.jar)
+                                        com.endertech.minecraft.mods.adpother.transformers.AcidRain$Vanilla
+                                        com.endertech.minecraft.mods.adpother.transformers.AcidRain$DynamicSurroundings
+                                        com.endertech.minecraft.mods.adpother.transformers.AcidRain$Weather2$Mesh
+                                        com.endertech.minecraft.mods.adpother.transformers.AcidRain$Weather2$Render
+                                        com.endertech.minecraft.mods.adpother.transformers.ActuallyAdditions$FurnaceDouble
+                                        com.endertech.minecraft.mods.adpother.transformers.ActuallyAdditions$CoalGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.AdvancedRocketry$Rocket
+                                        com.endertech.minecraft.mods.adpother.transformers.BetterWithMods$Furnace
+                                        com.endertech.minecraft.mods.adpother.transformers.Campfire$Cooking
+                                        com.endertech.minecraft.mods.adpother.transformers.ControlledBurn$Fire
+                                        com.endertech.minecraft.mods.adpother.transformers.CookingForBlockheads$Oven
+                                        com.endertech.minecraft.mods.adpother.transformers.DraconicEvolution$Generator
+                                        com.endertech.minecraft.mods.adpother.transformers.EmbersRekindled$EmberBore
+                                        com.endertech.minecraft.mods.adpother.transformers.EmbersRekindled$SteamEngine
+                                        com.endertech.minecraft.mods.adpother.transformers.EnderIO$CombustionGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.EnderIO$StirlingGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.EngineersDecor$DecorFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.Factory0Resources$BurnerDrill
+                                        com.endertech.minecraft.mods.adpother.transformers.FastFurnace$Burning
+                                        com.endertech.minecraft.mods.adpother.transformers.FastFurnace$Smelting
+                                        com.endertech.minecraft.mods.adpother.transformers.FurnaceOverhaul$Burning
+                                        com.endertech.minecraft.mods.adpother.transformers.FurnaceOverhaul$Smelting
+                                        com.endertech.minecraft.mods.adpother.transformers.FutureMC$AdvancedFurnace$Burning
+                                        com.endertech.minecraft.mods.adpother.transformers.FutureMC$AdvancedFurnace$Smelting
+                                        com.endertech.minecraft.mods.adpother.transformers.FloodLights$CarbonFloodlight
+                                        com.endertech.minecraft.mods.adpother.transformers.Galacticraft$AutoRocket
+                                        com.endertech.minecraft.mods.adpother.transformers.Galacticraft$Buggy
+                                        com.endertech.minecraft.mods.adpother.transformers.Gregicality$PrimitiveBlastFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.Gregtech$CokeOven
+                                        com.endertech.minecraft.mods.adpother.transformers.Gregtech$LargeBoilerLiquidFuel
+                                        com.endertech.minecraft.mods.adpother.transformers.Gregtech$LargeBoilerSolidFuel
+                                        com.endertech.minecraft.mods.adpother.transformers.Gregtech$BoilerRecipeLogic
+                                        com.endertech.minecraft.mods.adpother.transformers.Gregtech$FuelRecipeLogic
+                                        com.endertech.minecraft.mods.adpother.transformers.Gregtech$PrimitiveBlastFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.Gregtech$SteamCoalBoiler
+                                        com.endertech.minecraft.mods.adpother.transformers.Gregtech$SteamLavaBoiler
+                                        com.endertech.minecraft.mods.adpother.transformers.HBMsNuclearTech$Boiler
+                                        com.endertech.minecraft.mods.adpother.transformers.HBMsNuclearTech$BurnerPress
+                                        com.endertech.minecraft.mods.adpother.transformers.HBMsNuclearTech$CombustionGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.HBMsNuclearTech$DieselGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.HBMsNuclearTech$GasFlare
+                                        com.endertech.minecraft.mods.adpother.transformers.HBMsNuclearTech$IndustrialGeneratorSolid
+                                        com.endertech.minecraft.mods.adpother.transformers.HBMsNuclearTech$IndustrialGeneratorLiquid
+                                        com.endertech.minecraft.mods.adpother.transformers.HBMsNuclearTech$Turbofan
+                                        com.endertech.minecraft.mods.adpother.transformers.HBMsNuclearTech$RadialEngine
+                                        com.endertech.minecraft.mods.adpother.transformers.HBMsNuclearTech$Extended$Firebox
+                                        com.endertech.minecraft.mods.adpother.transformers.HBMsNuclearTech$Extended$GasFlare
+                                        com.endertech.minecraft.mods.adpother.transformers.HBMsNuclearTech$Extended$IronFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.HBMsNuclearTech$Extended$HeaterOilburner
+                                        com.endertech.minecraft.mods.adpother.transformers.HBMsNuclearTech$Extended$SteelFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveCraft$FurnaceTE
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveEngineering$AllowSmelter
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveEngineering$BlastFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveEngineering$CokeOven
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveEngineering$DieselGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersivePetroleum$Motorboat
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersivePetroleum$PortableGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveRailroading$LocomotiveDiesel
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveRailroading$LocomotiveSteam
+                                        com.endertech.minecraft.mods.adpother.transformers.ImmersiveTechnology$Boiler
+                                        com.endertech.minecraft.mods.adpother.transformers.IndustrialForegoing$FuelGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.IndustrialForegoing$ReactorGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.IndustrialRenewal$FluidGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.IndustrialRenewal$SteamBoiler$LiquidFuel
+                                        com.endertech.minecraft.mods.adpother.transformers.IndustrialRenewal$SteamBoiler$SolidFuel
+                                        com.endertech.minecraft.mods.adpother.transformers.Magneticraft$CombustionChamber
+                                        com.endertech.minecraft.mods.adpother.transformers.Magneticraft$BigChamberSolidFuel
+                                        com.endertech.minecraft.mods.adpother.transformers.Magneticraft$BigChamberLiquidFuel
+                                        com.endertech.minecraft.mods.adpother.transformers.Mekanism$FuelwoodHeater
+                                        com.endertech.minecraft.mods.adpother.transformers.MekanismGenerators$BioGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.MekanismGenerators$GasGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.MekanismGenerators$HeatGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.Metallurgy$Alloyer
+                                        com.endertech.minecraft.mods.adpother.transformers.Metallurgy$Crusher
+                                        com.endertech.minecraft.mods.adpother.transformers.Minecraft$AnimalFeeding
+                                        com.endertech.minecraft.mods.adpother.transformers.Minecraft$FurnaceSmelting
+                                        com.endertech.minecraft.mods.adpother.transformers.MoreFurnaces$IronFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MrCrayfish$Vehicle
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$InferiumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$IntermediumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$PrudentiumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$SuperiumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$SupremiumFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.MysticalAgriculture$UltimateFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.Natura$NetherrackFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.PneumaticCraft$AirCompressor
+                                        com.endertech.minecraft.mods.adpother.transformers.PrimalCore$RecipeHelper
+                                        com.endertech.minecraft.mods.adpother.transformers.Pyrotech$TileCombustion
+                                        com.endertech.minecraft.mods.adpother.transformers.RealisticBlockPhysics$FallingBlock
+                                        com.endertech.minecraft.mods.adpother.transformers.RealisticTorches$BlockTorch
+                                        com.endertech.minecraft.mods.adpother.transformers.RFTools$CoalGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.SRParasites$BlockInfestedStain
+                                        com.endertech.minecraft.mods.adpother.transformers.StevesCarts$ModuleCoal
+                                        com.endertech.minecraft.mods.adpother.transformers.Techguns$MachineSlot
+                                        com.endertech.minecraft.mods.adpother.transformers.TechReborn$TileIronAlloyFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.TechReborn$TileIronFurnace
+                                        com.endertech.minecraft.mods.adpother.transformers.TechReborn$TileSolidFuelGenerator
+                                        com.endertech.minecraft.mods.adpother.transformers.TerraFirmaCraft$CharcoalForge
+                                        com.endertech.minecraft.mods.adpother.transformers.TerraFirmaCraft$FirePit
+                                        com.endertech.minecraft.mods.adpother.transformers.TerraFirmaCraft$LogPile
+                                        com.endertech.minecraft.mods.adpother.transformers.TinkersComplement$HighOven
+                                        com.endertech.minecraft.mods.adpother.transformers.TinkersConstruct$HeatingStructure
+                                        com.endertech.minecraft.mods.adpother.transformers.TinkersConstruct$SmelteryAlloys
+                                        com.endertech.minecraft.mods.adpother.transformers.SimpleGrinder$CoalGrinder
+                                        com.endertech.minecraft.mods.adpother.transformers.UltimateCarMod$Car
+                                        com.endertech.minecraft.mods.adpother.transformers.ViesCraft$AirShip
+                                        com.endertech.minecraft.mods.adpother.renders.AerometerRender
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$BlockCaughtFire
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$BlockUpdateTick
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$BlockExploded
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$GetSkyColor
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$FurnaceFuelBurned
+                                        com.endertech.minecraft.mods.adpother.pollution.WorldData$LavaTouchesWater
+                                        com.endertech.minecraft.mods.adpother.transformers.ZenFoundry$BurnerHeater
+                                        com.endertech.minecraft.mods.adpother.transformers.ZenFoundry$MoldStation
+                                      Born in a Barn (Born In A Barn 1.8-1.12-1.2.jar)
+                                        com.chocohead.biab.BornInABarn
+                                      Do not report to Forge! (If you haven't disabled the FoamFix coremod, try disabling it in the config! Note that this bit of text will still appear.) (foamfix-0.10.15-1.12.2.jar)
+                                        pl.asie.foamfix.coremod.FoamFixTransformer
+                                      LoadingPlugin (TickDynamic-1.12.2-1.0.3.jar)
+                                        com.wildex999.patcher.TransformerPatcher
+                                        com.wildex999.patcher.EntityInjector
+                                      ParticleCullingLoadingPlugin (particleculling-1.12.2-v1.4.1.jar)
+                                        
+                                      EnderCorePlugin (EnderCore-1.12.2-0.5.78-core.jar)
+                                        com.enderio.core.common.transform.EnderCoreTransformer
+                                        com.enderio.core.common.transform.SimpleMixinPatcher
+                                      AE2ELCore (appliedenergistics2-rv6-stable-7-extended_life-v0.55.29.jar)
+                                        appeng.core.transformer.AE2ELTransformer
+                                      llibrary (llibrary-core-1.0.11-1.12.2.jar)
+                                        net.ilexiconn.llibrary.server.core.plugin.LLibraryTransformer
+                                        net.ilexiconn.llibrary.server.core.patcher.LLibraryRuntimePatcher
+                                      AdvancedRocketryPlugin (AdvancedRocketry-1.12.2-2.0.0-17.jar)
+                                        zmaster587.advancedRocketry.asm.ClassTransformer
+                                      WarpDriveCore (WarpDrive-1.12.2-1.5.28.jar)
+                                        cr0s.warpdrive.core.ClassTransformer
+                                      CorePlugin (ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar)
+                                        
+                                      MixinLoaderForge ([[valkyrien-skies-1.1.7-all]].jar)
+                                        
+                                      LoliASM (censoredasm5.18.jar)
+                                        
+                                      GroovyScript-Core (groovyscript-0.7.2.jar)
+                                        
+                                      MixinBooter (!mixinbooter-8.8.jar)
+  GL info: ' Vendor: 'ATI Technologies Inc.' Version: '4.6.14831 Compatibility Profile Context 21.5.2 27.20.20903.8001' Renderer: 'AMD Radeon(TM) R3 Graphics'
+  AE2 Version: stable rv6-stable-7-extended_life-v0.55.29 for Forge 14.23.5.2847
+  Ender IO: No known problems detected.
+            Authlib is : /C:/Users/Student/AppData/Roaming/.minecraft/libraries/com/mojang/authlib/1.5.25/authlib-1.5.25.jar
+            
+            !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+            !!!You are looking at the diagnostics information, not at the crash.       !!!
+            !!!Scroll up until you see the line with '---- Minecraft Crash Report ----'!!!
+            !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  Patchouli open book context: n/a
+  Suspected Mods: Modular ForceField System (modularforcefieldsystem), Forge Mod Loader (FML), Minecraft Forge (forge)
+  Launched Version: 1.12.2-forge-14.23.5.2859
+  LWJGL: 2.9.4
+  OpenGL: AMD Radeon(TM) R3 Graphics GL version 4.6.14831 Compatibility Profile Context 21.5.2 27.20.20903.8001, ATI Technologies Inc.
+  GL Caps: Using GL 1.3 multitexturing.
+           Using GL 1.3 texture combiners.
+           Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+           Shaders are available because OpenGL 2.1 is supported.
+           VBOs are available because OpenGL 1.5 is supported.
+  Using VBOs: Yes
+  Is Modded: Definitely; Client brand changed to 'fml,forge'
+  Type: Client (map_client.txt)
+  Resource Packs: 
+  Current Language: English (US)
+  Profiler Position: N/A (disabled)
+  CPU: 2x AMD A4-9125 RADEON R3, 4 COMPUTE CORES 2C+2G

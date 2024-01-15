@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="!mixinbooter-8.9">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../mods/!mixinbooter-8.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

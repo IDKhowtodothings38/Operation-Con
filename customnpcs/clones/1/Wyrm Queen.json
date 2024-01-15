@@ -1,0 +1,1406 @@
+{
+    "id": "customnpcs:customnpc",
+    "Motion": [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    "Rotation": [
+        150.23761f,
+        0.0f
+    ],
+    "FallDistance": 0.0f,
+    "Fire": -1s,
+    "Air": 300s,
+    "OnGround": 1b,
+    "Dimension": 0,
+    "Invulnerable": 0b,
+    "PortalCooldown": 0,
+    "UpdateBlocked": 0b,
+    "ForgeData": {
+        "srpcothimmunity": 1,
+        "cnpcmarkdata": {
+            "marks": [
+            ]
+        }
+    },
+    "ForgeCaps": {
+        "llibrary:extendedentitydatacapability": {
+        }
+    },
+    "Health": 1650.0f,
+    "HurtTime": 0s,
+    "HurtByTimestamp": 69024,
+    "DeathTime": 0s,
+    "AbsorptionAmount": 0.0f,
+    "Attributes": [
+        {
+            "Name": "generic.maxHealth",
+            "Base": 1650.0d
+        },
+        {
+            "Name": "generic.knockbackResistance",
+            "Base": 0.0d
+        },
+        {
+            "Name": "generic.movementSpeed",
+            "Base": 0.25d
+        },
+        {
+            "Name": "generic.armor",
+            "Base": 0.0d
+        },
+        {
+            "Name": "generic.armorToughness",
+            "Base": 0.0d
+        },
+        {
+            "Name": "forge.swimSpeed",
+            "Base": 1.0d
+        },
+        {
+            "Name": "generic.followRange",
+            "Base": 128.0d
+        },
+        {
+            "Name": "generic.attackDamage",
+            "Base": 5.0d
+        },
+        {
+            "Name": "generic.flyingSpeed",
+            "Base": 0.5d
+        }
+    ],
+    "FallFlying": 0b,
+    "CanPickUpLoot": 0b,
+    "PersistenceRequired": 0b,
+    "ArmorItems": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "HandItems": [
+        {
+        },
+        {
+        }
+    ],
+    "ArmorDropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "HandDropChances": [
+        0.085f,
+        0.085f
+    ],
+    "Leashed": 0b,
+    "LeftHanded": 0b,
+    "Name": "Wyrm Queen",
+    "MarkovGeneratorId": 3,
+    "MarkovGender": 0,
+    "Title": "",
+    "SkinUrl": "",
+    "Texture": "customnpcs:textures/2022_08_08_galactic-mission---full-skin-20696613.png",
+    "CloakTexture": "",
+    "GlowTexture": "",
+    "UsingSkinUrl": 0b,
+    "Size": 10,
+    "ShowName": 1,
+    "SkinColor": 16777215,
+    "NpcVisible": 0,
+    "NoLivingAnimation": 0b,
+    "IsStatue": 0b,
+    "BossBar": 1b,
+    "BossColor": 3,
+    "Resistances": {
+        "Knockback": 1.0f,
+        "Arrow": 1.0f,
+        "Melee": 1.0f,
+        "Explosion": 1.0f
+    },
+    "MaxHealth": 1650,
+    "AggroRange": 16,
+    "HideBodyWhenKilled": 0b,
+    "RespawnTime": 0,
+    "SpawnCycle": 3,
+    "CreatureType": 0,
+    "HealthRegen": 1,
+    "CombatRegen": 0,
+    "ImmuneToFire": 0b,
+    "PotionImmune": 0b,
+    "CanDrown": 1b,
+    "BurnInSun": 0b,
+    "NoFallDamage": 0b,
+    "IgnoreCobweb": 0b,
+    "AttackStrenght": 5,
+    "AttackSpeed": 20,
+    "AttackRange": 2,
+    "KnockBack": 0,
+    "PotionEffect": 0,
+    "PotionDuration": 5,
+    "PotionAmp": 0,
+    "BurstCount": 1,
+    "pSpeed": 10,
+    "pDamage": 4,
+    "pImpact": 0,
+    "pSize": 5,
+    "pArea": 0,
+    "pTrail": 0,
+    "MaxFiringRange": 15,
+    "FireRate": 5,
+    "minDelay": 20,
+    "maxDelay": 40,
+    "ShotCount": 1,
+    "Accuracy": 60,
+    "pRender3D": 1b,
+    "pSpin": 0b,
+    "pStick": 0b,
+    "pPhysics": 1b,
+    "pXlr8": 0b,
+    "pGlows": 0b,
+    "AimWhileShooting": 0b,
+    "pEffect": 0,
+    "pDur": 5,
+    "pEffAmp": 0,
+    "FiringSound": "minecraft:entity.arrow.shoot",
+    "HitSound": "minecraft:entity.arrow.hit",
+    "GroundSound": "minecraft:block.stone.break",
+    "FireIndirect": 0,
+    "DistanceToMelee": 0,
+    "CanSwim": 1b,
+    "ReactsToFire": 0b,
+    "AvoidsWater": 0b,
+    "AvoidsSun": 0b,
+    "ReturnToStart": 0b,
+    "OnAttack": 0,
+    "DoorInteract": 1,
+    "FindShelter": 2,
+    "DirectLOS": 0b,
+    "CanLeap": 0b,
+    "CanSprint": 0b,
+    "TacticalRadius": 8,
+    "MovingPause": 1b,
+    "npcInteracting": 1b,
+    "stopAndInteract": 0b,
+    "MoveState": 0,
+    "StandingState": 0,
+    "MovingState": 0,
+    "TacticalVariant": 0,
+    "MovementType": 0,
+    "Orientation": 0,
+    "PositionOffsetX": 5.0f,
+    "PositionOffsetY": 5.0f,
+    "PositionOffsetZ": 5.0f,
+    "WalkingRange": 10,
+    "MoveSpeed": 5,
+    "MovingPos": 0,
+    "MovingPatern": 0,
+    "AttackInvisible": 0b,
+    "Scripts": [
+        {
+            "Script": "var  target;
+var world;
+var npc
+
+function target(e) {
+    target = e.entity;
+    npc = e.npc;
+    world = e.npc.getWorld();
+    
+    var chance = Math.random();
+    
+    if (chance < 0.5) {
+        suicide_bombers(e.API, 5);
+    }
+    else if (chance < 0.6) {
+        crystals(e.API, 5);
+    }
+    else if (chance < 0.75) {
+        lightning_strike(e, 10);
+    }
+      
+}
+
+function randomNumber(min, max) {
+    return Math.random() * (max - min) + min;
+}
+
+function lightning_strike(e, strikeNum) {
+    world = e.npc.getWorld();
+    var targetPos = target.getPos();
+    var targetX = targetPos.x;
+    var targetY = targetPos.y;
+    var targetZ = targetPos.z;
+    
+    for(var i = 0; i < strikeNum; i++) {
+       world.thunderStrike(randomNumber(targetX, targetX + 5), targetY ,randomNumber(targetZ, targetZ + 5));
+    }
+ }
+ 
+function suicide_bombers(api, numOfBombers) {
+    var npcX = npc.getPos().x;
+    var npcY = npc.getPos().y;
+    var npcZ = npc.getPos().z;
+    
+    for(var i = 0; i < numOfBombers; i++) {
+        api.getClones().spawn(randomNumber(npcX, npcX + 6), randomNumber(npcY, npcY + 6), randomNumber(npcZ, npcZ + 6), 1, \"Homing Missile\", world);
+    }
+ }
+    
+function crystals (api, numOfCrystals) {
+    var npcX = npc.getPos().x;
+    var npcY = npc.getPos().y;
+    var npcZ = npc.getPos().z;
+    
+    for(var i = 0; i < numOfCrystals; i++) {
+        api.getClones().spawn(randomNumber(npcX, npcX + 20), randomNumber(npcY, npcY + 5), randomNumber(npcZ, npcZ + 20), 1, \"Crystal\", world);
+    }
+}
+
+   
+
+
+
+",
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "//AoE gravity push/pull
+
+var Intensity = -2.0 //Positive values are a push, neative values are a pull.
+var MaxRange = 15
+var DistanceScalar = 0.3 //How the push/pull effect will be amplified based on the distance between npc and target. Can be negative. 0 for no effect
+var Speed = 15 //How fast the wave goes out. Higher is slower
+var Particle = \"instantSpell\" // You can edit specifics further down in the script
+
+var AbilityAttemptTime = 5 //seconds
+
+function init(t){
+t.npc.timers.forceStart(1,AbilityAttemptTime*20,true)}
+
+function timer(t){
+if(t.id==1){
+if(t.npc.isAttacking()){
+CircleAttack(t.npc) 
+}}}
+
+function CircleAttack(npc){
+var Thread = Java.type(\"java.lang.Thread\");
+var HankThread = Java.extend(Thread,{run: function(){
+npc.world.playSoundAt(npc.getPos(),\"minecraft:entity.blaze.shoot\",1,1)
+var vics = npc.world.getNearbyEntities(npc.x,npc.y,npc.z,MaxRange,5)
+for(var j = 0;j<vics.length;++j){
+if(vics[j]!=npc){
+var dist = npc.getPos().distanceTo(vics[j].getPos())
+var Str = Intensity + DistanceScalar*dist
+var d = FrontVectors(npc,GetPlayerRotation(npc,vics[j]),0,Intensity,0)
+vics[j].setMotionX(d[0])
+vics[j].setMotionY(0.1)
+vics[j].setMotionZ(d[2])}}
+if(Intensity > 0){
+for(var k = 0; k< MaxRange*2;++k){
+for(var i = 0; i<72;++i){
+var d = FrontVectors(npc,i*5,0,k/2*(Intensity/Math.abs(Intensity)),0)
+npc.world.spawnParticle(Particle,npc.x+d[0],npc.y,npc.z+d[2],0,0,0,0,1)}
+Thread.sleep(Speed)}}
+else{
+for(var k = MaxRange*2; k>0 ;--k){
+for(var i = 0; i<72;++i){
+var d = FrontVectors(npc,i*5,0,k/2*(Intensity/Math.abs(Intensity)),0)
+npc.world.spawnParticle(Particle,npc.x+d[0],npc.y,npc.z+d[2],0,0,0,0,1)}
+Thread.sleep(Speed)}}
+}});var H = new HankThread();H.start();}
+
+function GetPlayerRotation(npc, player){
+var dx = npc.getX()-player.getX();
+var dz = player.getZ()-npc.getZ();
+if(dz>=0){
+var angle = (Math.atan(dx/dz)*180/Math.PI);
+if(angle < 0){
+angle = 360+angle;}}
+if(dz<0){
+dz = -dz;
+var angle = 180-(Math.atan(dx/dz)*180/Math.PI);}
+return angle;}
+
+function FrontVectors(entity,dr,dp,distance,mode){
+if(mode == 1){var angle = dr + entity.getRotation();var pitch = (-entity.getPitch()+dp)*Math.PI/180}
+if(mode == 0){var angle = dr;var pitch = (dp)*Math.PI/180}
+var dx = -Math.sin(angle*Math.PI/180)*(distance*Math.cos(pitch))
+var dy = Math.sin(pitch)*distance
+var dz = Math.cos(angle*Math.PI/180)*(distance*Math.cos(pitch))
+return [dx,dy,dz]}",
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "//Explosion Beam
+var BreakBlocks = true;
+var Range = 15;
+var Damage = 12;
+var Sound = \"icbmclassic:explosion\" //Plays an extra sound along with the explosion
+var Speed = 100 // How quickly the beam moves. Lower is faster
+var Resolution = 0.5 //How many \"explosions / block\"
+var ExtendDistance = 10 //How far past the player the explosions will continue
+
+var AbilityAttemptTime = 5 //seconds
+
+function init(t){
+t.npc.timers.forceStart(1,AbilityAttemptTime*20,true)}
+
+function timer(t){
+if(t.id==1){
+if(t.npc.isAttacking() && t.npc.isAlive()){
+BoomLine(t.npc)}}}
+
+//This cancels self knockback from the explosions. It's not super necessary. If you're getting crashes you can delete it.
+function damaged(t){
+if(t.damageSource.getType().indexOf(\"explosion\") != -1){
+t.setCanceled(true)
+var Thread = Java.type(\"java.lang.Thread\");
+var MyThread = Java.extend(Thread,{
+run: function(){
+Thread.sleep(10)
+t.npc.setMotionX(0)
+t.npc.setMotionY(0)
+t.npc.setMotionZ(0)}});
+var th = new MyThread();
+th.start();}}
+
+function BoomLine(npc){
+var Thread = Java.type(\"java.lang.Thread\");
+var HankThread = Java.extend(Thread,{run: function(){
+var targ = npc.getAttackTarget()
+if(targ == null)return;
+npc.swingMainhand()
+var d = FrontVectors(npc,GetPlayerRotation(npc,targ),GetPlayerPitch(npc,targ),ExtendDistance,0)
+var x1 = npc.x;var y1 = npc.y;var z1 = npc.z;
+var x2 = targ.x+d[0];var y2 = targ.y+1+d[1];var z2 = targ.z+d[2];
+var ParticleTotal = Math.round(TrueDistanceCoord(x1,y1,z1,x2,y2,z2)*Resolution)
+for(var i = 0; i < ParticleTotal; i++){
+var x = (x1 + (x2-x1)*(i/ParticleTotal)).toFixed(4);
+var y = (y1 + 1 + (y2-y1)*(i/ParticleTotal)).toFixed(4);
+var z = (z1 + (z2-z1)*(i/ParticleTotal)).toFixed(4);
+var CurrentPos = npc.world.getBlock(x,y,z).getPos()
+npc.world.playSoundAt(CurrentPos,Sound,1,1)
+if(BreakBlocks){
+npc.world.explode(x,y,z,Range,false,true)}
+else{
+npc.world.spawnParticle(\"huge_explosion\",x,y,z,0,0,0,0,1)
+npc.world.playSoundAt(CurrentPos,\"minecraft:entity.generic.explode\",1,1)}
+var targs = npc.world.getNearbyEntities(CurrentPos,Range,5)
+for(var t = 0; t<targs.length;++t){
+if(targs[t]!=npc){
+targs[t].damage(Damage)}}
+Thread.sleep(Speed)}
+}});var H = new HankThread();H.start();}
+
+function TrueDistanceCoord(x1,y1,z1,x2,y2,z2){
+var dx = x1 - x2
+var dy = y1 - y2
+var dz = z1 - z2
+var R = Math.pow((dx*dx+dy*dy+dz*dz),0.5)
+return R;}
+
+function GetPlayerRotation(npc, player){
+var dx = npc.getX()-player.getX();
+var dz = player.getZ()-npc.getZ();
+if(dz>=0){
+var angle = (Math.atan(dx/dz)*180/Math.PI);
+if(angle < 0){
+angle = 360+angle;}}
+if(dz<0){
+dz = -dz;
+var angle = 180-(Math.atan(dx/dz)*180/Math.PI);}
+return angle;}
+
+function GetPlayerPitch(npc,player){
+var distance = Math.sqrt(Math.pow((npc.x - player.x),2)+Math.pow((npc.z - player.z),2))
+var dy = player.y-npc.y
+var pitch = Math.atan(dy/distance)*180/Math.PI
+return pitch}
+
+function FrontVectors(entity,dr,dp,distance,mode){
+if(!mode)mode=0
+if(mode == 1){var angle = dr + entity.getRotation();var pitch = (-entity.getPitch()+dp)*Math.PI/180}
+if(mode == 0){var angle = dr;var pitch = (dp)*Math.PI/180}
+var dx = -Math.sin(angle*Math.PI/180)*(distance*Math.cos(pitch))
+var dy = Math.sin(pitch)*distance
+var dz = Math.cos(angle*Math.PI/180)*(distance*Math.cos(pitch))
+return [dx,dy,dz]}
+
+
+//end",
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "var LaunchSpeed = 1.8
+var CloneName = \"Homing Missile\"
+var ServerClonesTab = 1
+var AutoTarget = true //manually set the projectile NPCs attack target to the NPC's attack target
+
+function rangedLaunched(t){
+var npc = t.npc
+var targ = npc.getAttackTarget()
+if(!targ)return;
+var shot = t.projectiles[0]
+shot.despawn()
+var clone = t.API.clones.spawn(npc.x,npc.y+1.5,npc.z,ServerClonesTab,CloneName,npc.world)
+var d = FrontVectors(npc,GetPlayerRotation(npc, targ),GetPlayerPitch(npc,targ)+5,LaunchSpeed,0)
+clone.setMotionX(d[0])
+clone.setMotionY(d[1])
+clone.setMotionZ(d[2])
+if(AutoTarget)clone.setAttackTarget(targ)}
+
+function FrontVectors(entity,dr,dp,distance,mode){
+if(!mode)mode=0
+if(mode == 1){var angle = dr + entity.getRotation();var pitch = (-entity.getPitch()+dp)*Math.PI/180;if(dp==0)pitch=0;}
+if(mode == 0){var angle = dr;var pitch = (dp)*Math.PI/180}
+var dx = -Math.sin(angle*Math.PI/180)*(distance*Math.cos(pitch))
+var dy = Math.sin(pitch)*distance
+var dz = Math.cos(angle*Math.PI/180)*(distance*Math.cos(pitch))
+return [dx,dy,dz]}
+
+
+function GetPlayerRotation(npc, player){
+var dx = npc.getX()-player.getX();
+var dz = player.getZ()-npc.getZ();
+if(dz>=0){
+var angle = (Math.atan(dx/dz)*180/Math.PI);
+if(angle < 0){
+angle = 360+angle;}}
+if(dz<0){
+dz = -dz;
+var angle = 180-(Math.atan(dx/dz)*180/Math.PI);}
+return angle;}
+
+function GetPlayerPitch(npc,player){
+var distance = Math.sqrt(Math.pow((npc.x - player.x),2)+Math.pow((npc.z - player.z),2))
+var dy = player.y-npc.y
+var pitch = Math.atan(dy/distance)*180/Math.PI
+return pitch}
+
+
+//end",
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        }
+    ],
+    "ScriptLanguage": "ECMAScript",
+    "ScriptEnabled": 1b,
+    "NpcsTimers": [
+        {
+            "ID": 1,
+            "TimerTicks": 1,
+            "Repeat": 1b,
+            "Ticks": 71
+        }
+    ],
+    "NpcLines": {
+        "Lines": [
+        ]
+    },
+    "NpcKilledLines": {
+        "Lines": [
+        ]
+    },
+    "NpcInteractLines": {
+        "Lines": [
+            {
+                "Slot": 0,
+                "Line": "Hello @p",
+                "Song": ""
+            }
+        ]
+    },
+    "NpcAttackLines": {
+        "Lines": [
+        ]
+    },
+    "NpcKillLines": {
+        "Lines": [
+        ]
+    },
+    "NpcInteractNPCLines": {
+        "Lines": [
+        ]
+    },
+    "OrderedLines": 0b,
+    "NpcIdleSound": "wyrmsofnyrus:entity.creepedhumanoidroar",
+    "NpcAngrySound": "wyrmsofnyrus:entity.fungallidliving",
+    "NpcHurtSound": "wyrmsofnyrus:entity.myrmur",
+    "NpcDeathSound": "wyrmsofnyrus:maxinfamy",
+    "NpcStepSound": "",
+    "FactionID": 3,
+    "AttackOtherFactions": 1b,
+    "DefendFaction": 0b,
+    "DisablePitch": 0b,
+    "Role": 0,
+    "NpcJob": 6,
+    "FactionPoints": {
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "OptionFaction2Points": 100,
+        "DecreaseFaction1Points": 0b,
+        "DecreaseFaction2Points": 0b
+    },
+    "NPCDialogOptions": [
+    ],
+    "NpcScenes": {
+        "Scenes": [
+        ]
+    },
+    "SpawnerNBT1": {
+        "id": "wyrmsofnyrus:wyrmsoldier",
+        "Motion": [
+            0.0d,
+            -0.0784000015258789d,
+            0.0d
+        ],
+        "Rotation": [
+            143.30814f,
+            0.0f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 1b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+            "srpcothimmunity": 0,
+            "NpcSpawnerId": "qsmoxtZX",
+            "NpcSpawnerNr": 6,
+            "cnpcmarkdata": {
+                "marks": [
+                ]
+            }
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 37.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 0,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 37.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 0.699999988079071d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.5d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 7.25d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 40.0d
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 4.0d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 1b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "variant": 1,
+        "size": 1.0f,
+        "ModRev": 1,
+        "Pos": [
+            -425.0238603949547d,
+            44.0d,
+            134.24295943975454d
+        ]
+    },
+    "SpawnerNBT2": {
+        "id": "wyrmsofnyrus:wyrmsoldier",
+        "Motion": [
+            0.0d,
+            -0.0784000015258789d,
+            0.0d
+        ],
+        "Rotation": [
+            143.30814f,
+            0.0f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 1b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+            "srpcothimmunity": 0,
+            "NpcSpawnerId": "qsmoxtZX",
+            "NpcSpawnerNr": 6,
+            "cnpcmarkdata": {
+                "marks": [
+                ]
+            }
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 37.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 0,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 37.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 0.699999988079071d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.5d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 7.25d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 40.0d
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 4.0d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 1b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "variant": 1,
+        "size": 1.0f,
+        "ModRev": 1,
+        "Pos": [
+            -425.09454649686813d,
+            44.0d,
+            134.09678816795355d
+        ]
+    },
+    "SpawnerNBT3": {
+        "id": "wyrmsofnyrus:wyrmsoldier",
+        "Motion": [
+            0.0d,
+            -0.0784000015258789d,
+            0.0d
+        ],
+        "Rotation": [
+            143.30814f,
+            0.0f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 1b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+            "srpcothimmunity": 0,
+            "NpcSpawnerId": "qsmoxtZX",
+            "NpcSpawnerNr": 6,
+            "cnpcmarkdata": {
+                "marks": [
+                ]
+            }
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 37.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 0,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 37.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 0.699999988079071d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.5d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 7.25d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 40.0d
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 4.0d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 1b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "variant": 1,
+        "size": 1.0f,
+        "ModRev": 1,
+        "Pos": [
+            -425.4296587705612d,
+            44.0d,
+            134.17124265432363d
+        ]
+    },
+    "SpawnerNBT4": {
+        "id": "wyrmsofnyrus:wyrmsoldier",
+        "Motion": [
+            0.0d,
+            -0.0784000015258789d,
+            0.0d
+        ],
+        "Rotation": [
+            143.30814f,
+            0.0f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 1b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+            "srpcothimmunity": 0,
+            "NpcSpawnerId": "qsmoxtZX",
+            "NpcSpawnerNr": 6,
+            "cnpcmarkdata": {
+                "marks": [
+                ]
+            }
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 37.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 0,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 37.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 0.699999988079071d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.5d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 7.25d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 40.0d
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 4.0d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 1b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "variant": 1,
+        "size": 1.0f,
+        "ModRev": 1,
+        "Pos": [
+            -424.920629799366d,
+            44.0d,
+            134.69086754322058d
+        ]
+    },
+    "SpawnerNBT5": {
+        "id": "wyrmsofnyrus:wyrmsoldier",
+        "Motion": [
+            0.0d,
+            -0.0784000015258789d,
+            0.0d
+        ],
+        "Rotation": [
+            143.30814f,
+            0.0f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 1b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+            "srpcothimmunity": 0,
+            "NpcSpawnerId": "qsmoxtZX",
+            "NpcSpawnerNr": 6,
+            "cnpcmarkdata": {
+                "marks": [
+                ]
+            }
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 37.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 0,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 37.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 0.699999988079071d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.5d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 7.25d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 40.0d
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 4.0d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 1b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "variant": 1,
+        "size": 1.0f,
+        "ModRev": 1,
+        "Pos": [
+            -424.90460020303726d,
+            44.0d,
+            134.79347765445715d
+        ]
+    },
+    "SpawnerNBT6": {
+        "id": "wyrmsofnyrus:wyrmsoldier",
+        "Motion": [
+            0.0d,
+            -0.0784000015258789d,
+            0.0d
+        ],
+        "Rotation": [
+            143.30814f,
+            0.0f
+        ],
+        "FallDistance": 0.0f,
+        "Fire": -1s,
+        "Air": 300s,
+        "OnGround": 1b,
+        "Dimension": 0,
+        "Invulnerable": 0b,
+        "PortalCooldown": 0,
+        "UpdateBlocked": 0b,
+        "ForgeData": {
+            "srpcothimmunity": 0,
+            "NpcSpawnerId": "qsmoxtZX",
+            "NpcSpawnerNr": 6,
+            "cnpcmarkdata": {
+                "marks": [
+                ]
+            }
+        },
+        "ForgeCaps": {
+            "llibrary:extendedentitydatacapability": {
+            }
+        },
+        "Health": 37.0f,
+        "HurtTime": 0s,
+        "HurtByTimestamp": 0,
+        "DeathTime": 0s,
+        "AbsorptionAmount": 0.0f,
+        "Attributes": [
+            {
+                "Name": "generic.maxHealth",
+                "Base": 37.0d
+            },
+            {
+                "Name": "generic.knockbackResistance",
+                "Base": 0.699999988079071d
+            },
+            {
+                "Name": "generic.movementSpeed",
+                "Base": 0.5d
+            },
+            {
+                "Name": "generic.armor",
+                "Base": 7.25d
+            },
+            {
+                "Name": "generic.armorToughness",
+                "Base": 0.0d
+            },
+            {
+                "Name": "forge.swimSpeed",
+                "Base": 1.0d
+            },
+            {
+                "Name": "generic.followRange",
+                "Base": 40.0d
+            },
+            {
+                "Name": "generic.attackDamage",
+                "Base": 4.0d
+            }
+        ],
+        "FallFlying": 0b,
+        "CanPickUpLoot": 0b,
+        "PersistenceRequired": 1b,
+        "ArmorItems": [
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            }
+        ],
+        "HandItems": [
+            {
+            },
+            {
+            }
+        ],
+        "ArmorDropChances": [
+            0.085f,
+            0.085f,
+            0.085f,
+            0.085f
+        ],
+        "HandDropChances": [
+            0.085f,
+            0.085f
+        ],
+        "Leashed": 0b,
+        "LeftHanded": 0b,
+        "variant": 1,
+        "size": 1.0f,
+        "ModRev": 1,
+        "Pos": [
+            -425.59959322214127d,
+            44.0d,
+            134.177972316742d
+        ]
+    },
+    "SpawnerId": "qsmoxtZX",
+    "SpawnerDoesntDie": 1b,
+    "SpawnerType": 1,
+    "SpawnerXOffset": 5,
+    "SpawnerYOffset": 0,
+    "SpawnerZOffset": 5,
+    "DespawnOnTargetLost": 1b,
+    "MinExp": 0,
+    "MaxExp": 0,
+    "NpcInv": [
+    ],
+    "Armor": [
+    ],
+    "Weapons": [
+        {
+            "Slot": 0b,
+            "id": "enderio:item_staff_of_levity",
+            "Count": 1,
+            "Damage": 0s,
+            "tag": {
+                "enderio.darksteel.upgrade.energyUpgrade": {
+                    "level": 3,
+                    "energy": 1000000
+                },
+                "enderio:famount": 8000
+            },
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        },
+        {
+            "Slot": 1b,
+            "id": "wyrmsofnyrus:creepedflesh",
+            "Count": 1,
+            "Damage": 0s,
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        },
+        {
+            "Slot": 2b,
+            "id": "enderio:item_travel_staff",
+            "Count": 1,
+            "Damage": 0s,
+            "tag": {
+                "enderio.darksteel.upgrade.energyUpgrade": {
+                    "level": 3,
+                    "energy": 1000000
+                }
+            },
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        }
+    ],
+    "DropChance": [
+        {
+            "Slot": 0,
+            "Integer": 100
+        },
+        {
+            "Slot": 1,
+            "Integer": 100
+        },
+        {
+            "Slot": 2,
+            "Integer": 100
+        },
+        {
+            "Slot": 3,
+            "Integer": 100
+        },
+        {
+            "Slot": 4,
+            "Integer": 100
+        },
+        {
+            "Slot": 5,
+            "Integer": 100
+        },
+        {
+            "Slot": 6,
+            "Integer": 100
+        },
+        {
+            "Slot": 7,
+            "Integer": 100
+        },
+        {
+            "Slot": 8,
+            "Integer": 100
+        }
+    ],
+    "LootMode": 0,
+    "TransformIsActive": 0b,
+    "TransformHasDisplay": 0b,
+    "TransformHasAI": 0b,
+    "TransformHasAdvanced": 0b,
+    "TransformHasInv": 0b,
+    "TransformHasStats": 0b,
+    "TransformHasRole": 0b,
+    "TransformHasJob": 0b,
+    "TransformEditingModus": 0b,
+    "KilledTime": 0L,
+    "TotalTicksAlive": 62763L,
+    "ModRev": 18,
+    "LinkedNpcName": "",
+    "NpcModelData": {
+        "ArmsConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": -0.0f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "BodyConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "LegsConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.012000002f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "HeadConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "LegParts": {
+            "Type": 0b,
+            "Color": 16777215,
+            "PlayerTexture": 0b,
+            "Pattern": 0b
+        },
+        "Eyes": {
+            "Type": 0b,
+            "Color": 15892389,
+            "PlayerTexture": 0b,
+            "Pattern": 0b,
+            "Glint": 1b,
+            "SkinColor": 11830381,
+            "BrowColor": 5982516,
+            "PositionY": 1,
+            "BrowThickness": 4
+        },
+        "ExtraData": {
+        },
+        "Parts": [
+        ]
+    }
+}

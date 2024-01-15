@@ -1,0 +1,131 @@
+{
+    "id": "srparasites:anc_dreadnaut",
+    "Motion": [
+        -0.002988966289168757d,
+        0.10237296461691633d,
+        0.02428879660356049d
+    ],
+    "Rotation": [
+        7.0154557f,
+        0.0f
+    ],
+    "FallDistance": 0.0f,
+    "Fire": -1s,
+    "Air": 300s,
+    "OnGround": 0b,
+    "Dimension": 0,
+    "Invulnerable": 0b,
+    "PortalCooldown": 0,
+    "NoGravity": 1b,
+    "UpdateBlocked": 0b,
+    "ForgeData": {
+    },
+    "ForgeCaps": {
+        "llibrary:extendedentitydatacapability": {
+        }
+    },
+    "Health": 600.0f,
+    "HurtTime": 0s,
+    "HurtByTimestamp": 0,
+    "DeathTime": 0s,
+    "AbsorptionAmount": 0.0f,
+    "Attributes": [
+        {
+            "Name": "generic.maxHealth",
+            "Base": 600.0d
+        },
+        {
+            "Name": "generic.knockbackResistance",
+            "Base": 2.0d
+        },
+        {
+            "Name": "generic.movementSpeed",
+            "Base": 0.699999988079071d
+        },
+        {
+            "Name": "generic.armor",
+            "Base": 24.00000035762787d
+        },
+        {
+            "Name": "generic.armorToughness",
+            "Base": 0.0d
+        },
+        {
+            "Name": "forge.swimSpeed",
+            "Base": 1.0d
+        },
+        {
+            "Name": "generic.followRange",
+            "Base": 64.0d,
+            "Modifiers": [
+                {
+                    "Name": "Random spawn bonus",
+                    "Amount": 0.019985880185783268d,
+                    "Operation": 1,
+                    "UUIDMost": -8756624474305442240L,
+                    "UUIDLeast": -6461165007195570885L
+                }
+            ]
+        },
+        {
+            "Name": "generic.attackDamage",
+            "Base": 2.0d
+        }
+    ],
+    "FallFlying": 0b,
+    "CanPickUpLoot": 0b,
+    "PersistenceRequired": 0b,
+    "ArmorItems": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "HandItems": [
+        {
+        },
+        {
+        }
+    ],
+    "ArmorDropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "HandDropChances": [
+        0.085f,
+        0.085f
+    ],
+    "Leashed": 0b,
+    "LeftHanded": 0b,
+    "parasitetype": 0,
+    "parasitedespawn": 1b,
+    "parasitekills": -10.0f,
+    "parasitecolob": 1b,
+    "parasitecoldl": 0b,
+    "phasecreat": 0b,
+    "srpinvblocksname": [
+    ],
+    "srpinvblocksnumber": [
+    ],
+    "paracolony": 0b,
+    "damagetypecap": 5,
+    "sprresistances": [
+    ],
+    "sprresistancei": [
+    ],
+    "urten": 1b,
+    "ulten": 1b,
+    "raten": 1b,
+    "laten": 1b,
+    "healtheight": 1b,
+    "healthsix": 1b,
+    "healthfour": 1b,
+    "healthtwo": 1b,
+    "ModRev": 1
+}
