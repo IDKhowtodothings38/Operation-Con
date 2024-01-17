@@ -1,0 +1,1 @@
+{ "parent": "block/cube", "textures": { "particle": "flansmod:blocks/IconFCBox", "down": "flansmod:blocks/boxBottom", "up": "flansmod:blocks/boxTop", "north": "flansmod:blocks/IconFCBox", "east": "flansmod:blocks/IconFCBox", "south": "flansmod:blocks/IconFCBox", "west": "flansmod:blocks/IconFCBox" } } 
