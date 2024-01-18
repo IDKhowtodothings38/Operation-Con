@@ -103,6 +103,18 @@ key_Zepplin Airship Turn Right:77
 key_Zepplin Airship Down:74
 key_Zepplin Airship Stop:76
 key_key.groovyscript.reload:19:CONTROL
+key_Options.Reload:25
+key_Force Play:24
+key_Options.Shortcut1:0
+key_Options.Shortcut2:0
+key_Options.Shortcut3:0
+key_Options.Shortcut4:0
+key_Options.Shortcut5:0
+key_Options.Ocarina1:200
+key_Options.Ocarina2:208
+key_Options.Ocarina3:205
+key_Options.Ocarina4:203
+key_Options.Ocarina5:157
 key_key.betterquesting.quests:41
 key_key.mclib.dashboard:11
 key_Scene1 start/pause:79
@@ -159,6 +171,8 @@ key_key.primaryVehicleInteract.desc:-100
 key_key.secondaryVehicleInteract.desc:-99
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
+key_jecalculation.key.gui_craft:0
+key_jecalculation.key.gui_math:0
 key_key.lepidodendron.seetaxidermy:68
 key_key.lepidodendron.boatdown:208
 key_key.lepidodendron.boatup:200
@@ -229,7 +243,7 @@ key_enderio.keybind.fovplus:0
 key_enderio.keybind.fovminus:0
 key_enderio.keybind.fovplusfast:0
 key_enderio.keybind.fovminusfast:0
-soundCategory_master:1.0
+soundCategory_master:1.0000001
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

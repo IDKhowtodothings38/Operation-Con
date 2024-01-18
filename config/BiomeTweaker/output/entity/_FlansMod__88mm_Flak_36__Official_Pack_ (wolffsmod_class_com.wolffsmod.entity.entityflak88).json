@@ -1,0 +1,6 @@
+
+{
+  "Name": "[FlansMod] 88mm Flak 36 (Official Pack)",
+  "Registry ID": "wolffsmod:class com.wolffsmod.entity.entityflak88",
+  "Class": "com.wolffsmod.entity.EntityFlak88"
+}

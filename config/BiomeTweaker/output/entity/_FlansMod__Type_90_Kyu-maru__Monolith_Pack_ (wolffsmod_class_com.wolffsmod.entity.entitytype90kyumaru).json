@@ -1,0 +1,6 @@
+
+{
+  "Name": "[FlansMod] Type 90 Kyu-maru (Monolith Pack)",
+  "Registry ID": "wolffsmod:class com.wolffsmod.entity.entitytype90kyumaru",
+  "Class": "com.wolffsmod.entity.EntityType90KyuMaru"
+}

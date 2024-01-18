@@ -1343,6 +1343,39 @@ valkyrienskies:captains_chair, Captain's Chair
 valkyrienskies:passenger_chair, Passenger Chair
 valkyrienskies:vs_water_pump, Water Pump
 valkyrienskies:boat_chair, Boat Chair
+ambience:soundnizer, Soundnizer
+ambience:horn, Horn of the Gods
+ambience:ocarina, Ocarina
+ambience:speaker, Speaker
+ambience:songswitcher, Song Switcher
+ambience:songswitcher_lit, tile.songswitcher_lit.name
+ambience:alarm_white:0, Alarm White
+ambience:alarm_lit_white:0, tile.alarm_lit_white.name
+ambience:alarm_red:0, Alarm Red
+ambience:alarm_orange:0, Alarm Orange
+ambience:alarm_yellow:0, Alarm Yellow
+ambience:alarm_lime:0, Alarm Lime
+ambience:alarm_green:0, Alarm Green
+ambience:alarm_lightblue:0, Alarm Light Blue
+ambience:alarm_cyan:0, Alarm Cyan
+ambience:alarm_blue:0, Alarm Blue
+ambience:alarm_purple:0, Alarm Purple
+ambience:alarm_magenta:0, Alarm Magenta
+ambience:alarm_pink:0, Alarm Pink
+ambience:alarm_brown:0, Alarm Brown
+ambience:alarm_lit_red:0, Alarm Red Lit
+ambience:alarm_lit_orange:0, Alarm Orange Lit
+ambience:alarm_lit_yellow:0, Alarm Yellow Lit
+ambience:alarm_lit_lime:0, Alarm Lime Lit
+ambience:alarm_lit_green:0, Alarm Green Lit
+ambience:alarm_lit_lightblue:0, Alarm Light Blue Lit
+ambience:alarm_lit_cyan:0, Alarm Cyan Lit
+ambience:alarm_lit_blue:0, Alarm Blue Lit
+ambience:alarm_lit_purple:0, Alarm Purple Lit
+ambience:alarm_lit_magenta:0, Alarm Magenta Lit
+ambience:alarm_lit_pink:0, Alarm Pink Lit
+ambience:alarm_lit_brown:0, Alarm Brown Lit
+ambience:bell, Watersheep Council Bell
 appliedenergistics2:quartz_ore, Certus Quartz Ore
 appliedenergistics2:charged_quartz_ore, Charged Certus Quartz Ore
 appliedenergistics2:matrix_frame, Matrix Frame
@@ -2995,11 +3028,20 @@ appliedenergistics2:facade:0, Cable Facade - Zone 1
 appliedenergistics2:facade:0, Cable Facade - Zorg 1
 appliedenergistics2:facade:0, Cable Facade - Ztyl 1
 appliedenergistics2:facade:0, Cable Facade - Zyth 1
+appliedenergistics2:facade:0, Cable Facade - German Weapons Box
+appliedenergistics2:facade:0, Cable Facade - American Weapons Box
+appliedenergistics2:facade:0, Cable Facade - Russian Weapons Box
+appliedenergistics2:facade:0, Cable Facade - Modern Weapons Box
+appliedenergistics2:facade:0, Cable Facade - Japanese Weapons Box
+appliedenergistics2:facade:0, Cable Facade - Advanced Modern Weapons Box
+appliedenergistics2:facade:0, Cable Facade - WW2 Armor Box
+appliedenergistics2:facade:0, Cable Facade - British Weapons Box
+appliedenergistics2:facade:0, Cable Facade - Modern Warfare Armor Box
 appliedenergistics2:facade:0, Cable Facade - Vehicle Crafting Table
 appliedenergistics2:facade:0, Cable Facade - Block of Gunpowder
 appliedenergistics2:facade:0, Cable Facade - Adobe Bricks
-appliedenergistics2:facade:0, Cable Facade - Algal Reef
 appliedenergistics2:facade:0, Cable Facade - Sticky Algal Reef
+appliedenergistics2:facade:0, Cable Facade - Algal Reef
 appliedenergistics2:facade:0, Cable Facade - Baltic Amber Block
 appliedenergistics2:facade:0, Cable Facade - Baltic Amber Bricks
 appliedenergistics2:facade:0, Cable Facade - Baltic Amber Ore
@@ -3047,8 +3089,8 @@ appliedenergistics2:facade:0, Cable Facade - Pleistocene Fossilliferous Stone
 appliedenergistics2:facade:0, Cable Facade - Precambrian Fossilliferous Stone
 appliedenergistics2:facade:0, Cable Facade - Silurian Fossilliferous Stone
 appliedenergistics2:facade:0, Cable Facade - Triassic Fossilliferous Stone
-appliedenergistics2:facade:0, Cable Facade - Glass Sponge Reef
 appliedenergistics2:facade:0, Cable Facade - Sticky Glass Sponge Reef
+appliedenergistics2:facade:0, Cable Facade - Glass Sponge Reef
 appliedenergistics2:facade:0, Cable Facade - Rippled Gravel
 appliedenergistics2:facade:0, Cable Facade - Sticky Rippled Gravel
 appliedenergistics2:facade:0, Cable Facade - Molten Lava Cobblestone
@@ -3114,8 +3156,8 @@ appliedenergistics2:facade:0, Cable Facade - Macroneuropteris Leaves
 appliedenergistics2:facade:0, Cable Facade - Magnolia Leaves
 appliedenergistics2:facade:0, Cable Facade - Maple Leaves
 appliedenergistics2:facade:0, Cable Facade - Nehvizdyella Leaves
-appliedenergistics2:facade:0, Cable Facade - Olive Leaves with Berries
 appliedenergistics2:facade:0, Cable Facade - Olive Leaves
+appliedenergistics2:facade:0, Cable Facade - Olive Leaves with Berries
 appliedenergistics2:facade:0, Cable Facade - Pagiophyllum Leaves
 appliedenergistics2:facade:0, Cable Facade - Pentoxylales Leaves
 appliedenergistics2:facade:0, Cable Facade - Pentoxylales Leaves with Seeds
@@ -3226,9 +3268,9 @@ appliedenergistics2:facade:0, Cable Facade - Mud
 appliedenergistics2:facade:0, Cable Facade - Caustic Mud
 appliedenergistics2:facade:0, Cable Facade - Dried Mud
 appliedenergistics2:facade:0, Cable Facade - Salt Ore
-appliedenergistics2:facade:0, Cable Facade - Sulphur Ore
 appliedenergistics2:facade:0, Cable Facade - Lava Rock Sulphur Ore
 appliedenergistics2:facade:0, Cable Facade - Obsidian Sulphur Ore
+appliedenergistics2:facade:0, Cable Facade - Sulphur Ore
 appliedenergistics2:facade:0, Cable Facade - Netherrack Sulphur Ore
 appliedenergistics2:facade:0, Cable Facade - Peat
 appliedenergistics2:facade:0, Cable Facade - Peridotite
@@ -3327,19 +3369,19 @@ appliedenergistics2:facade:0, Cable Facade - Sticky Black Sand
 appliedenergistics2:facade:0, Cable Facade - Rippled Black Sand
 appliedenergistics2:facade:0, Cable Facade - Sticky Rippled Black Sand
 appliedenergistics2:facade:0, Cable Facade - Microbial Organic Ground
-appliedenergistics2:facade:0, Cable Facade - Rippled Ferric Sand
 appliedenergistics2:facade:0, Cable Facade - Sticky Rippled Ferric Sand
 appliedenergistics2:facade:0, Cable Facade - Sticky Ferric Sand
+appliedenergistics2:facade:0, Cable Facade - Rippled Ferric Sand
 appliedenergistics2:facade:0, Cable Facade - Ferric Sand
-appliedenergistics2:facade:0, Cable Facade - Pangaean Sand
 appliedenergistics2:facade:0, Cable Facade - Sticky Pangaean Sand
+appliedenergistics2:facade:0, Cable Facade - Pangaean Sand
 appliedenergistics2:facade:0, Cable Facade - Rippled Pangaean Sand
 appliedenergistics2:facade:0, Cable Facade - Sticky Rippled Pangaean Sand
 appliedenergistics2:facade:0, Cable Facade - Sticky Red Sand
 appliedenergistics2:facade:0, Cable Facade - Rippled Red Sand
 appliedenergistics2:facade:0, Cable Facade - Sticky Rippled Red Sand
-appliedenergistics2:facade:0, Cable Facade - Sticky Sand
 appliedenergistics2:facade:0, Cable Facade - Sticky Gravel
+appliedenergistics2:facade:0, Cable Facade - Sticky Sand
 appliedenergistics2:facade:0, Cable Facade - Black Sandstone
 appliedenergistics2:facade:0, Cable Facade - Carved Black Sandstone
 appliedenergistics2:facade:0, Cable Facade - Smooth Black Sandstone
@@ -3395,8 +3437,8 @@ appliedenergistics2:facade:0, Cable Facade - Tietea Thatch Bundle
 appliedenergistics2:facade:0, Cable Facade - Thrombolite
 appliedenergistics2:facade:0, Cable Facade - Sticky Thrombolite
 appliedenergistics2:facade:0, Cable Facade - Zircon Block
-appliedenergistics2:facade:0, Cable Facade - Obsidian Zircon Ore
 appliedenergistics2:facade:0, Cable Facade - Zircon Ore
+appliedenergistics2:facade:0, Cable Facade - Obsidian Zircon Ore
 appliedenergistics2:facade:0, Cable Facade - Lava Rock Zircon Ore
 appliedenergistics2:facade:0, Cable Facade - Faint Parasitic Nest Block
 appliedenergistics2:facade:0, Cable Facade - Sturdy Parasitic Nest Block
@@ -6538,142 +6580,142 @@ gregtech:fluid_pipe_nonuple:115, Nonuple Tungsten Fluid Pipe
 gregtech:fluid_pipe_nonuple:396, Nonuple Tungstencarbide Fluid Pipe
 gregtech:fluid_pipe_nonuple:2013, Nonuple Tungstensteel Fluid Pipe
 gregtech:fluid_pipe_nonuple:2036, Nonuple Vanadiumsteel Fluid Pipe
-gregtech:item_pipe_small:259, Small Brass Item Pipe
-gregtech:item_pipe_small:301, Small Rose Gold Item Pipe
-gregtech:item_pipe_small:302, Small Black Bronze Item Pipe
 gregtech:item_pipe_small:69, Small Nickel Item Pipe
-gregtech:item_pipe_small:80, Small Platinum Item Pipe
-gregtech:item_pipe_small:23, Small Cobalt Item Pipe
-gregtech:item_pipe_small:75, Small Osmium Item Pipe
-gregtech:item_pipe_small:112, Small Tin Item Pipe
-gregtech:item_pipe_small:277, Small Electrum Item Pipe
 gregtech:item_pipe_small:3, Small Americium Item Pipe
 gregtech:item_pipe_small:344, Small Osmiridium Item Pipe
-gregtech:item_pipe_small:2014, Small Cobalt Brass Item Pipe
-gregtech:item_pipe_small:274, Small Cupronickel Item Pipe
-gregtech:item_pipe_small:331, Small Ultimet Item Pipe
+gregtech:item_pipe_small:277, Small Electrum Item Pipe
 gregtech:item_pipe_small:290, Small Magnalium Item Pipe
+gregtech:item_pipe_small:259, Small Brass Item Pipe
+gregtech:item_pipe_small:112, Small Tin Item Pipe
+gregtech:item_pipe_small:75, Small Osmium Item Pipe
+gregtech:item_pipe_small:331, Small Ultimet Item Pipe
+gregtech:item_pipe_small:80, Small Platinum Item Pipe
+gregtech:item_pipe_small:274, Small Cupronickel Item Pipe
+gregtech:item_pipe_small:302, Small Black Bronze Item Pipe
 gregtech:item_pipe_small:300, Small Sterling Silver Item Pipe
+gregtech:item_pipe_small:301, Small Rose Gold Item Pipe
 gregtech:item_pipe_small:1007, Small Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_normal:259, Brass Item Pipe
-gregtech:item_pipe_normal:301, Rose Gold Item Pipe
-gregtech:item_pipe_normal:302, Black Bronze Item Pipe
+gregtech:item_pipe_small:23, Small Cobalt Item Pipe
+gregtech:item_pipe_small:2014, Small Cobalt Brass Item Pipe
 gregtech:item_pipe_normal:69, Nickel Item Pipe
-gregtech:item_pipe_normal:80, Platinum Item Pipe
-gregtech:item_pipe_normal:23, Cobalt Item Pipe
-gregtech:item_pipe_normal:75, Osmium Item Pipe
-gregtech:item_pipe_normal:112, Tin Item Pipe
-gregtech:item_pipe_normal:277, Electrum Item Pipe
 gregtech:item_pipe_normal:3, Americium Item Pipe
 gregtech:item_pipe_normal:344, Osmiridium Item Pipe
-gregtech:item_pipe_normal:2014, Cobalt Brass Item Pipe
-gregtech:item_pipe_normal:274, Cupronickel Item Pipe
-gregtech:item_pipe_normal:331, Ultimet Item Pipe
+gregtech:item_pipe_normal:277, Electrum Item Pipe
 gregtech:item_pipe_normal:290, Magnalium Item Pipe
+gregtech:item_pipe_normal:259, Brass Item Pipe
+gregtech:item_pipe_normal:112, Tin Item Pipe
+gregtech:item_pipe_normal:75, Osmium Item Pipe
+gregtech:item_pipe_normal:331, Ultimet Item Pipe
+gregtech:item_pipe_normal:80, Platinum Item Pipe
+gregtech:item_pipe_normal:274, Cupronickel Item Pipe
+gregtech:item_pipe_normal:302, Black Bronze Item Pipe
 gregtech:item_pipe_normal:300, Sterling Silver Item Pipe
+gregtech:item_pipe_normal:301, Rose Gold Item Pipe
 gregtech:item_pipe_normal:1007, Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_large:259, Large Brass Item Pipe
-gregtech:item_pipe_large:301, Large Rose Gold Item Pipe
-gregtech:item_pipe_large:302, Large Black Bronze Item Pipe
+gregtech:item_pipe_normal:23, Cobalt Item Pipe
+gregtech:item_pipe_normal:2014, Cobalt Brass Item Pipe
 gregtech:item_pipe_large:69, Large Nickel Item Pipe
-gregtech:item_pipe_large:80, Large Platinum Item Pipe
-gregtech:item_pipe_large:23, Large Cobalt Item Pipe
-gregtech:item_pipe_large:75, Large Osmium Item Pipe
-gregtech:item_pipe_large:112, Large Tin Item Pipe
-gregtech:item_pipe_large:277, Large Electrum Item Pipe
 gregtech:item_pipe_large:3, Large Americium Item Pipe
 gregtech:item_pipe_large:344, Large Osmiridium Item Pipe
-gregtech:item_pipe_large:2014, Large Cobalt Brass Item Pipe
-gregtech:item_pipe_large:274, Large Cupronickel Item Pipe
-gregtech:item_pipe_large:331, Large Ultimet Item Pipe
+gregtech:item_pipe_large:277, Large Electrum Item Pipe
 gregtech:item_pipe_large:290, Large Magnalium Item Pipe
+gregtech:item_pipe_large:259, Large Brass Item Pipe
+gregtech:item_pipe_large:112, Large Tin Item Pipe
+gregtech:item_pipe_large:75, Large Osmium Item Pipe
+gregtech:item_pipe_large:331, Large Ultimet Item Pipe
+gregtech:item_pipe_large:80, Large Platinum Item Pipe
+gregtech:item_pipe_large:274, Large Cupronickel Item Pipe
+gregtech:item_pipe_large:302, Large Black Bronze Item Pipe
 gregtech:item_pipe_large:300, Large Sterling Silver Item Pipe
+gregtech:item_pipe_large:301, Large Rose Gold Item Pipe
 gregtech:item_pipe_large:1007, Large Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_huge:259, Huge Brass Item Pipe
-gregtech:item_pipe_huge:301, Huge Rose Gold Item Pipe
-gregtech:item_pipe_huge:302, Huge Black Bronze Item Pipe
+gregtech:item_pipe_large:23, Large Cobalt Item Pipe
+gregtech:item_pipe_large:2014, Large Cobalt Brass Item Pipe
 gregtech:item_pipe_huge:69, Huge Nickel Item Pipe
-gregtech:item_pipe_huge:80, Huge Platinum Item Pipe
-gregtech:item_pipe_huge:23, Huge Cobalt Item Pipe
-gregtech:item_pipe_huge:75, Huge Osmium Item Pipe
-gregtech:item_pipe_huge:112, Huge Tin Item Pipe
-gregtech:item_pipe_huge:277, Huge Electrum Item Pipe
 gregtech:item_pipe_huge:3, Huge Americium Item Pipe
 gregtech:item_pipe_huge:344, Huge Osmiridium Item Pipe
-gregtech:item_pipe_huge:2014, Huge Cobalt Brass Item Pipe
-gregtech:item_pipe_huge:274, Huge Cupronickel Item Pipe
-gregtech:item_pipe_huge:331, Huge Ultimet Item Pipe
+gregtech:item_pipe_huge:277, Huge Electrum Item Pipe
 gregtech:item_pipe_huge:290, Huge Magnalium Item Pipe
+gregtech:item_pipe_huge:259, Huge Brass Item Pipe
+gregtech:item_pipe_huge:112, Huge Tin Item Pipe
+gregtech:item_pipe_huge:75, Huge Osmium Item Pipe
+gregtech:item_pipe_huge:331, Huge Ultimet Item Pipe
+gregtech:item_pipe_huge:80, Huge Platinum Item Pipe
+gregtech:item_pipe_huge:274, Huge Cupronickel Item Pipe
+gregtech:item_pipe_huge:302, Huge Black Bronze Item Pipe
 gregtech:item_pipe_huge:300, Huge Sterling Silver Item Pipe
+gregtech:item_pipe_huge:301, Huge Rose Gold Item Pipe
 gregtech:item_pipe_huge:1007, Huge Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_small_restrictive:259, Small Restrictive Brass Item Pipe
-gregtech:item_pipe_small_restrictive:301, Small Restrictive Rose Gold Item Pipe
-gregtech:item_pipe_small_restrictive:302, Small Restrictive Black Bronze Item Pipe
+gregtech:item_pipe_huge:23, Huge Cobalt Item Pipe
+gregtech:item_pipe_huge:2014, Huge Cobalt Brass Item Pipe
 gregtech:item_pipe_small_restrictive:69, Small Restrictive Nickel Item Pipe
-gregtech:item_pipe_small_restrictive:80, Small Restrictive Platinum Item Pipe
-gregtech:item_pipe_small_restrictive:23, Small Restrictive Cobalt Item Pipe
-gregtech:item_pipe_small_restrictive:75, Small Restrictive Osmium Item Pipe
-gregtech:item_pipe_small_restrictive:112, Small Restrictive Tin Item Pipe
-gregtech:item_pipe_small_restrictive:277, Small Restrictive Electrum Item Pipe
 gregtech:item_pipe_small_restrictive:3, Small Restrictive Americium Item Pipe
 gregtech:item_pipe_small_restrictive:344, Small Restrictive Osmiridium Item Pipe
-gregtech:item_pipe_small_restrictive:2014, Small Restrictive Cobalt Brass Item Pipe
-gregtech:item_pipe_small_restrictive:274, Small Restrictive Cupronickel Item Pipe
-gregtech:item_pipe_small_restrictive:331, Small Restrictive Ultimet Item Pipe
+gregtech:item_pipe_small_restrictive:277, Small Restrictive Electrum Item Pipe
 gregtech:item_pipe_small_restrictive:290, Small Restrictive Magnalium Item Pipe
+gregtech:item_pipe_small_restrictive:259, Small Restrictive Brass Item Pipe
+gregtech:item_pipe_small_restrictive:112, Small Restrictive Tin Item Pipe
+gregtech:item_pipe_small_restrictive:75, Small Restrictive Osmium Item Pipe
+gregtech:item_pipe_small_restrictive:331, Small Restrictive Ultimet Item Pipe
+gregtech:item_pipe_small_restrictive:80, Small Restrictive Platinum Item Pipe
+gregtech:item_pipe_small_restrictive:274, Small Restrictive Cupronickel Item Pipe
+gregtech:item_pipe_small_restrictive:302, Small Restrictive Black Bronze Item Pipe
 gregtech:item_pipe_small_restrictive:300, Small Restrictive Sterling Silver Item Pipe
+gregtech:item_pipe_small_restrictive:301, Small Restrictive Rose Gold Item Pipe
 gregtech:item_pipe_small_restrictive:1007, Small Restrictive Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_normal_restrictive:259, Restrictive Brass Item Pipe
-gregtech:item_pipe_normal_restrictive:301, Restrictive Rose Gold Item Pipe
-gregtech:item_pipe_normal_restrictive:302, Restrictive Black Bronze Item Pipe
+gregtech:item_pipe_small_restrictive:23, Small Restrictive Cobalt Item Pipe
+gregtech:item_pipe_small_restrictive:2014, Small Restrictive Cobalt Brass Item Pipe
 gregtech:item_pipe_normal_restrictive:69, Restrictive Nickel Item Pipe
-gregtech:item_pipe_normal_restrictive:80, Restrictive Platinum Item Pipe
-gregtech:item_pipe_normal_restrictive:23, Restrictive Cobalt Item Pipe
-gregtech:item_pipe_normal_restrictive:75, Restrictive Osmium Item Pipe
-gregtech:item_pipe_normal_restrictive:112, Restrictive Tin Item Pipe
-gregtech:item_pipe_normal_restrictive:277, Restrictive Electrum Item Pipe
 gregtech:item_pipe_normal_restrictive:3, Restrictive Americium Item Pipe
 gregtech:item_pipe_normal_restrictive:344, Restrictive Osmiridium Item Pipe
-gregtech:item_pipe_normal_restrictive:2014, Restrictive Cobalt Brass Item Pipe
-gregtech:item_pipe_normal_restrictive:274, Restrictive Cupronickel Item Pipe
-gregtech:item_pipe_normal_restrictive:331, Restrictive Ultimet Item Pipe
+gregtech:item_pipe_normal_restrictive:277, Restrictive Electrum Item Pipe
 gregtech:item_pipe_normal_restrictive:290, Restrictive Magnalium Item Pipe
+gregtech:item_pipe_normal_restrictive:259, Restrictive Brass Item Pipe
+gregtech:item_pipe_normal_restrictive:112, Restrictive Tin Item Pipe
+gregtech:item_pipe_normal_restrictive:75, Restrictive Osmium Item Pipe
+gregtech:item_pipe_normal_restrictive:331, Restrictive Ultimet Item Pipe
+gregtech:item_pipe_normal_restrictive:80, Restrictive Platinum Item Pipe
+gregtech:item_pipe_normal_restrictive:274, Restrictive Cupronickel Item Pipe
+gregtech:item_pipe_normal_restrictive:302, Restrictive Black Bronze Item Pipe
 gregtech:item_pipe_normal_restrictive:300, Restrictive Sterling Silver Item Pipe
+gregtech:item_pipe_normal_restrictive:301, Restrictive Rose Gold Item Pipe
 gregtech:item_pipe_normal_restrictive:1007, Restrictive Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_large_restrictive:259, Large Restrictive Brass Item Pipe
-gregtech:item_pipe_large_restrictive:301, Large Restrictive Rose Gold Item Pipe
-gregtech:item_pipe_large_restrictive:302, Large Restrictive Black Bronze Item Pipe
+gregtech:item_pipe_normal_restrictive:23, Restrictive Cobalt Item Pipe
+gregtech:item_pipe_normal_restrictive:2014, Restrictive Cobalt Brass Item Pipe
 gregtech:item_pipe_large_restrictive:69, Large Restrictive Nickel Item Pipe
-gregtech:item_pipe_large_restrictive:80, Large Restrictive Platinum Item Pipe
-gregtech:item_pipe_large_restrictive:23, Large Restrictive Cobalt Item Pipe
-gregtech:item_pipe_large_restrictive:75, Large Restrictive Osmium Item Pipe
-gregtech:item_pipe_large_restrictive:112, Large Restrictive Tin Item Pipe
-gregtech:item_pipe_large_restrictive:277, Large Restrictive Electrum Item Pipe
 gregtech:item_pipe_large_restrictive:3, Large Restrictive Americium Item Pipe
 gregtech:item_pipe_large_restrictive:344, Large Restrictive Osmiridium Item Pipe
-gregtech:item_pipe_large_restrictive:2014, Large Restrictive Cobalt Brass Item Pipe
-gregtech:item_pipe_large_restrictive:274, Large Restrictive Cupronickel Item Pipe
-gregtech:item_pipe_large_restrictive:331, Large Restrictive Ultimet Item Pipe
+gregtech:item_pipe_large_restrictive:277, Large Restrictive Electrum Item Pipe
 gregtech:item_pipe_large_restrictive:290, Large Restrictive Magnalium Item Pipe
+gregtech:item_pipe_large_restrictive:259, Large Restrictive Brass Item Pipe
+gregtech:item_pipe_large_restrictive:112, Large Restrictive Tin Item Pipe
+gregtech:item_pipe_large_restrictive:75, Large Restrictive Osmium Item Pipe
+gregtech:item_pipe_large_restrictive:331, Large Restrictive Ultimet Item Pipe
+gregtech:item_pipe_large_restrictive:80, Large Restrictive Platinum Item Pipe
+gregtech:item_pipe_large_restrictive:274, Large Restrictive Cupronickel Item Pipe
+gregtech:item_pipe_large_restrictive:302, Large Restrictive Black Bronze Item Pipe
 gregtech:item_pipe_large_restrictive:300, Large Restrictive Sterling Silver Item Pipe
+gregtech:item_pipe_large_restrictive:301, Large Restrictive Rose Gold Item Pipe
 gregtech:item_pipe_large_restrictive:1007, Large Restrictive Polyvinyl Chloride (PVC) Item Pipe
-gregtech:item_pipe_huge_restrictive:259, Huge Restrictive Brass Item Pipe
-gregtech:item_pipe_huge_restrictive:301, Huge Restrictive Rose Gold Item Pipe
-gregtech:item_pipe_huge_restrictive:302, Huge Restrictive Black Bronze Item Pipe
+gregtech:item_pipe_large_restrictive:23, Large Restrictive Cobalt Item Pipe
+gregtech:item_pipe_large_restrictive:2014, Large Restrictive Cobalt Brass Item Pipe
 gregtech:item_pipe_huge_restrictive:69, Huge Restrictive Nickel Item Pipe
-gregtech:item_pipe_huge_restrictive:80, Huge Restrictive Platinum Item Pipe
-gregtech:item_pipe_huge_restrictive:23, Huge Restrictive Cobalt Item Pipe
-gregtech:item_pipe_huge_restrictive:75, Huge Restrictive Osmium Item Pipe
-gregtech:item_pipe_huge_restrictive:112, Huge Restrictive Tin Item Pipe
-gregtech:item_pipe_huge_restrictive:277, Huge Restrictive Electrum Item Pipe
 gregtech:item_pipe_huge_restrictive:3, Huge Restrictive Americium Item Pipe
 gregtech:item_pipe_huge_restrictive:344, Huge Restrictive Osmiridium Item Pipe
-gregtech:item_pipe_huge_restrictive:2014, Huge Restrictive Cobalt Brass Item Pipe
-gregtech:item_pipe_huge_restrictive:274, Huge Restrictive Cupronickel Item Pipe
-gregtech:item_pipe_huge_restrictive:331, Huge Restrictive Ultimet Item Pipe
+gregtech:item_pipe_huge_restrictive:277, Huge Restrictive Electrum Item Pipe
 gregtech:item_pipe_huge_restrictive:290, Huge Restrictive Magnalium Item Pipe
+gregtech:item_pipe_huge_restrictive:259, Huge Restrictive Brass Item Pipe
+gregtech:item_pipe_huge_restrictive:112, Huge Restrictive Tin Item Pipe
+gregtech:item_pipe_huge_restrictive:75, Huge Restrictive Osmium Item Pipe
+gregtech:item_pipe_huge_restrictive:331, Huge Restrictive Ultimet Item Pipe
+gregtech:item_pipe_huge_restrictive:80, Huge Restrictive Platinum Item Pipe
+gregtech:item_pipe_huge_restrictive:274, Huge Restrictive Cupronickel Item Pipe
+gregtech:item_pipe_huge_restrictive:302, Huge Restrictive Black Bronze Item Pipe
 gregtech:item_pipe_huge_restrictive:300, Huge Restrictive Sterling Silver Item Pipe
+gregtech:item_pipe_huge_restrictive:301, Huge Restrictive Rose Gold Item Pipe
 gregtech:item_pipe_huge_restrictive:1007, Huge Restrictive Polyvinyl Chloride (PVC) Item Pipe
+gregtech:item_pipe_huge_restrictive:23, Huge Restrictive Cobalt Item Pipe
+gregtech:item_pipe_huge_restrictive:2014, Huge Restrictive Cobalt Brass Item Pipe
 gregtech:optical_pipe_normal:0, Optical Fiber Cable
 gregtech:laser_pipe_normal:0, Laser Transmitting Cable
 gregtech:ld_item_pipe, Long Distance Item Pipe
@@ -7868,6 +7910,17 @@ icbmclassic:circuit:2, Elite Circuit
 icbmclassic:wire:0, Copper Wire
 icbmclassic:wire:1, Gold Wire
 icbmclassic:battery:0, Battery
+jecalculation:item_calculator:0, Crafting Calculator
+jecalculation:item_calculator:1, Math Calculator
+modularforcefieldsystem:adv_security, MFFS Security Station
+modularforcefieldsystem:area_defense, MFFS Defense Station
+modularforcefieldsystem:capacitor, MFFS Capacitor
+modularforcefieldsystem:control_system, MFFS Control System
+modularforcefieldsystem:extractor, MFFS Extractor
+modularforcefieldsystem:force_field, MFFS Field
+modularforcefieldsystem:monazit_ore, Monazit Ore
+modularforcefieldsystem:projector, MFFS Projector
+modularforcefieldsystem:security_storage, MFFS Secure Storage
 modularforcefieldsystem:forcicium, Forcicium
 modularforcefieldsystem:access_card, MFFS Card: Access
 modularforcefieldsystem:upgrade_capacity, Capacitor Upgrade: Capacity
@@ -7914,15 +7967,6 @@ modularforcefieldsystem:option_mob_defense, Projector Option: Mob Killer
 modularforcefieldsystem:option_sponge, Projector Option: Sponge
 modularforcefieldsystem:option_touch_damage, Projector Option: Zapper
 modularforcefieldsystem:option_light, Projector Option: Light
-modularforcefieldsystem:adv_security, MFFS Security Station
-modularforcefieldsystem:area_defense, MFFS Defense Station
-modularforcefieldsystem:capacitor, MFFS Capacitor
-modularforcefieldsystem:control_system, MFFS Control System
-modularforcefieldsystem:extractor, MFFS Extractor
-modularforcefieldsystem:force_field, MFFS Field
-modularforcefieldsystem:monazit_ore, Monazit Ore
-modularforcefieldsystem:projector, MFFS Projector
-modularforcefieldsystem:security_storage, MFFS Secure Storage
 powersuits:powerarmor_head, Power Armor Helmet
 powersuits:powerarmor_torso, Power Armor Chestplate
 powersuits:powerarmor_legs, Power Armor Leggings
@@ -8917,103 +8961,107 @@ customnpcs:npcscripted, Scripted Block
 customnpcs:npcscripteddoor, tile.npcscripteddoor.name
 customnpcs:npcbuilderblock, Builder Block
 customnpcs:npccopyblock, Copy Block
-flansmod:healingbacta, Bacta
+flansmod:ak47:0, AK47
+flansmod:german_item, German Weapons Box
+flansmod:su25, SU 25
 flansmod:lightsabergrey:0, Grey Lightsaber
-flansmod:clonecaptainpants, Clone Captain Pants
-flansmod:sithcoat, Sith Coat
 flansmod:lightsaberyellow:0, Yellow Lightsaber
-flansmod:clone442pants, Clone 442nd Siege Battalion Pants
-flansmod:clone501helmet, Clone 501st Legion Helmet
-flansmod:cloneriothelmet, Riot Clone Helmet
-flansmod:lightsabergreenlight:0, Light Green Lightsaber
-flansmod:jedihood, Jedi Hood
-flansmod:lightgreenlaser:0, Light Green Laser
-flansmod:blacklaser:0, Black Laser
-flansmod:lightsaberpurple:0, Purple Lightsaber
-flansmod:clonecaptainhelmet, Clone Captain Helmet
-flansmod:lightsaberorange:0, Orange Lightsaber
-flansmod:blastere-5s:0, E-5S Blaster Sniper Rifle
-flansmod:clone41boots, Clone 41st Elite Corps Boots
-flansmod:greenlaser:0, Green Laser
+flansmod:skorpion:0, Skorpion
+flansmod:tripletakeammo:0, Triple Take Ammo
+flansmod:metalcockpit, Metal Cockpit
+flansmod:mwammobag, Deployable Ammo Bag
+flansmod:b1, Char B1 Bis
+flansmod:sdkfz2, SdKfz.2
+flansmod:swatbody, SWAT Bodyarmour
+flansmod:m3a1:0, M3A1 Grease Gun
+flansmod:russianpants, Russian WW2 Trousers
+flansmod:flaregunblueammo:0, Flare Gun Blue Ammo
+flansmod:sg550:0, SG550
+flansmod:kcasmartpistolammo:0, KCA Smart pistol Ammo
 flansmod:shadowtrooperarmor, Shadow Trooper Armor
-flansmod:clonecaptainarmor, Clone Captain Armor
-flansmod:stormtrooperboots, Stormtrooper Boots
-flansmod:clonelieutnantpants, Clone Lieutenant Pants
+flansmod:ww2mine, Anti-Tank Mine
+flansmod:uspammo:0, USP Ammo
+flansmod:sasbody, British SAS Jacket
+flansmod:flanmwhcog, HCOG Sight
+flansmod:emp4:0, EMP4
+flansmod:sidewinder7ammo:0, SideWinder7 Ammo
 flansmod:battledroidcommander, Battle Droid B1 Commander
-flansmod:jettrooperhelmet, Clone Jet Trooper Helmet
-flansmod:cloneshockiiarmor, Clone Shock Trooper Armor Phase 2
+flansmod:nagantsniper:0, Mosin Nagant Sniper
 flansmod:orangelaser:0, Orange Laser
-flansmod:battledroidsecurity, Battle Droid B1 Security
-flansmod:clonecommanderboots, Clone Commander Boots
-flansmod:shadowtrooperpants, Shadow Trooper Pants
+flansmod:boforsammo:0, Bofors Ammo
+flansmod:12gpoisonedflechetteammo:0, 12G Poisoned Flechette Ammo
 flansmod:lightsaberblack:0, Black Lightsaber
 flansmod:battledroidgeonosis, Battle Droid B1 Geonosis
-flansmod:clonesergentboots, Clone Sergeant Boots
 flansmod:lightsaberbluelight:0, Light Blue Lightsaber
+flansmod:rotaryengine, Rotary Engine
 flansmod:clonetorrentarmor, Clone Torrent Company Armor
+flansmod:mustang, P-51 Mustang
+flansmod:crusader, Cruiser Mk. VI Crusader
 flansmod:clonekaminohelmet, Clone Kamino Security Helmet Phase 2
-flansmod:clone41helmet, Clone 41st Elite Corps Helmet
-flansmod:invisiblemine, Invisible Mine
-flansmod:stormtrooperpants, Stormtrooper Pants
-flansmod:thermaldetonatorsticky, Sticky Thermal Detonator
+flansmod:flak38:0, Flak-38
+flansmod:hellcat, M18 Hellcat
+flansmod:panzerschreckammo:0, Panzerschreck Ammo
+flansmod:flanmwldcigscope, LDCIG Scope
+flansmod:juggernautbodybrown, Juggernaut Body Armor (Brown)
+flansmod:russianboots, Russian WW2 Boots
 flansmod:clonegreenpants, Clone Green Company Pants
+flansmod:fnscarammo:0, FN SCAR Ammo
 flansmod:clonegreenhelmet, Clone Green Company Helmet
-flansmod:cloneghostboots, Clone Ghost Company Boots
-flansmod:battledroidscoutgeonosis, Battle Droid B1 Scout Geonosis
-flansmod:clonesergentpants, Clone Sergeant Pants
+flansmod:m1garandammo:0, M1 Garand Ammo
 flansmod:highpoweredboots, High-powered Boots
-flansmod:clone212boots, Clone 212th Attack Battalion Boots
 flansmod:rexclonepants, Captain Rex's Clone Pants
-flansmod:lightsaberblue:0, Blue Lightsaber
+flansmod:germandeserthelmet, German WW2 Desert Helmet
+flansmod:tiger131, Tiger 131
 flansmod:battledroidpilotgeonosis, Battle Droid B1 Pilot Geonosis
-flansmod:shadowtrooperboots, Shadow Trooper Boots
-flansmod:clone327helmet, Clone 327th Star Corps Helmet
-flansmod:clonelieutnanthelmet, Clone Lieutenant Helmet
-flansmod:jedibootspowered, Jedi Boots
-flansmod:lightsabergreen:0, Green Lightsaber
+flansmod:marinehelmet, Marine Helmet
+flansmod:dragunov:0, Dragunov
+flansmod:acr:0, ACR
+flansmod:exoskeletonboots, Exoskeleton Boots
+flansmod:apcrrifleammo:0, APCR Rifle Ammo
+flansmod:flanmwreddot, Red Dot Sight
+flansmod:s100, S-100 SchnellBoot
 flansmod:thermaldetonatorclassa, Thermal Detonator Class A
-flansmod:cloneshockiihelmet, Clone Shock Trooper Helmet Phase 2
 flansmod:clonegreenboots, Clone Green Company Boots
+flansmod:50calammo:0, Browning .50Cal Ammo
+flansmod:juggernauthelmetbrown, Juggernaut Helmet (Brown)
+flansmod:exoskeletonhelmet, Exoskeleton Helmet
 flansmod:clone327boots, Clone 327th Star Corps Boots
-flansmod:battledroidpilot2geonosis, Battle Droid B1 Pilot Geonosis
 flansmod:blasterdc-15x:0, DC-15X Blaster Sniper Rifle
 flansmod:battledroidsecurity2, Battle Droid B1 Security
-flansmod:jedicoat, Jedi Coat
 flansmod:blasterdc-15s:0, DC-15S Blaster Carbine
-flansmod:codyclonearmor, Commander Cody's Clone Armor
-flansmod:battledroidcitadelsecurity, Battle Droid B1 Citadel Security
-flansmod:clonetrooperboots, Clone Trooper Boots
-flansmod:clone501pants, Clone 501st Legion Pants
-flansmod:lightsabermagenta:0, Magenta Lightsaber
-flansmod:clonetrooper501iihelmet, Clone 501st Legion Helmet Phase 2
+flansmod:ak74:0, AK74
+flansmod:flanmw8xscope, 8x Scope
+flansmod:reinforcedupperreceiver, Reinforced Upper Receiver
+flansmod:shell:0, AP Tank Shell
+flansmod:sigp232:0, SIG P232
+flansmod:helicopterblade, Helicopter Blade
 flansmod:clone332armor, Clone 332nd Company Armor
+flansmod:saspants, British SAS Trousers
+flansmod:advancedtankbody, Advanced Tank Body
 flansmod:cloneshockiiboots, Clone Shock Trooper Boots Phase 2
-flansmod:cloneriotboots, Riot Clone Boots
-flansmod:cloneshadowiihelmet, Clone Shadow Trooper Helmet Phase 2
-flansmod:stormtrooperhelmet, Stormtrooper Helmet
-flansmod:clonelieutnantarcboots, Clone ARC Lieutenant Boots
-flansmod:sitheyes, Sith Eyes
-flansmod:battledroidmarine, Battle Droid B1 Marine
+flansmod:panzerfaustammo:0, Panzerfaust Grenade
+flansmod:germancoat, German WW2 Coat
+flansmod:mp5ammo:0, MP5 Ammo
+flansmod:m16a4:0, M16A4
 flansmod:droidekashieldred, Droideka Deflector Shield
+flansmod:smg100ammo:0, Max Capacity SMG Ammo
+flansmod:americanuniformpants, American Trousers
+flansmod:peacekeeper:0, Peace Keeper
+flansmod:spetsnazboots, Spetsnaz Boots
+flansmod:metalpropeller, Metal Propeller
+flansmod:blackhawk, UH-60 Black Hawk
 flansmod:blasterdc-15a:0, DC-15A Blaster Rifle
-flansmod:clonetorrenthelmet, Clone Torrent Company Helmet
-flansmod:bluelaser:0, Blue Laser
-flansmod:blasterdc-19:0, DC-19 Stealth Blaster Carbine
 flansmod:cloneghostarmor, Clone Ghost Company Armor
-flansmod:battledroidgrenadegeonosis, Battle Droid B1 Grenade Geonosis
-flansmod:lightbluelaser:0, Light Blue Laser
+flansmod:quickreloadgrip, Quick Reload Grip
+flansmod:at4ammo:0, AT4 Rocket
 flansmod:dc17ammo:0, DC-17 Blaster Ammo
-flansmod:invisibleeffect, Invisible Effect for Droid Armor
-flansmod:battledroidsergeant, Battle Droid B1 Sergeant
-flansmod:clonetorrentpants, Clone Torrent Company Pants
-flansmod:stormtrooperarmor, Stormtrooper Armor
-flansmod:e-5ammo:0, E-5 Blaster Ammo
-flansmod:sithbootspowered, Sith Boots
-flansmod:blasterdc-17:0, DC-17 Blaster Pistol
-flansmod:battledroidmarinegeonosis, Battle Droid B1 Marine Geonosis
-flansmod:clonecaptainboots, Clone Captain Boots
-flansmod:clone327armor, Clone 327th Star Corps Armor
-flansmod:clonecaptainarcpants, Clone ARC Captain Pants
+flansmod:ak47ammo:0, AK47 Ammo
+flansmod:dp28ammo:0, DP28 Ammo
+flansmod:m45quad, M45 .50Cal Quad Mount
+flansmod:skorpionammo:0, Skorpion Ammo
+flansmod:g43:0, Gewehr 43
+flansmod:american_item, American Weapons Box
+flansmod:g36:0, G36C
 flansmod:jettrooperpants, Clone Jet Trooper Pants
 flansmod:clonetrooperhelmet, Clone Trooper Helmet
 flansmod:dc15afullammo:0, DC-15A Full-powered Blaster Ammo
@@ -9021,103 +9069,644 @@ flansmod:yellowlaser:0, Yellow Laser
 flansmod:e-11ammo:0, E-11 Blaster Ammo
 flansmod:sithhoodwithsitheyes, Sith Hood with Sith Eyes
 flansmod:cloneghostpants, Clone Ghost Company Pants
-flansmod:clone187iiarmor, Clone 187th Legion Armor Phase 2
-flansmod:cloneshadowhelmet, Clone Shadow Trooper Helmet
-flansmod:droidekablaster:0, Droideka Blaster
+flansmod:dragunovammo:0, Dragunov Ammo
+flansmod:mk2frag, Mk. 2 Frag Grenade
+flansmod:rgd33, RGD-33 Stick Grenade
 flansmod:z6rotaryblaster:0, Z6 Rotary Blaster Cannon
-flansmod:battledroidpilotreprogrammed, Battle Droid B1 Pilot Reprogrammed
-flansmod:clone212iihelmet, Clone 212th Attack Battalion Helmet Phase 2
+flansmod:judge:0, Judge Shotgun
 flansmod:cloneshadowpants, Clone Shadow Trooper Pants
+flansmod:metalwingsmall, Small Metal Wing
+flansmod:flanmwautofire, Full Auto Fire Modification
 flansmod:gasdetonator, Gas Detonator
-flansmod:jettrooperarmor, Clone Jet Trooper Armor
-flansmod:clonelieutnantboots, Clone Lieutenant Boots
-flansmod:battledroidsecurity2geonosis, Battle Droid B1 Security Geonosis
-flansmod:redlaser:0, Red Laser
-flansmod:clonecommanderpants, Clone Commander Pants
-flansmod:clonelieutnantarcpants, Clone ARC Lieutenant Pants
+flansmod:blacktrousers, Black Trousers
+flansmod:bulldozerboots, Bulldozer Boots
+flansmod:flanmwcharmjthmonkeysight, jthmonkey Sight Charm
+flansmod:flanmw4xscope, 4x Scope
 flansmod:codycloneboots, Commander Cody's Clone Boots
-flansmod:cloneriotarmor, Riot Clone Armor
-flansmod:oom10, OOM-10
-flansmod:hx2mine, HX2 Mine
-flansmod:clone187iipants, Clone 187th Legion Pants Phase 2
-flansmod:clonekaminoboots, Clone Kamino Security Boots Phase 2
-flansmod:clonetrooperarmor, Clone Trooper Armor
-flansmod:clone212helmet, Clone 212th Attack Battalion Helmet
-flansmod:clonelieutnantarchelmet, Clone ARC Lieutenant Helmet
-flansmod:clonelieutnantarcarmor, Clone ARC Lieutenant Armor
+flansmod:zf4scope, ZF-4 Scope
+flansmod:britishboots, British WW2 Boots
+flansmod:minigunammo:0, Minigun Ammo
+flansmod:type100:0, Type 100
 flansmod:blasterstunammo:0, Stun Blaster Ammo
-flansmod:clonekaminoarmor, Clone Kamino Security Armor Phase 2
-flansmod:lightsaberwhite:0, White Lightsaber
-flansmod:clone41pants, Clone 41st Elite Corps Pants
-flansmod:clone501boots, Clone 501st Legion Boots
-flansmod:magentalaser:0, Magenta Laser
-flansmod:clone332boots, Clone 332nd Company Boots
-flansmod:clone442iihelmet, Clone 442nd Siege Battalion Helmet Phase 2
-flansmod:battledroidpilot2, Battle Droid B1 Pilot
-flansmod:rexcloneboots, Captain Rex's Clone Boots
+flansmod:largebomb:0, Large Bomb
+flansmod:british2pdrapshell:0, British 2pdr AP Tank Shell
+flansmod:cattrackpiece, Caterpillar Track Piece
+flansmod:12gbuckshotammo:0, 12G Buck Shot Ammo
+flansmod:leo2a6, Leopard 2A6
 flansmod:gasmine, Gas Mine
-flansmod:whitelaser:0, White Laser
-flansmod:shadowtrooperhelmet, Shadow Trooper Helmet
 flansmod:battledroidmarine2, Battle Droid B1 Marine
-flansmod:clonecommanderhelmet, Clone Commander Helmet
-flansmod:clonetrooperiihelmet, Clone Trooper Helmet Phase 2
-flansmod:rexclonehelmet, Captain Rex's Clone Helmet
-flansmod:clone212pants, Clone 212th Attack Battalion Pants
-flansmod:clone332pants, Clone 332nd Company Pants
-flansmod:clone442boots, Clone 442nd Siege Battalion Boots
+flansmod:tigerii, Tiger II H
+flansmod:hydra70ammo:0, Hydra 70 salvo
+flansmod:nagant:0, Mosin Nagant
+flansmod:gignbody, French GIGN Jacket
 flansmod:cloneriotshield:0, Clone Riot Shield
-flansmod:cloneshadowarmor, Clone Shadow Trooper Armor
+flansmod:flanmwanvilreceiver, Anvil Receiver Modification
 flansmod:cloneghosthelmet, Clone Ghost Company Helmet
 flansmod:sithpants, Sith Pants
-flansmod:invisiblethermaldetonator, Invisible Thermal Detonator
+flansmod:japanesehelmet, Japanese WW2 Helmet
 flansmod:clonecaptainarcarmor, Clone ARC Captain Armor
+flansmod:flanmwsilencer, Silencer
+flansmod:m72law:0, M72 LAW
+flansmod:torpedo:0, Torpedo
+flansmod:thompsonammo:0, Thompson Ammo
+flansmod:an94ammo:0, AN94 Ammo
+flansmod:spetsnazpants, Spetsnaz Trousers
+flansmod:12gheammo:0, 12G High Explosive Ammo
+flansmod:l86ammo:0, L86 LSW Ammo
+flansmod:heavytankbody, Heavy Tank Body
+flansmod:panzerfaust:0, Panzerfaust
+flansmod:codyclonepants, Commander Cody's Clone Pants
+flansmod:droidekashield, Droideka Deflector Shield
+flansmod:ww2parachute, Parachute
+flansmod:t34, T-34
+flansmod:britishpants, British WW2 Trousers
+flansmod:grenadelaunchergasammo, Gas Grenade
+flansmod:stenammo:0, Sten Ammo
+flansmod:russiancoat, Russian WW2 Coat
+flansmod:cloneshadowboots, Clone Shadow Trooper Boots
+flansmod:cloakergoggles, Cloaker Goggles
+flansmod:britishhelmet, British WW2 Helmet
+flansmod:mp40ammo:0, MP 40 Ammo
+flansmod:clonesergentarmor, Clone Sergeant Armor
+flansmod:sherman, M4 Sherman
+flansmod:galilammo:0, Galil Ammo
+flansmod:vickerskammo100:0, Vickers K Ammo - 100 Bullet Drum
+flansmod:leeenfieldsniper:0, Lee Enfield Sniper
+flansmod:rexclonearmor, Captain Rex's Clone Armor
+flansmod:rpd:0, RPD
+flansmod:rpg:0, RPG-7
+flansmod:kar98ksniper:0, Kar98k Sniper
+flansmod:rpk:0, RPK
+flansmod:bulldozerbody, Bulldozer Chestplate
+flansmod:acrammo:0, ACR Ammo
+flansmod:browningammo:0, Browning .30Cal Ammo - 250 Bullet Box
+flansmod:germanhelmet, German WW2 Helmet
+flansmod:healingbacta, Bacta
+flansmod:trenchgun:0, Trenchgun
+flansmod:yak9, Yak-9
+flansmod:clonecaptainpants, Clone Captain Pants
+flansmod:type14:0, Type 14
+flansmod:flanmwturbocharger, Turbo Charger
+flansmod:kcasmartcarbine:0, KCA Smart carbine
+flansmod:germansnowhelmet, German WW2 Snow Helmet
+flansmod:clone442pants, Clone 442nd Siege Battalion Pants
+flansmod:a10, A-10
+flansmod:krissvectorammo:0, Kriss Vector Ammo
+flansmod:m1911:0, M1911 Colt .45
+flansmod:mlrs6:0, MLRS6
+flansmod:famasammo:0, FAMAS Ammo
+flansmod:lightsabergreenlight:0, Light Green Lightsaber
+flansmod:jedihood, Jedi Hood
+flansmod:ww2knife:0, Knife
+flansmod:flanmwpistolflashlight, Pistol Flashlight Attachment
+flansmod:uc2pdr, Universal Carrier 2 Pdr
+flansmod:makarov:0, Makarov
+flansmod:lightsaberpurple:0, Purple Lightsaber
+flansmod:p90ammo:0, P90 Ammo
+flansmod:lightsaberorange:0, Orange Lightsaber
+flansmod:smallchassis, Small Car Chassis
+flansmod:blastere-5s:0, E-5S Blaster Sniper Rifle
+flansmod:springfield:0, Springfield
+flansmod:sdkfz222, SdKfz.222
+flansmod:kskbody, German KSK Jacket
+flansmod:germandesertpants, German WW2 Desert Trousers
+flansmod:bazookaammo:0, Bazooka Ammo
+flansmod:jettrooperhelmet, Clone Jet Trooper Helmet
+flansmod:m3a1ammo:0, M3A1 Ammo
+flansmod:cloneshockiiarmor, Clone Shock Trooper Armor Phase 2
+flansmod:ntw20ammo:0, item.ntw20Ammo.name
+flansmod:germansnowpants, German WW2 Snow Trousers
+flansmod:aabarrel, AA Gun Barrel
+flansmod:mwparachute, Parachute
+flansmod:at4:0, AT4
+flansmod:mim23, MIM-23 Anti-Aircraft
+flansmod:juggernautbody, Juggernaut Body Armor (Green)
+flansmod:t90, T-90MS
+flansmod:aa12:0, AA-12
+flansmod:pr3:0, Pr3
+flansmod:m21ammo:0, M21 Ammo
+flansmod:cloneghostboots, Clone Ghost Company Boots
+flansmod:mwknife:0, Knife
+flansmod:exoskeletonlegs, Exoskeleton Leg Armour
+flansmod:blacksweater, Black Sweater
+flansmod:w1200:0, W1200
+flansmod:brenammo30:0, Bren Ammo - 30 Bullet Box
+flansmod:chinook, Chinook
+flansmod:betacmag:0, Beta C-Mag
+flansmod:americansnowhelmet, American WW2 Snow Helmet
+flansmod:clone212boots, Clone 212th Attack Battalion Boots
+flansmod:chinu, Chi-Nu
+flansmod:b4crossbowammo:0, B4 Cross Bow Ammo
+flansmod:jedibootspowered, Jedi Boots
+flansmod:rpdammo:0, RPD Ammo
+flansmod:lightsabergreen:0, Green Lightsaber
+flansmod:greyhound, M8 Greyhound
+flansmod:flamethrowerammo:0, Flamethrower Ammo
+flansmod:barrett:0, Barrett .50 Cal
+flansmod:jedicoat, Jedi Coat
+flansmod:galil:0, Galil
+flansmod:clonetrooperboots, Clone Trooper Boots
+flansmod:aug:0, AUG
+flansmod:v6engine, V6 Engine
+flansmod:flakvierling, Flakvierling-38 AA Gun
+flansmod:juggernautpantsbrown, Juggernaut Leg Armor (Brown)
+flansmod:artilleryheshell:0, Artillery HE Shell
+flansmod:trenchgunammo:0, Trenchgun Ammo
+flansmod:cloneriotboots, Riot Clone Boots
+flansmod:ww2medkit, Medical Kit
+flansmod:britishdeserthelmet, British WW2 Desert Helmet
+flansmod:sasjeep, British Jeep
+flansmod:stormtrooperhelmet, Stormtrooper Helmet
+flansmod:sitheyes, Sith Eyes
+flansmod:littlebird, MH-6 LittleBird
+flansmod:clonetorrenthelmet, Clone Torrent Company Helmet
+flansmod:coldware2ammo:0, Cold War E2 Ammo
+flansmod:stielhandgranate, Stielhandgranate
+flansmod:spitfire, Spitfire
+flansmod:juggernautboots, Juggernaut Boots (Green)
+flansmod:kubel, Kubelwagen
+flansmod:battledroidgrenadegeonosis, Battle Droid B1 Grenade Geonosis
+flansmod:v4engine, V4 Engine
+flansmod:mg151:0, MG 151
+flansmod:cromwell, Cromwell
+flansmod:battledroidsergeant, Battle Droid B1 Sergeant
+flansmod:clonetorrentpants, Clone Torrent Company Pants
+flansmod:flanmwacog, ACOG Sight
+flansmod:bizonammo:0, Bizon Ammo
+flansmod:clonecaptainboots, Clone Captain Boots
+flansmod:kcasmart50ammo:0, KCA Smart .50 Ammo
+flansmod:flak88, Flak88
+flansmod:kar98kammo:0, Kar98k Ammo
+flansmod:m1carbineammo:0, M1 Carbine Ammo
+flansmod:voltv3ammo:0, Volt V3 Ammo
+flansmod:devotionx55ammo:0, Devotion X55 Ammo
+flansmod:type99:0, Type 99
+flansmod:type97, Type 97 Grenade
+flansmod:flanmwflashlight, Flashlight Attachment
+flansmod:fnscar:0, FN SCAR
+flansmod:fuelcan:0, Fuel Can
+flansmod:russian_item, Russian Weapons Box
+flansmod:gunshield, Gun Shield
+flansmod:leeenfield:0, Lee Enfield
+flansmod:m1garand:0, M1 Garand
+flansmod:g3ammo:0, G3 Ammo
+flansmod:type4horo, Type 4 Ho-Ro
+flansmod:clonelieutnantarcpants, Clone ARC Lieutenant Pants
+flansmod:modernregulara, Alpha Reward Box
+flansmod:modernregularb, Bravo Reward Box
+flansmod:clonekaminoboots, Clone Kamino Security Boots Phase 2
+flansmod:rpgammo:0, RPG-7 Ammo
+flansmod:japanesecoat, Japanese WW2 Coat
+flansmod:paw20:0, PAW20
+flansmod:clonelieutnantarchelmet, Clone ARC Lieutenant Helmet
+flansmod:v8engine, V8 Engine
+flansmod:sigp226ammo:0, SIG P226 Ammo
+flansmod:m40a3:0, M40A3
+flansmod:enginepiston, Engine Piston
+flansmod:modern_item, Modern Weapons Box
+flansmod:magentalaser:0, Magenta Laser
+flansmod:12gincendiaryammo:0, 12G Incendiary Ammo
+flansmod:flanmwcharmjamesk2417sight, jamesk2417 Sight Charm
+flansmod:c4remote, C4 Remote
+flansmod:mwbinoculars:0, Binoculars
+flansmod:rexcloneboots, Captain Rex's Clone Boots
+flansmod:tornado, item.tornado.name
+flansmod:bulldozerlegs, Bulldozer Leg Armour
+flansmod:biplanewing, Biplane Wing
+flansmod:jeep, Willy's Jeep
+flansmod:shadowtrooperhelmet, Shadow Trooper Helmet
+flansmod:r870:0, Remington 870
+flansmod:rexclonehelmet, Captain Rex's Clone Helmet
+flansmod:barrettcompactammo:0, Barrett .50 Cal Compact Ammo
+flansmod:ww2binoculars:0, Binoculars
+flansmod:clone212pants, Clone 212th Attack Battalion Pants
+flansmod:smallelectricengine, Small Electric Engine
+flansmod:clone442boots, Clone 442nd Siege Battalion Boots
+flansmod:piatammo:0, PIAT Ammo
+flansmod:m1carbine:0, M1 Carbine
+flansmod:2pdr:0, 2 Pdr
+flansmod:m16a4ammo:0, M16A4 Ammo
+flansmod:chiha, Chi-Ha
 flansmod:blastere-11:0, E-11 Blaster Blaster Rifle
+flansmod:flakvierlingammo:0, Flakvierling Ammo
+flansmod:mp44ammo:0, STG 44 Ammo
+flansmod:p90:0, P90
 flansmod:battledroidpilot, Battle Droid B1 Pilot
 flansmod:battledroidsecuritygeonosis, Battle Droid B1 Security Geonosis
+flansmod:su-1-12, SU-1-12
 flansmod:clonekaminopants, Clone Kamino Security Pants Phase 2
+flansmod:kcasmart50:0, KCA Smart .50
+flansmod:metalnose, Metal Nose
 flansmod:purplelaser:0, Purple Laser
 flansmod:clone332iihelmet, Clone 332nd Company Helmet Phase 2
-flansmod:codyclonepants, Commander Cody's Clone Pants
-flansmod:blastere-5:0, E-5 Blaster Rifle
-flansmod:battledroidaatdrivergeonosis, Battle Droid B1 AAT Driver Geonosis
+flansmod:voltv3:0, Volt V3
+flansmod:sdkfz251, SdKfz.251
+flansmod:seekerrifleammo:0, Seeker Rifle Ammo
 flansmod:sithhood, Sith Hood
-flansmod:battledroidsergeantgeonosis, Battle Droid B1 Sergeant Geonosis
-flansmod:cloneshockiipants, Clone Shock Trooper Pants Phase 2
+flansmod:flak42:0, Flak-42
+flansmod:vickersk:0, Vickers K
+flansmod:tt33ammo:0, TT33 Ammo
+flansmod:squeakyupperreceiver, Squeaky Upper Receiver
+flansmod:lightningengine, Lightning Engine
+flansmod:flanmwmuzzlebreak, Muzzle Break
 flansmod:cloneriotpants, Riot Clone Pants
-flansmod:droideka, Droideka
-flansmod:droidekashield, Droideka Deflector Shield
-flansmod:clone41armor, Clone 41st Elite Corps Armor
-flansmod:clone187iihelmet, Clone 187th Legion Helmet Phase 2
+flansmod:m60ammo:0, M60E4 Ammo
+flansmod:dragonsbreathinfuser, Dragon's Breath Infuser
+flansmod:sasboots, British SAS Boots
 flansmod:battledroidaatdriver, Battle Droid B1 AAT Driver
 flansmod:battledroidmarine2geonosis, Battle Droid B1 Marine Geonosis
-flansmod:clonelieutnantarmor, Clone Lieutenant Armor
-flansmod:lightsaberred:0, Red Lightsaber
-flansmod:smokedetonator, Smoke Detonator
+flansmod:woodenwing, Wooden Wing
+flansmod:makarovammo:0, Makarov Ammo
+flansmod:americanuniformboots, American Boots
+flansmod:fokker, Fokker Dr.1
+flansmod:type38ammo:0, Type 38 Ammo
+flansmod:honeybadger:0, Honey Badger
+flansmod:witheringakammo:0, Withering AK Ammo
+flansmod:britishcoat, British WW2 Coat
+flansmod:germansnowboots, German WW2 Snow Boots
+flansmod:clayandsand, Clay and Sand Mixture
 flansmod:clonecommanderarmor, Clone Commander Armor
+flansmod:mastiff1218ammo:0, Mastiff 1218 Ammo
+flansmod:germansnowcoat, German WW2 Snow Coat
+flansmod:gignpants, French GIGN Pants
+flansmod:juggernautpants, Juggernaut Leg Armor (Green)
 flansmod:clone501armor, Clone 501st Legion Armor
-flansmod:cloneshadowboots, Clone Shadow Trooper Boots
-flansmod:battledroid, Battle Droid B1
-flansmod:thermaldetonator, Thermal Detonator
 flansmod:dc19invisibleammo:0, DC-19 Invisible Blaster Ammo
-flansmod:clonetorrentboots, Clone Torrent Company Boots
-flansmod:jedipants, Jedi Pants
-flansmod:clonetrooperpants, Clone Trooper Pants
-flansmod:clonesergentarmor, Clone Sergeant Armor
+flansmod:type38:0, Type 38
+flansmod:germandesertboots, German WW2 Desert Boots
 flansmod:battledroidcommandergeonosis, Battle Droid B1 Commander Geonosis
-flansmod:rexclonearmor, Captain Rex's Clone Armor
 flansmod:battledroidscout, Battle Droid B1 Scout
-flansmod:greylaser:0, Grey Laser
 flansmod:clonegreenarmor, Clone Green Company Armor
+flansmod:12gbirdshotammo:0, 12G Bird Shot Ammo
 flansmod:battledroidgrenade, Battle Droid B1 Grenade
-flansmod:clonecaptainarcboots, Clone ARC Captain Boots
-flansmod:clone187iiboots, Clone 187th Legion Boots Phase 2
-flansmod:clonesergenthelmet, Clone Sergeant Helmet
-flansmod:dc15ammo:0, DC-15 Blaster Ammo
-flansmod:codyclonehelmet, Commander Cody's Clone Helmet
-flansmod:clone212armor, Clone 212th Attack Battalion Armor
-flansmod:clone442armor, Clone 442nd Siege Battalion Armor
+flansmod:juggernautbootsbrown, Juggernaut Boots (Brown)
+flansmod:grenadelauncherincendiaryammo, Incendiary Grenade
 flansmod:clone327pants, Clone 327th Star Corps Pants
 flansmod:clonecaptainarchelmet, Clone ARC Captain Helmet
+flansmod:exoskeletonbody, Exoskeleton Chestplate
+flansmod:tripletake:0, Triple Take
+flansmod:americansnowpants, American WW2 Snow Pants
+flansmod:browning:0, Browning .30Cal
+flansmod:stingerammo:0, Stinger Missile
+flansmod:juggernauthelmet, Juggernaut Helmet (Green)
+flansmod:sithcoat, Sith Coat
+flansmod:flanmwburstfire, Burst Fire Modification
+flansmod:mtarammo:0, MTAR Ammo
+flansmod:uziammo:0, Mini-Uzi Ammo
+flansmod:largeelectricengine, Large Electric Engine
+flansmod:an94:0, AN94
+flansmod:kv1, KV-1
+flansmod:mtar:0, MTAR
+flansmod:germanpants, German WW2 Trousers
+flansmod:kskpants, German KSK Trousers
+flansmod:c4, C4 Plastic Explosive
+flansmod:50cal:0, Browning .50Cal
+flansmod:g36ammo:0, G36C Ammo
+flansmod:flanmwprecisionchoke, Precision Choke Modifacation
+flansmod:greenlaser:0, Green Laser
+flansmod:clonecaptainarmor, Clone Captain Armor
+flansmod:stormtrooperboots, Stormtrooper Boots
+flansmod:gau19ammo:0, GAU19 Ammo
+flansmod:bodyarmour, Body Armour
+flansmod:flanmwlongbarrel, Long Barrel
+flansmod:is2, IS-2
+flansmod:m1911ammo:0, M1911 Ammo
+flansmod:clonelieutnantpants, Clone Lieutenant Pants
+flansmod:tiger, Tiger
+flansmod:flanmwextrovertedchoke, Extroverted Choke Modification
+flansmod:clonesergentboots, Clone Sergeant Boots
+flansmod:ppsh:0, PPSH-41
+flansmod:invisiblemine, Invisible Mine
+flansmod:germanchest, German Coat
+flansmod:l86:0, L86 LSW
+flansmod:stormtrooperpants, Stormtrooper Pants
+flansmod:thermaldetonatorsticky, Sticky Thermal Detonator
+flansmod:m1014:0, M1014
+flansmod:battledroidscoutgeonosis, Battle Droid B1 Scout Geonosis
+flansmod:clonesergentpants, Clone Sergeant Pants
+flansmod:germanforestcoat, German WW2 Forest Coat
+flansmod:37mmammo:0, 37mm Flak Cannon Ammo
+flansmod:fmg:0, FMG-9
+flansmod:kcasmartpistol:0, KCA Smart pistol
+flansmod:mim23ammo:0, MIM-23 Rocket
+flansmod:panzerfaust3:0, Panzerfaust 3
+flansmod:l96:0, L96
+flansmod:clone327helmet, Clone 327th Star Corps Helmet
+flansmod:augammo:0, AUG Ammo
+flansmod:krissvector:0, Kriss Vector
+flansmod:japanese_item, Japanese Weapons Box
+flansmod:usppoisonammo:0, USP Poison Ammo
+flansmod:stug, StuG IV
+flansmod:abrams, M1 Abrams
+flansmod:vickerskgo:0, Vickers K-GO
+flansmod:modernadvanced_item, Advanced Modern Weapons Box
+flansmod:hk416:0, HK416
+flansmod:chaffee, M24 Chaffee
+flansmod:americansnowboots, American WW2 Snow Boots
+flansmod:sg550ammo:0, SG550 Ammo
+flansmod:claymore, M18 Claymore
+flansmod:japanesepants, Japanese WW2 Trousers
+flansmod:g3:0, G3
+flansmod:battledroidcitadelsecurity, Battle Droid B1 Citadel Security
+flansmod:lugerammo:0, Luger Ammo
+flansmod:ww2armour_item, WW2 Armor Box
+flansmod:mwmedkit, Medkit
+flansmod:bmwr75, BMWR75
+flansmod:germanboots, German WW2 Boots
+flansmod:pr3oscammo:0, Pr3 OSC Ammo
+flansmod:cloneshadowiihelmet, Clone Shadow Trooper Helmet Phase 2
+flansmod:clonelieutnantarcboots, Clone ARC Lieutenant Boots
+flansmod:tt33:0, TT33
+flansmod:bren:0, Bren
+flansmod:germanuniformpants, German Trousers
+flansmod:bluelaser:0, Blue Laser
+flansmod:jury:0, Jury Autorevolver
+flansmod:blasterdc-19:0, DC-19 Stealth Blaster Carbine
+flansmod:pak40, Pak-40
+flansmod:lancaster, Lancaster Bomber
+flansmod:gignboots, French GIGN Boots
+flansmod:lightbluelaser:0, Light Blue Laser
+flansmod:bf109, BF109
+flansmod:e-5ammo:0, E-5 Blaster Ammo
+flansmod:blasterdc-17:0, DC-17 Blaster Pistol
+flansmod:battledroidmarinegeonosis, Battle Droid B1 Marine Geonosis
+flansmod:cattrack, Caterpillar Track
+flansmod:20mmammo:0, 20mm Auto Cannon Ammo
+flansmod:sentrygun, Sentry Gun
+flansmod:stinger:0, FIM-92 Stinger
+flansmod:clone187iiarmor, Clone 187th Legion Armor Phase 2
+flansmod:droidekablaster:0, Droideka Blaster
+flansmod:clone212iihelmet, Clone 212th Attack Battalion Helmet Phase 2
+flansmod:minigunexplosiveammo:0, Minigun Explosive Ammo
+flansmod:barrettammo:0, Barrett Ammo
+flansmod:mwriotshield:0, Riot Shield
+flansmod:redstonecoil, Redstone Coil
+flansmod:executioner:0, Executioner Shotgun
+flansmod:f22, F22 Raptor
+flansmod:jettrooperarmor, Clone Jet Trooper Armor
+flansmod:clonelieutnantboots, Clone Lieutenant Boots
+flansmod:spetsnazbody, Spetsnaz Jacket
+flansmod:honeybadgerammo:0, Honey Badger Ammo
+flansmod:oom10, OOM-10
+flansmod:triplanewing, Triplane Wing
+flansmod:hx2mine, HX2 Mine
+flansmod:sidewinder7:0, SideWinder7
+flansmod:marineboots, Marine Boots
+flansmod:clonetrooperarmor, Clone Trooper Armor
+flansmod:clone212helmet, Clone 212th Attack Battalion Helmet
+flansmod:fg42ammo:0, FG42 Ammo
+flansmod:bazooka:0, Bazooka
+flansmod:passengerbay, Passenger Bay
+flansmod:glockammo:0, Glock Ammo
+flansmod:lightsaberwhite:0, White Lightsaber
+flansmod:coltammo:0, Colt Ammo
+flansmod:clone41pants, Clone 41st Elite Corps Pants
+flansmod:clone501boots, Clone 501st Legion Boots
+flansmod:battledroidpilot2, Battle Droid B1 Pilot
+flansmod:advancedmetalcockpit, Advanced Metal Cockpit
+flansmod:sniperammo:0, Sniper Ammo
+flansmod:whitelaser:0, White Laser
+flansmod:clonecommanderhelmet, Clone Commander Helmet
+flansmod:m9:0, M9
+flansmod:tankbarrel, Tank Barrel
+flansmod:americanchest, American Coat
+flansmod:mg42ammo250:0, MG42 Ammo - 250 Bullet Box
+flansmod:m157mm, M1-57 MM
+flansmod:mg151ammo:0, MG 151 Ammo
+flansmod:brenammo100:0, Bren Ammo - 100 Bullet Drum
+flansmod:flanmw2xscope, 2x Scope
+flansmod:flanmwcharmjamioflansight, Charm jamioflan sight
+flansmod:kskboots, German KSK Boots
+flansmod:british_item, British Weapons Box
+flansmod:bulldozerhelmet, Bulldozer Helmet
+flansmod:metalwingsection, Metal Wing Section
+flansmod:ppshammo:0, PPSH-41 Ammo
+flansmod:flaregunwhiteammo:0, Flare Gun White Ammo
+flansmod:usp:0, USP .45
+flansmod:germandesertcoat, German WW2 Desert Coat
+flansmod:blastere-5:0, E-5 Blaster Rifle
+flansmod:woodenpropeller, Wooden Propeller
+flansmod:grenadelauncherammo, Impact Grenade
+flansmod:battledroidsergeantgeonosis, Battle Droid B1 Sergeant Geonosis
+flansmod:mediumtankbody, Medium Tank Body
+flansmod:modernpremium, Premium Reward Box
+flansmod:britishdesertcoat, British WW2 Desert Coat
+flansmod:bombbay, Bomb Bay
+flansmod:droideka, Droideka
+flansmod:clone41armor, Clone 41st Elite Corps Armor
+flansmod:mg42:0, MG42
+flansmod:panzerschreck:0, Panzerschreck
+flansmod:britishdesertpants, British WW2 Desert Trousers
+flansmod:lightsaberred:0, Red Lightsaber
+flansmod:smokedetonator, Smoke Detonator
+flansmod:largewheel, Large Wheel
+flansmod:battledroid, Battle Droid B1
+flansmod:kskhelmet, German KSK Helmet
+flansmod:thermaldetonator, Thermal Detonator
+flansmod:12gflechetteammo:0, 12G Flechette Ammo
+flansmod:marinebody, Marine Jacket
+flansmod:clonetorrentboots, Clone Torrent Company Boots
+flansmod:helicopterskid, Helicopter Skid
+flansmod:jedipants, Jedi Pants
+flansmod:flamethrower:0, Flamethrower
+flansmod:germanforestboots, German WW2 Forest Boots
+flansmod:clonetrooperpants, Clone Trooper Pants
+flansmod:marinepants, Marine Trousers
+flansmod:greylaser:0, Grey Laser
+flansmod:wheel, Small Wheel
+flansmod:germanuniformboots, German Boots
+flansmod:hydra70:0, Hydra 70 rocket pod
+flansmod:clonesergenthelmet, Clone Sergeant Helmet
+flansmod:kar98k:0, Kar98k
+flansmod:rpkammo:0, RPK Ammo
+flansmod:mk4rocket:0, Mk. 4 Rocket
+flansmod:mastiff1218:0, Mastiff 1218
+flansmod:clone442armor, Clone 442nd Siege Battalion Armor
+flansmod:mlrs6ammo:0, MLRS6 Ammo
+flansmod:americansnowcoat, American WW2 Snow Coat
+flansmod:12gslugammo:0, 12G Slug Ammo
+flansmod:clone501helmet, Clone 501st Legion Helmet
+flansmod:cloneriothelmet, Riot Clone Helmet
+flansmod:napalm:0, Napalm
+flansmod:lightgreenlaser:0, Light Green Laser
+flansmod:blacklaser:0, Black Laser
+flansmod:lighttankbody, Light Tank Body
+flansmod:kcasmartcarbineammo:0, KCA Smart carbine Ammo
+flansmod:clonecaptainhelmet, Clone Captain Helmet
+flansmod:clone41boots, Clone 41st Elite Corps Boots
+flansmod:lighttankturret, Light Tank Turret
+flansmod:hind, Mi-24 Hind
+flansmod:churchill, Churchill Mk VII
+flansmod:mediumtankturret, Medium Tank turret
+flansmod:battledroidsecurity, Battle Droid B1 Security
+flansmod:clonecommanderboots, Clone Commander Boots
+flansmod:shadowtrooperpants, Shadow Trooper Pants
+flansmod:heshell:0, HE Tank Shell
+flansmod:thompson:0, Thompson
+flansmod:hcar:0, HCAR
+flansmod:leeenfieldammo:0, Lee Enfield Ammo
+flansmod:b52, B-52
+flansmod:highexpistolammo:0, High Explosive Revolver Ammo
+flansmod:uzi:0, Mini-Uzi
+flansmod:clone41helmet, Clone 41st Elite Corps Helmet
+flansmod:flanmwunderbarrellaser, Under Barrel Laser
+flansmod:molotovcocktail, Molotov Cocktail
+flansmod:flaregungreenammo:0, Flare Gun Green Ammo
+flansmod:webley:0, Webley
+flansmod:apacheah64, AH-64D Apache
+flansmod:hesniperammo:0, HE Sniper Ammo
+flansmod:lightsaberblue:0, Blue Lightsaber
+flansmod:shadowtrooperboots, Shadow Trooper Boots
+flansmod:clonelieutnanthelmet, Clone Lieutenant Helmet
+flansmod:zero, Zero
+flansmod:ak74ammo:0, AK74 Ammo
+flansmod:flanmwintrovertedchoke, Introverted Choke Modification
+flansmod:m249:0, M249 SAW
+flansmod:americanhelmet, American WW2 Helmet
+flansmod:cloneshockiihelmet, Clone Shock Trooper Helmet Phase 2
+flansmod:ash12:0, ASH12
+flansmod:m14ammo:0, M14 Ammo
+flansmod:balaclava, Balaclava
+flansmod:ash12ammo:0, ASH12 Ammo
+flansmod:appistolammo:0, Armour Piercing Revolver Ammo
+flansmod:battledroidpilot2geonosis, Battle Droid B1 Pilot Geonosis
+flansmod:emp4ammo:0, EMP4 Ammo
+flansmod:webleyammo:0, Webley Ammo
+flansmod:codyclonearmor, Commander Cody's Clone Armor
+flansmod:denseredstonecoil, Dense Redstone Coil
+flansmod:clone501pants, Clone 501st Legion Pants
+flansmod:trigat:0, TRIGAT-LR
+flansmod:type99ammo:0, Type 99 Ammo
+flansmod:lightsabermagenta:0, Magenta Lightsaber
+flansmod:clonetrooper501iihelmet, Clone 501st Legion Helmet Phase 2
+flansmod:flanmwforegrip, Foregrip
+flansmod:fg42:0, FG42
+flansmod:m3halftrack, M3Halftrack
+flansmod:britishdesertboots, British WW2 Desert Boots
+flansmod:battledroidmarine, Battle Droid B1 Marine
+flansmod:fiberglass, Fibreglass
+flansmod:type14ammo:0, Type 14 Ammo
+flansmod:colt:0, Colt
+flansmod:americancoat, American WW2 Coat
+flansmod:heavytankturret, Heavy Tank Turret
+flansmod:barrettexplosiveammo:0, Barrett Explosive Ammo
+flansmod:pr3ammo:0, Pr3 Ammo
+flansmod:mwarmour_item, Modern Warfare Armor Box
+flansmod:r700:0, R700
+flansmod:germanforestpants, German WW2 Forest Trousers
+flansmod:invisibleeffect, Invisible Effect for Droid Armor
+flansmod:mp5:0, MP5
+flansmod:stormtrooperarmor, Stormtrooper Armor
+flansmod:mp7:0, MP7
+flansmod:sithbootspowered, Sith Boots
+flansmod:minigun:0, Minigun
+flansmod:deserteagleammo:0, Desert Eagle Ammo
+flansmod:sten:0, Sten
+flansmod:mg42ammo50:0, MG42 Ammo - 50 Bullet Drum
+flansmod:luger:0, Luger
+flansmod:minigunportableammo:0, Minigun Portable Ammo
+flansmod:panzer, Panzer IV
+flansmod:juryammo:0, Jury Magnum Round
+flansmod:devotionx55:0, Devotion X55
+flansmod:clone327armor, Clone 327th Star Corps Armor
+flansmod:shulkersniperammo:0, Shulker Sniper Ammo
+flansmod:clonecaptainarcpants, Clone ARC Captain Pants
+flansmod:paw20ammo:0, PAW20 Ammo
+flansmod:boatbody, Boat Body
+flansmod:b4crossbow:0, B4 Cross Bow
+flansmod:famas:0, FAMAS
+flansmod:bofors, Bofors 40mm AA Gun
+flansmod:m9ammo:0, M9 Ammo
+flansmod:cloneshadowhelmet, Clone Shadow Trooper Helmet
+flansmod:battledroidpilotreprogrammed, Battle Droid B1 Pilot Reprogrammed
+flansmod:metaltail, Metal Tail
+flansmod:ntw20:0, item.ntw20.name
+flansmod:battledroidsecurity2geonosis, Battle Droid B1 Security Geonosis
+flansmod:redlaser:0, Red Laser
+flansmod:m10, M10 Wolverine
+flansmod:clonecommanderpants, Clone Commander Pants
+flansmod:mwmedicbag, Deployable Medic Bag
+flansmod:cloneriotarmor, Riot Clone Armor
+flansmod:hcarammo:0, HCAR Ammo
+flansmod:humvee, Humvee
+flansmod:clone187iipants, Clone 187th Legion Pants Phase 2
+flansmod:type100ammo:0, Type 100 Ammo
+flansmod:type38sniper:0, Type 38 Sniper
+flansmod:clonelieutnantarcarmor, Clone ARC Lieutenant Armor
+flansmod:eldiablo:0, El Diablo
+flansmod:flaregunblackammo:0, Flare Gun Black Ammo
+flansmod:m1887:0, Model 1887
+flansmod:millsbomb, Mills Bomb
+flansmod:nagantammo:0, Mosin Nagant Ammo
+flansmod:camel, Sopwith Camel
+flansmod:m249ammo:0, M249 Ammo
+flansmod:mp44:0, STG 44
+flansmod:m14:0, M14
+flansmod:clonekaminoarmor, Clone Kamino Security Armor Phase 2
+flansmod:fury, Fury
+flansmod:clone332boots, Clone 332nd Company Boots
+flansmod:clone442iihelmet, Clone 442nd Siege Battalion Helmet Phase 2
+flansmod:germanforesthelmet, German WW2 Forest Helmet
+flansmod:coldware2:0, Cold War E2
+flansmod:clonetrooperiihelmet, Clone Trooper Helmet Phase 2
+flansmod:mp40:0, MP 40
+flansmod:m21:0, M21
+flansmod:g43ammo:0, Gewehr 43 Ammo
+flansmod:clone332pants, Clone 332nd Company Pants
+flansmod:woodentail, Wooden Tail
+flansmod:cloneshadowarmor, Clone Shadow Trooper Armor
+flansmod:panzeriil, Panzer II Luchs
+flansmod:americanpants, American WW2 Pants
+flansmod:spas:0, SPAS-12
+flansmod:springfieldammo:0, Springfield Ammo
+flansmod:grenadelauncherbouncyammo, Bouncy Grenade
+flansmod:invisiblethermaldetonator, Invisible Thermal Detonator
+flansmod:smallbomb:0, Small Bomb
+flansmod:cobra, Bell AH-1 "Huey" Cobra
+flansmod:blowtorch, Blow Torch
+flansmod:hellfire:0, AGM-114 Hellfire
+flansmod:barammo:0, BAR Ammo
+flansmod:l96ammo:0, L96 Ammo
+flansmod:woodencockpit, Wooden Cockpit
+flansmod:swathelmet, SWAT Helmet
+flansmod:adar15:0, ADAR15
+flansmod:spetsnazhelmet, Spetsnaz Helmet
+flansmod:battledroidaatdrivergeonosis, Battle Droid B1 AAT Driver Geonosis
+flansmod:gau19:0, GAU19
+flansmod:sigp226:0, SIG P226
+flansmod:cloneshockiipants, Clone Shock Trooper Pants Phase 2
+flansmod:bizon:0, Bizon
+flansmod:americanboots, American WW2 Boots
+flansmod:adar15ammo:0, ADAR15 Ammo
+flansmod:sashelmet, British SAS Helmet
+flansmod:clone187iihelmet, Clone 187th Legion Helmet Phase 2
+flansmod:mp7ammo:0, MP7Ammo
+flansmod:highexgunpowder, High-Explosive Gunpowder Blend
+flansmod:clonelieutnantarmor, Clone Lieutenant Armor
+flansmod:flanmwsinglefire, Single Fire Modification
+flansmod:deserteagle:0, Desert Eagle
+flansmod:vehicleseat, Seat
+flansmod:piat:0, PIAT
+flansmod:glock:0, Glock
+flansmod:m72lawammo:0, M72 LAW Ammo
+flansmod:russianhelmet, Russian WW2 Helmet
+flansmod:gignhelmet, French GIGN Helmet
+flansmod:japaneseboots, Japanese WW2 Boots
+flansmod:m60:0, M60E4
+flansmod:clonecaptainarcboots, Clone ARC Captain Boots
+flansmod:gl1:0, GL1 Grenade Launcher
+flansmod:clone187iiboots, Clone 187th Legion Boots Phase 2
+flansmod:m67, M67 Grenade
+flansmod:gl6:0, GL6 Grenade Launcher
+flansmod:dc15ammo:0, DC-15 Blaster Ammo
+flansmod:codyclonehelmet, Commander Cody's Clone Helmet
+flansmod:bar:0, BAR
+flansmod:clone212armor, Clone 212th Attack Battalion Armor
+flansmod:panzerfaust3ammo:0, Panzerfaust 3 Rocket
+flansmod:challyii, FV4034 Challenger II
+flansmod:ec665, EC665 Tiger
+flansmod:dp28:0, DP28
+flansmod:springfieldsniper:0, Springfield Sniper
 flansmod:rainbowpaintcan, Rainbow Paint Can (for Custom Paintjobs)
 flansmod:opstick:0, Stick of Ownership
 flansmod:flagpole, Flagpole
@@ -9139,8 +9728,8 @@ lepidodendron:sulfuric_acid, Lab-Grade Sulfuric Acid
 lepidodendron:acorn, Acorn
 lepidodendron:acorn_dark, Dark Oak Acorn
 lepidodendron:acrolepis_raw, Raw Acrolepis
-lepidodendron:actinidea_seeds, Actinidea Seeds
 lepidodendron:actinidea, Actinidea
+lepidodendron:actinidea_seeds, Actinidea Seeds
 lepidodendron:acutiramus_raw, Raw Acutiramus
 lepidodendron:adamanteryon_raw, Raw Adamanteryon
 lepidodendron:adelophthalmus_raw, Raw Adelophthalmus
@@ -9172,8 +9761,8 @@ lepidodendron:red_algae_mat, Red Algae Mat
 lepidodendron:red_tufted_algae, Red Tufted Algae
 lepidodendron:slimy_algae_item, Slimy Algae
 lepidodendron:stalked_algae, Stalked Algae
-lepidodendron:algal_reef, Algal Reef
 lepidodendron:algal_reef_sticky, Sticky Algal Reef
+lepidodendron:algal_reef, Algal Reef
 lepidodendron:allenypterus_raw, Raw Allenypterus
 lepidodendron:alliopteris, Alliopteris
 lepidodendron:allonnia, Allonnia
@@ -9205,8 +9794,8 @@ lepidodendron:amplectobelua_raw, Raw Amplectobelua
 lepidodendron:ampyx_raw, Raw Ampyx
 lepidodendron:anaethalion_raw, Raw Anaethalion
 lepidodendron:ancient_moss, Moss
-lepidodendron:anemone, Anemone
 lepidodendron:anemone_seeds, Anemone Seeds
+lepidodendron:anemone, Anemone
 lepidodendron:sea_anemone_1, Orange-Pink Sea Anemone
 lepidodendron:sea_anemone_1_dead, Orange-Pink Sea Anemone Base
 lepidodendron:sea_anemone_2, Blue-Brown Sea Anemone
@@ -9352,8 +9941,8 @@ lepidodendron:hirmeriella_bench, Hirmeriella Bench
 lepidodendron:hironoia_bench, Hironoia Bench
 lepidodendron:hymenaea_bench, Hymenaea protera Bench
 lepidodendron:jungle_bench, Jungle Bench
-lepidodendron:lab_bench, Laboratory Bench
 lepidodendron:lab_bench_hopper, Hopper Laboratory Bench
+lepidodendron:lab_bench, Laboratory Bench
 lepidodendron:laurus_bench, Laurus Bench
 lepidodendron:lepidodendron_bench, Lepidodendron Bench
 lepidodendron:lepidophloios_bench, Lepidophloios Bench
@@ -9597,8 +10186,8 @@ lepidodendron:burnt_log, Burnt Log
 lepidodendron:burnt_stem, Burnt Stem
 lepidodendron:burykhia, Burykhia
 lepidodendron:bushizheia_raw, Raw Bushizheia
-lepidodendron:buttercup_seeds, Buttercup Seeds
 lepidodendron:buttercup, Buttercup
+lepidodendron:buttercup_seeds, Buttercup Seeds
 lepidodendron:cacops_raw, Raw Cacops
 lepidodendron:amphibian_spawn_cacops, Cacops Spawn
 lepidodendron:caelestiventus_raw, Raw Caelestiventus
@@ -9746,8 +10335,8 @@ lepidodendron:crotalocephalus_raw, Raw Crotalocephalus
 lepidodendron:cryolophosaurus_raw, Raw Cryolophosaurus
 lepidodendron:cryptomartus_raw, Raw Anthracomartus Trigonotarbid
 lepidodendron:ctenospondylus_raw, Raw Ctenospondylus
-lepidodendron:ctenurella_raw, Raw Ctenurella (male)
 lepidodendron:ctenurella_raw_f, Raw Ctenurella (female)
+lepidodendron:ctenurella_raw, Raw Ctenurella (male)
 lepidodendron:cyamodus_raw, Raw Cyamodus
 lepidodendron:cyclodendron, Cyclodendron
 lepidodendron:cyclonema_item, Cyclonema
@@ -10173,10 +10762,10 @@ lepidodendron:insect_eggs_trigonotarbid_carb, Carboniferous Trigonotarbid Eggs
 lepidodendron:insect_eggs_trigonotarbid_perm, Permian Trigonotarbid Eggs
 lepidodendron:eggs_tritylodon, Tritylodon Eggs
 lepidodendron:eggs_tuojiangosaurus, Tuojiangosaurus Eggs
-lepidodendron:eggs_generic, Aquatic Egg (error: no nbt tags)
-lepidodendron:eggs_generic_land, Egg (error: no nbt tags)
-lepidodendron:eggs_generic_planula, Planula (error: no nbt tags)
 lepidodendron:eggs_generic_blob, Reproductive Blob (error: no nbt tags)
+lepidodendron:eggs_generic_planula, Planula (error: no nbt tags)
+lepidodendron:eggs_generic_land, Egg (error: no nbt tags)
+lepidodendron:eggs_generic, Aquatic Egg (error: no nbt tags)
 lepidodendron:eggs_vadasaurus, Vadasaurus Eggs
 lepidodendron:eggs_vampyronassa, Vampyronassa Eggs
 lepidodendron:eggs_vancleavea, Vancleavea Eggs
@@ -10233,8 +10822,8 @@ lepidodendron:eusthenopteron_raw, Raw Eusthenopteron
 lepidodendron:facivermis, Facivermis
 lepidodendron:fadenia_carboniferous_raw, Raw Carboniferous Fadenia
 lepidodendron:fadenia_permotriassic_raw, Raw Permo-Triassic Fadenia
-lepidodendron:falcatus_raw_f, Raw Falcatus (female)
 lepidodendron:falcatus_raw, Raw Falcatus (male)
+lepidodendron:falcatus_raw_f, Raw Falcatus (female)
 lepidodendron:fallacosteus_raw, Raw Fallacosteus
 lepidodendron:agathis_fence, Agathis Fence
 lepidodendron:alpia_fence, Alpia Fence
@@ -10357,32 +10946,32 @@ lepidodendron:protea_flower_1, Red Protea Flower
 lepidodendron:foozia, Foozia
 lepidodendron:foreyia_raw, Raw Foreyia
 lepidodendron:fossil_clean, Cleaned Fossil (error: no nbt tags)
-lepidodendron:fossil_cambrian, Cambrian Fossilliferous Stone
 lepidodendron:fossil_drop_cambrian, Cambrian Raw Fossil
-lepidodendron:fossil_drop_carboniferous, Carboniferous Raw Fossil
+lepidodendron:fossil_cambrian, Cambrian Fossilliferous Stone
 lepidodendron:fossil_carboniferous, Carboniferous Fossilliferous Stone
-lepidodendron:fossil_cretaceous, Cretaceous Fossilliferous Stone
+lepidodendron:fossil_drop_carboniferous, Carboniferous Raw Fossil
 lepidodendron:fossil_drop_cretaceous, Cretaceous Raw Fossil
-lepidodendron:fossil_devonian, Devonian Fossilliferous Stone
+lepidodendron:fossil_cretaceous, Cretaceous Fossilliferous Stone
 lepidodendron:fossil_drop_devonian, Devonian Raw Fossil
+lepidodendron:fossil_devonian, Devonian Fossilliferous Stone
 lepidodendron:fossil_jurassic, Jurassic Fossilliferous Stone
 lepidodendron:fossil_drop_jurassic, Jurassic Raw Fossil
 lepidodendron:fossil_drop_neogene, Neogene Raw Fossil
 lepidodendron:fossil_neogene, Neogene Fossilliferous Stone
-lepidodendron:fossil_ordovician, Ordovician Fossilliferous Stone
 lepidodendron:fossil_drop_ordovician, Ordovician Raw Fossil
-lepidodendron:fossil_drop_paleogene, Paleogene Raw Fossil
+lepidodendron:fossil_ordovician, Ordovician Fossilliferous Stone
 lepidodendron:fossil_paleogene, Paleogene Fossilliferous Stone
-lepidodendron:fossil_drop_permian, Permian Raw Fossil
+lepidodendron:fossil_drop_paleogene, Paleogene Raw Fossil
 lepidodendron:fossil_permian, Permian Fossilliferous Stone
-lepidodendron:fossil_drop_pleistocene, Pleistocene Raw Fossil
+lepidodendron:fossil_drop_permian, Permian Raw Fossil
 lepidodendron:fossil_pleistocene, Pleistocene Fossilliferous Stone
+lepidodendron:fossil_drop_pleistocene, Pleistocene Raw Fossil
 lepidodendron:fossil_precambrian, Precambrian Fossilliferous Stone
 lepidodendron:fossil_drop_precambrian, Precambrian Raw Fossil
-lepidodendron:fossil_drop_silurian, Silurian Raw Fossil
 lepidodendron:fossil_silurian, Silurian Fossilliferous Stone
-lepidodendron:fossil_triassic, Triassic Fossilliferous Stone
+lepidodendron:fossil_drop_silurian, Silurian Raw Fossil
 lepidodendron:fossil_drop_triassic, Triassic Raw Fossil
+lepidodendron:fossil_triassic, Triassic Fossilliferous Stone
 lepidodendron:fossil_hammer, Geologic Pick
 lepidodendron:acacia_fruit, Acacia Fruit
 lepidodendron:actinidea_fruit, Actinidea Fruit (Kiwi)
@@ -10613,12 +11202,12 @@ lepidodendron:gigantospongia, Gigantospongia
 lepidodendron:gigantspinosaurus_raw, Raw Gigantspinosaurus
 lepidodendron:zircon_glass_pane, Clear Zircon Glass Pane
 lepidodendron:glass_sponge, Glass Sponge
-lepidodendron:glass_sponge_reef, Glass Sponge Reef
 lepidodendron:glass_sponge_reef_sticky, Sticky Glass Sponge Reef
+lepidodendron:glass_sponge_reef, Glass Sponge Reef
 lepidodendron:zircon_glass, Clear Zircon Glass
-lepidodendron:zircon_glass_greenhouse_wood, Wood-Framed Zircon Glass
 lepidodendron:zircon_glass_greenhouse, Iron-Framed Zircon Glass
 lepidodendron:zircon_glass_tile, Zircon Glass Tile
+lepidodendron:zircon_glass_greenhouse_wood, Wood-Framed Zircon Glass
 lepidodendron:glaurung_raw, Raw Glaurung
 lepidodendron:glenopteris, Glenopteris
 lepidodendron:gnathorhiza_raw, Raw Gnathorhiza
@@ -10672,8 +11261,8 @@ lepidodendron:herrerasaurus_raw, Raw Herrerasaurus
 lepidodendron:heterosteus_raw, Raw Heterosteus
 lepidodendron:hibbertopterus_raw, Raw Hibbertopterus
 lepidodendron:hibernaspis_raw, Raw Hibernaspis
-lepidodendron:spawn_egg_conodont_hindeodus, Spawn Hindeodus
 lepidodendron:hindeodus_raw, Raw Hindeodus
+lepidodendron:spawn_egg_conodont_hindeodus, Spawn Hindeodus
 lepidodendron:holdfast, Holdfast
 lepidodendron:holonema_raw, Raw Holonema
 lepidodendron:homoeosaurus_raw, Raw Homoeosaurus
@@ -10696,9 +11285,9 @@ lepidodendron:hupehsuchus_raw, Raw Hupehsuchus
 lepidodendron:hurdia_raw, Raw Hurdia
 lepidodendron:hybodus_raw, Raw Hybodus
 lepidodendron:hydrangea, Hydrangea
-lepidodendron:hydrangea_flower_white, White Hydrangea Flower
-lepidodendron:hydrangea_flower_pink, Pink Hydrangea Flower
 lepidodendron:hydrangea_flower_blue, Blue Hydrangea Flower
+lepidodendron:hydrangea_flower_pink, Pink Hydrangea Flower
+lepidodendron:hydrangea_flower_white, White Hydrangea Flower
 lepidodendron:hylonomus_raw, Raw Hylonomus
 lepidodendron:hyneria_raw, Raw Hyneria
 lepidodendron:hyperodapedon_raw, Raw Hyperodapedon
@@ -10734,18 +11323,18 @@ lepidodendron:spawn_egg_kalligrammatid_abrigramma, Spawn Abrigramma Kalligrammat
 lepidodendron:kalligrammatid_abrigramma_raw, Raw Abrigramma
 lepidodendron:kalligrammatid_apochrysogramma_raw, Raw Apochrysogramma
 lepidodendron:spawn_egg_kalligrammatid_apochrysogramma, Spawn Apochrysogramma Kalligrammatid
-lepidodendron:kalligrammatid_huiyingogramma_raw, Raw Huiyingogramma
 lepidodendron:spawn_egg_kalligrammatid_huiyingogramma, Spawn Huiyingogramma Kalligrammatid
-lepidodendron:spawn_egg_kalligrammatid_ithigramma, Spawn Ithigramma Kalligrammatid
+lepidodendron:kalligrammatid_huiyingogramma_raw, Raw Huiyingogramma
 lepidodendron:kalligrammatid_ithigramma_raw, Raw Ithigramma
-lepidodendron:kalligrammatid_kalligramma_raw, Raw Kalligramma
+lepidodendron:spawn_egg_kalligrammatid_ithigramma, Spawn Ithigramma Kalligrammatid
 lepidodendron:spawn_egg_kalligrammatid_kalligramma, Spawn Kalligramma Kalligrammatid
-lepidodendron:spawn_egg_kalligrammatid_liassopsychops, Spawn Liassopsychops Kalligrammatid
+lepidodendron:kalligrammatid_kalligramma_raw, Raw Kalligramma
 lepidodendron:kalligrammatid_liassopsychops_raw, Raw Liassopsychops
+lepidodendron:spawn_egg_kalligrammatid_liassopsychops, Spawn Liassopsychops Kalligrammatid
 lepidodendron:kalligrammatid_makarkinia_raw, Raw Makarkinia
 lepidodendron:spawn_egg_kalligrammatid_makarkinia, Spawn Makarkinia Kalligrammatid
-lepidodendron:spawn_egg_kalligrammatid_meioneurites, Spawn Meioneurites Kalligrammatid
 lepidodendron:kalligrammatid_meioneurites_raw, Raw Meioneurites
+lepidodendron:spawn_egg_kalligrammatid_meioneurites, Spawn Meioneurites Kalligrammatid
 lepidodendron:kalligrammatid_oregramma_raw, Raw Oregramma
 lepidodendron:spawn_egg_kalligrammatid_oregramma, Spawn Oregramma Kalligrammatid
 lepidodendron:kalligrammatid_sophogramma_raw, Raw Sophogramma
@@ -10771,21 +11360,21 @@ lepidodendron:labidosaurus_raw, Raw Labidosaurus
 lepidodendron:laccognathus_raw, Raw Laccognathus
 lepidodendron:lacewing_aetheogramma_raw, Raw Aetheogramma
 lepidodendron:spawn_egg_lacewing_aetheogramma, Spawn Aetheogramma Lacewing
-lepidodendron:lacewing_bellinympha_raw, Raw Bellinympha
 lepidodendron:spawn_egg_lacewing_bellinympha, Spawn Bellinympha Lacewing
-lepidodendron:lacewing_cretapsychops_raw, Raw Cretapsychops
+lepidodendron:lacewing_bellinympha_raw, Raw Bellinympha
 lepidodendron:spawn_egg_lacewing_cretapsychops, Spawn Cretapsychops Lacewing
-lepidodendron:lacewing_grammolingia_raw, Raw Grammolingia
+lepidodendron:lacewing_cretapsychops_raw, Raw Cretapsychops
 lepidodendron:spawn_egg_lacewing_grammolingia, Spawn Grammolingia Lacewing
-lepidodendron:lacewing_laccosmylus_raw, Raw Laccosmylus
+lepidodendron:lacewing_grammolingia_raw, Raw Grammolingia
 lepidodendron:spawn_egg_lacewing_laccosmylus, Spawn Laccosmylus Lacewing
-lepidodendron:lacewing_lichenipolystoechotes_raw, Raw Lichenipolystoechotes
+lepidodendron:lacewing_laccosmylus_raw, Raw Laccosmylus
 lepidodendron:spawn_egg_lacewing_lichenipolystoechotes, Spawn Lichenipolystoechotes Lacewing
+lepidodendron:lacewing_lichenipolystoechotes_raw, Raw Lichenipolystoechotes
 lepidodendron:laidleria_raw, Raw Laidleria
 lepidodendron:amphibian_spawn_laidleria, Laidleria Spawn
 lepidodendron:laminacaris_raw, Raw Laminacaris
-lepidodendron:lamp, Indoor Lamp
 lepidodendron:lamp_outdoor, Outdoor Lamp
+lepidodendron:lamp, Indoor Lamp
 lepidodendron:lanceaspis_raw, Raw Lanceaspis
 lepidodendron:lasanius_raw, Raw Lasanius
 lepidodendron:lava_cobble_molten, Molten Lava Cobblestone
@@ -10893,8 +11482,8 @@ lepidodendron:nilssoniocladus_shoot, Nilssoniocladus Shoot
 lepidodendron:noeggerathiales_shoot, Noeggerathiales Shoot
 lepidodendron:nypa_shoot, Nypa Shoot
 lepidodendron:odontopteris_shoot, Odontopteris Leaves
-lepidodendron:olive_leaves_berries, Olive Leaves with Berries
 lepidodendron:olive_leaves, Olive Leaves
+lepidodendron:olive_leaves_berries, Olive Leaves with Berries
 lepidodendron:pachypteris_shoot, Pachypteris Shoot
 lepidodendron:pagiophyllum_leaves, Pagiophyllum Leaves
 lepidodendron:pandan_shoot, Pandan Shoot
@@ -11205,8 +11794,8 @@ lepidodendron:amphibian_spawn_marmorerpeton, Marmorerpeton Spawn
 lepidodendron:marrella_raw, Raw Marrella
 lepidodendron:mastodonsaurus_raw, Raw Mastodonsaurus
 lepidodendron:amphibian_spawn_mastodonsaurus, Mastodonsaurus Spawn
-lepidodendron:materpiscis_raw, Raw Materpiscis (male)
 lepidodendron:materpiscis_raw_f, Raw Materpiscis (female)
+lepidodendron:materpiscis_raw, Raw Materpiscis (male)
 lepidodendron:matonia, Small Matonia
 lepidodendron:matonia_large, Large Matonia
 lepidodendron:mcnamaraspis_raw, Raw Mcnamaraspis
@@ -11232,8 +11821,8 @@ lepidodendron:mesosaurus_raw, Raw Mesosaurus
 lepidodendron:mesturus_raw, Raw Mesturus
 lepidodendron:metaspriggina_raw, Raw Metaspriggina
 lepidodendron:meteorite, Meteoritic Iron
-lepidodendron:metopacanthus_raw, Raw Metopacanthus (male)
 lepidodendron:metopacanthus_raw_f, Raw Metopacanthus (female)
+lepidodendron:metopacanthus_raw, Raw Metopacanthus (male)
 lepidodendron:metoposaurus_raw, Raw Metoposaurus
 lepidodendron:microbrachius_raw, Raw Microbrachius (male)
 lepidodendron:microbrachius_raw_f, Raw Microbrachius (female)
@@ -11310,9 +11899,9 @@ lepidodendron:ophthalmothule_raw, Raw Ophthalmothule
 lepidodendron:opolanka_raw, Raw Opolanka
 lepidodendron:oreochima_raw, Raw Oreochima
 lepidodendron:salt_ore, Salt Ore
-lepidodendron:sulphur_ore, Sulphur Ore
 lepidodendron:sulphur_ore_lava, Lava Rock Sulphur Ore
 lepidodendron:sulphur_ore_obsidian, Obsidian Sulphur Ore
+lepidodendron:sulphur_ore, Sulphur Ore
 lepidodendron:sulphur_ore_netherrack, Netherrack Sulphur Ore
 lepidodendron:orites, Orites
 lepidodendron:orites_flower, Orites Flower
@@ -11335,22 +11924,22 @@ lepidodendron:pagea_raw, Raw Pagea
 lepidodendron:palaeo_calamari, Palaeo-Calamari
 lepidodendron:palaeocarcharias_raw, Raw Palaeocarcharias
 lepidodendron:palaeocharinus_raw, Raw Palaeocharinus Trigonotarbid
-lepidodendron:palaeodictyoptera_delitzschala_raw, Raw Delitzschala Palaeodictyoptera
 lepidodendron:spawn_egg_palaeodictyoptera_delitzschala, Spawn Palaeodictyoptera Delitzschala
+lepidodendron:palaeodictyoptera_delitzschala_raw, Raw Delitzschala Palaeodictyoptera
 lepidodendron:spawn_egg_palaeodictyoptera_dunbaria, Spawn Palaeodictyoptera Dunbaria
 lepidodendron:palaeodictyoptera_dunbaria_raw, Raw Dunbaria Palaeodictyoptera
-lepidodendron:palaeodictyoptera_homaloneura_raw, Raw Homaloneura Palaeodictyoptera
 lepidodendron:spawn_egg_palaeodictyoptera_homaloneura, Spawn Palaeodictyoptera Homaloneura
-lepidodendron:spawn_egg_palaeodictyoptera_homoioptera, Spawn Palaeodictyoptera Homoioptera
+lepidodendron:palaeodictyoptera_homaloneura_raw, Raw Homaloneura Palaeodictyoptera
 lepidodendron:palaeodictyoptera_homoioptera_raw, Raw Homoioptera Palaeodictyoptera
-lepidodendron:spawn_egg_palaeodictyoptera_lithomantis, Spawn Palaeodictyoptera Lithomantis
+lepidodendron:spawn_egg_palaeodictyoptera_homoioptera, Spawn Palaeodictyoptera Homoioptera
 lepidodendron:palaeodictyoptera_lithomantis_raw, Raw Lithomantis Palaeodictyoptera
+lepidodendron:spawn_egg_palaeodictyoptera_lithomantis, Spawn Palaeodictyoptera Lithomantis
 lepidodendron:palaeodictyoptera_lycocercus_raw, Raw Lycocercus Palaeodictyoptera
 lepidodendron:spawn_egg_palaeodictyoptera_lycocercus, Spawn Palaeodictyoptera Lycocercus
-lepidodendron:palaeodictyoptera_mazothairos_raw, Raw Mazothairos Palaeodictyoptera
 lepidodendron:spawn_egg_palaeodictyoptera_mazothairos, Spawn Palaeodictyoptera Mazothairos
-lepidodendron:palaeodictyoptera_sinodunbaria_raw, Raw Sinodunbaria Palaeodictyoptera
+lepidodendron:palaeodictyoptera_mazothairos_raw, Raw Mazothairos Palaeodictyoptera
 lepidodendron:spawn_egg_palaeodictyoptera_sinodunbaria, Spawn Palaeodictyoptera Sinodunbaria
+lepidodendron:palaeodictyoptera_sinodunbaria_raw, Raw Sinodunbaria Palaeodictyoptera
 lepidodendron:spawn_egg_palaeodictyoptera_stenodictya, Spawn Palaeodictyoptera Stenodictya
 lepidodendron:palaeodictyoptera_stenodictya_raw, Raw Stenodictya Palaeodictyoptera
 lepidodendron:palaeo_drumstick, Palaeo-Drumstick
@@ -11692,19 +12281,19 @@ lepidodendron:sand_black_sticky, Sticky Black Sand
 lepidodendron:sand_black_wavy, Rippled Black Sand
 lepidodendron:sand_black_wavy_sticky, Sticky Rippled Black Sand
 lepidodendron:sand_microbial, Microbial Organic Ground
-lepidodendron:sand_paleoproterozoic_wavy, Rippled Ferric Sand
 lepidodendron:sand_paleoproterozoic_wavy_sticky, Sticky Rippled Ferric Sand
 lepidodendron:sand_paleoproterozoic_sticky, Sticky Ferric Sand
+lepidodendron:sand_paleoproterozoic_wavy, Rippled Ferric Sand
 lepidodendron:sand_paleoproterozoic, Ferric Sand
-lepidodendron:sand_pangaean, Pangaean Sand
 lepidodendron:sand_pangaean_sticky, Sticky Pangaean Sand
+lepidodendron:sand_pangaean, Pangaean Sand
 lepidodendron:sand_pangaean_wavy, Rippled Pangaean Sand
 lepidodendron:sand_pangaean_wavy_sticky, Sticky Rippled Pangaean Sand
 lepidodendron:sand_red_sticky, Sticky Red Sand
 lepidodendron:sand_red_wavy, Rippled Red Sand
 lepidodendron:sand_red_wavy_sticky, Sticky Rippled Red Sand
-lepidodendron:sand_sticky, Sticky Sand
 lepidodendron:gravel_sticky, Sticky Gravel
+lepidodendron:sand_sticky, Sticky Sand
 lepidodendron:sandstone_black, Black Sandstone
 lepidodendron:sandstone_black_carved, Carved Black Sandstone
 lepidodendron:sandstone_black_smooth, Smooth Black Sandstone
@@ -12096,8 +12685,8 @@ lepidodendron:villebrunaster_item, Dried Villebrunaster
 lepidodendron:shelly_reef, Shelly Reef
 lepidodendron:shelly_sticky, Sticky Shelly Reef
 lepidodendron:shonisaurus_raw, Raw Shonisaurus
-lepidodendron:shringasaurus_raw_f, Raw Shringasaurus (female)
 lepidodendron:shringasaurus_raw, Raw Shringasaurus (male)
+lepidodendron:shringasaurus_raw_f, Raw Shringasaurus (female)
 lepidodendron:siberion_raw, Raw Siberion
 lepidodendron:sibyrhynchus_raw, Raw Sibyrhynchus
 lepidodendron:siderops_raw, Raw Siderops
@@ -12465,10 +13054,10 @@ lepidodendron:tiarajudens_raw, Raw Tiarajudens
 lepidodendron:tietea_branch, Tietea Branch
 lepidodendron:tiktaalik_raw, Raw Tiktaalik
 lepidodendron:titanichthys_raw, Raw Titanichthys
-lepidodendron:titanoptera_clatrotitan_raw, Raw Clatrotitan Titanoptera
 lepidodendron:spawn_egg_titanoptera_clatrotitan, Spawn Clatrotitan Titanoptera
-lepidodendron:spawn_egg_titanoptera_gigatitan, Spawn Gigatitan Titanoptera
+lepidodendron:titanoptera_clatrotitan_raw, Raw Clatrotitan Titanoptera
 lepidodendron:titanoptera_gigatitan_raw, Raw Gigatitan Titanoptera
+lepidodendron:spawn_egg_titanoptera_gigatitan, Spawn Gigatitan Titanoptera
 lepidodendron:spawn_egg_titanoptera_mesotitan, Spawn Mesotitan Titanoptera
 lepidodendron:titanoptera_mesotitan_raw, Raw Mesotitan Titanoptera
 lepidodendron:tmesipteris, Tmesipteris
@@ -12562,8 +13151,8 @@ lepidodendron:tribrachidium, Tribrachidium
 lepidodendron:tribrachiodemas_raw, Raw Tribrachiodemas
 lepidodendron:trichopitys, Trichopitys
 lepidodendron:trimerus_raw, Raw Trimerus
-lepidodendron:spawn_egg_notostracan_triops, Spawn Tadpole Shrimp
 lepidodendron:triops1_raw, Raw Tadpole Shrimp
+lepidodendron:spawn_egg_notostracan_triops, Spawn Tadpole Shrimp
 lepidodendron:triops2_raw, Raw Tadpole Shrimp
 lepidodendron:triops3_raw, Raw Tadpole Shrimp
 lepidodendron:tritylodon_raw, Raw Tritylodon
@@ -12642,18 +13231,18 @@ lepidodendron:wielandiella, Wielandiella
 lepidodendron:willwerathia_raw, Raw Willwerathia
 lepidodendron:wingertshellicus_raw, Raw Wingertshellicus
 lepidodendron:wing_palaeodictyoptera_stenodictya, Insect Wing
-lepidodendron:chain_link_fence_gate, Chain-Link Gate
 lepidodendron:chain_link_block, Chain-Link Bundle
 lepidodendron:chain_link_fence, Chain-Link Fence
 lepidodendron:chain_link_tile, Chain-Link Plate
+lepidodendron:chain_link_fence_gate, Chain-Link Gate
 lepidodendron:wire_grid_tile, Wire Grid Plate
-lepidodendron:wire_grid_fence, Wire Grid Fence
 lepidodendron:wire_grid_block, Wire Grid Bundle
 lepidodendron:wire_grid_fence_gate, Wire Grid Gate
-lepidodendron:wire_mesh_fence_gate, Wire Mesh Gate
-lepidodendron:wire_mesh_block, Wire Mesh Bundle
+lepidodendron:wire_grid_fence, Wire Grid Fence
 lepidodendron:wire_mesh_tile, Wire Mesh Plate
 lepidodendron:wire_mesh_fence, Wire Mesh Fence
+lepidodendron:wire_mesh_fence_gate, Wire Mesh Gate
+lepidodendron:wire_mesh_block, Wire Mesh Bundle
 lepidodendron:wiwaxia_raw, Raw Wiwaxia
 lepidodendron:wuttagoonaspis_raw, Raw Wuttagoonaspis
 lepidodendron:xenacanthus_raw, Raw Xenacanthus
@@ -12679,8 +13268,8 @@ lepidodendron:zingiberopsis_seeds, Zingiberopsis Seeds
 lepidodendron:zircon, Zircon
 lepidodendron:zircon_block, Zircon Block
 lepidodendron:zircon_lens, Zircon Lens
-lepidodendron:zircon_ore_obsidian, Obsidian Zircon Ore
 lepidodendron:zircon_ore_stone, Zircon Ore
+lepidodendron:zircon_ore_obsidian, Obsidian Zircon Ore
 lepidodendron:zircon_ore, Lava Rock Zircon Ore
 lepidodendron:zosterophyllum, Zosterophyllum
 lepidodendron:zosterophyllum_spore, Zosterophyllum

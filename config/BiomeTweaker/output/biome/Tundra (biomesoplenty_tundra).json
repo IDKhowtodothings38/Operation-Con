@@ -23,8 +23,8 @@
     "WASTELAND",
     "DEAD",
     "SPARSE",
-    "WET",
-    "COLD"
+    "COLD",
+    "WET"
   ],
   "BiomeManager Entries": {},
   "Spawnable Creatures": [

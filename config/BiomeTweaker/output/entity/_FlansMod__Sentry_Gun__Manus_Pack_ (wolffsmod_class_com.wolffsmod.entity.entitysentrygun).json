@@ -1,0 +1,6 @@
+
+{
+  "Name": "[FlansMod] Sentry Gun (Manus Pack)",
+  "Registry ID": "wolffsmod:class com.wolffsmod.entity.entitysentrygun",
+  "Class": "com.wolffsmod.entity.EntitySentryGun"
+}

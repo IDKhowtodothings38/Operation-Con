@@ -1,0 +1,6 @@
+
+{
+  "Name": "[FlansMod] M45 Quadmount (Official Pack)",
+  "Registry ID": "wolffsmod:class com.wolffsmod.entity.entitym45quad",
+  "Class": "com.wolffsmod.entity.EntityM45Quad"
+}

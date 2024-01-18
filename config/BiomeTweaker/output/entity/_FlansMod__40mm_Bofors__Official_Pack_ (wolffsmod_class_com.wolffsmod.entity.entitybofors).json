@@ -1,0 +1,6 @@
+
+{
+  "Name": "[FlansMod] 40mm Bofors (Official Pack)",
+  "Registry ID": "wolffsmod:class com.wolffsmod.entity.entitybofors",
+  "Class": "com.wolffsmod.entity.EntityBofors"
+}

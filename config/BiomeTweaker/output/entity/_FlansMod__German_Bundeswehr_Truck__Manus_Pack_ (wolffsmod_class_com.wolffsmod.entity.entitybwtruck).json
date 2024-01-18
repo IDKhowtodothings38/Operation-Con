@@ -1,0 +1,6 @@
+
+{
+  "Name": "[FlansMod] German Bundeswehr Truck (Manus Pack)",
+  "Registry ID": "wolffsmod:class com.wolffsmod.entity.entitybwtruck",
+  "Class": "com.wolffsmod.entity.EntityBwTruck"
+}
