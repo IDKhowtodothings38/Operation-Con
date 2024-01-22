@@ -1,6 +1,0 @@
-
-{
-  "Name": "crawler",
-  "Registry ID": "wyrmsofnyrus:crawler",
-  "Class": "com.vetpetmon.wyrmsofnyrus.entity.creeped.EntityCrawler"
-}

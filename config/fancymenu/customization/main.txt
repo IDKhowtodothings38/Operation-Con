@@ -36,7 +36,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_multiplayer_button%
   seconds = 2.0
-  onlyfirsttime = false
+  onlyfirsttime = true
   fadein = true
   fadeinspeed = 2.0
   action = hidebuttonfor
@@ -72,7 +72,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_options_button%
   seconds = 3.0
-  onlyfirsttime = false
+  onlyfirsttime = true
   fadein = true
   fadeinspeed = 3.5
   action = hidebuttonfor
@@ -108,7 +108,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_quit_button%
   seconds = 4.0
-  onlyfirsttime = false
+  onlyfirsttime = true
   fadein = true
   fadeinspeed = 4.5
   action = hidebuttonfor
@@ -142,7 +142,7 @@ customization {
 customization {
   identifier = %id=button_compatibility_id:mc_titlescreen_singleplayer_button%
   seconds = 1.0
-  onlyfirsttime = false
+  onlyfirsttime = true
   fadein = true
   fadeinspeed = 1.0
   action = hidebuttonfor

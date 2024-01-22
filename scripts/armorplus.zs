@@ -1,0 +1,1 @@
+mods.armorplus.LavaInfuser.remove(<armorplus:lava_crystal:1>);

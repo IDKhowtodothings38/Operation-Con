@@ -15,51 +15,33 @@
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/classes" isTestSource="false" />
+    <content url="file://$MODULE_DIR$/..">
       <sourceFolder url="file://$MODULE_DIR$/postInit" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../scripts" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="groovy-5.0.0-alpha-1" level="project" />
     <orderEntry type="library" name="MatterOverdrive-1.12.2-0.7.1.0-universal" level="project" />
-    <orderEntry type="library" name="[[valkyrien-skies-1.1.7-all]]" level="project" />
     <orderEntry type="library" name="[1.12.2]-Flan's-Mod-Vehicles-for-Custom-NPCs-2.2" level="project" />
-    <orderEntry type="library" name="AdvancedRocketry-1.12.2-2.0.0-17" level="project" />
     <orderEntry type="library" name="!mixinbooter-8.9" level="project" />
-    <orderEntry type="library" name="Flan's Mod-1.12.2-5.10.0" level="project" />
-    <orderEntry type="library" name="jei_1.12.2-4.16.1.301" level="project" />
-    <orderEntry type="library" name="groovyscript-0.7.2" level="project" />
-    <orderEntry type="library" name="GameStages-1.12.2-2.0.123" level="project" />
-    <orderEntry type="library" name="EnderIO-1.12.2-5.3.72" level="project" />
     <orderEntry type="library" name="CustomNPCs_1.12.2-(05Jul20)" level="project" />
-    <orderEntry type="library" name="EnderCore-1.12.2-0.5.78" level="project" />
-    <orderEntry type="library" name="appliedenergistics2-rv6-stable-7-extended_life-v0.55.29" level="project" />
-    <orderEntry type="library" name="LibVulpes-1.12.2-0.4.2-25-universal" level="project" />
     <orderEntry type="library" name="ForgeEndertech-1.12.2-4.5.6.1-build.0648" level="project" />
-    <orderEntry type="library" name="lepidodendron-1.12.2-58.01" level="project" />
-    <orderEntry type="library" name="AdPother-1.12.2-1.2.25.0-build.0673" level="project" />
     <orderEntry type="library" name="_MixinBootstrap-1.1.0" level="project" />
-    <orderEntry type="library" name="!mixinbooter-8.8" level="project" />
     <orderEntry type="library" name="llibrary-1.7.20-1.12.2" level="project" />
     <orderEntry type="library" name="MFFS-1.12.2-4.0.1.0_1.12_cc3a5aa" level="project" />
-    <orderEntry type="library" name="Modern Warfare-Content Pack-1.12.2-5.8.2" level="project" />
-    <orderEntry type="library" name="ModularPowersuits-1.12.2-1.1.048" level="project" />
     <orderEntry type="library" name="NoCubes_SRP_Combat_Addon_3.0.0" level="project" />
     <orderEntry type="library" name="Numina-1.12.2-1.1.049" level="project" />
     <orderEntry type="library" name="omlib-1.12.2-3.1.5-256" level="project" />
     <orderEntry type="library" name="openmodularturrets-1.12.2-3.1.14-382" level="project" />
     <orderEntry type="library" name="RedstoneFlux-1.12-2.1.1.1-universal" level="project" />
-    <orderEntry type="library" name="Simple Parts-Content Pack-1.12.2-5.7.2" level="project" />
     <orderEntry type="library" name="SRParasites-1.12.2v1.9.12" level="project" />
     <orderEntry type="library" name="srpvaccine-1.0.0" level="project" />
     <orderEntry type="library" name="synlib-2.0" level="project" />
-    <orderEntry type="library" name="vs-control-1.12.2-1.1.1" level="project" />
-    <orderEntry type="library" name="vs-world-1.12.2-1.0.0" level="project" />
-    <orderEntry type="library" name="WarpDrive-1.12.2-1.5.28" level="project" />
-    <orderEntry type="library" name="WW2-Content Pack-1.12.2-5.7.2" level="project" />
     <orderEntry type="library" name="wyrmsofnyrus-0.5.90" level="project" />
     <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.1" level="project" />
     <orderEntry type="library" name="Gradle: net.minecraftforge:forge:1.12.2-14.23.5.2860_mapped_snapshot_20171003-1.12" level="project" />
+    <orderEntry type="library" name="groovy-5.0.0-alpha-1" level="project" />
+    <orderEntry type="library" name="groovy-5.0.0-alpha-1 (2)" level="project" />
   </component>
 </module>

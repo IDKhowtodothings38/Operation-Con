@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="llibrary-1.7.20-1.12.2">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../mods/llibrary-1.7.20-1.12.2.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

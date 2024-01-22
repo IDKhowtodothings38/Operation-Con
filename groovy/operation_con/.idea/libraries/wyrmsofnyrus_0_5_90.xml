@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="wyrmsofnyrus-0.5.90">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../mods/wyrmsofnyrus-0.5.90.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

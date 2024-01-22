@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="[[valkyrien-skies-1.1.7-all]]">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../mods/[[valkyrien-skies-1.1.7-all]].jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>

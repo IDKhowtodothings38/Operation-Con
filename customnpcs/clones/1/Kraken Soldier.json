@@ -1,0 +1,540 @@
+{
+    "id": "customnpcs:customnpc",
+    "Motion": [
+        0.0d,
+        -0.0784000015258789d,
+        0.0d
+    ],
+    "Rotation": [
+        195.47092f,
+        1.903008f
+    ],
+    "FallDistance": 0.0f,
+    "Fire": -1s,
+    "Air": 300s,
+    "OnGround": 1b,
+    "Dimension": 0,
+    "Invulnerable": 0b,
+    "PortalCooldown": 0,
+    "UpdateBlocked": 0b,
+    "ForgeData": {
+        "cnpcmarkdata": {
+            "marks": [
+            ]
+        }
+    },
+    "ForgeCaps": {
+        "mwc:exposure": {
+            "exposures": [
+            ],
+            "lastSync": 0L,
+            "lastUpdate": 0L
+        }
+    },
+    "Health": 25.0f,
+    "HurtTime": 0s,
+    "HurtByTimestamp": 1416,
+    "DeathTime": 0s,
+    "AbsorptionAmount": 0.0f,
+    "Attributes": [
+        {
+            "Name": "generic.maxHealth",
+            "Base": 25.0d
+        },
+        {
+            "Name": "generic.knockbackResistance",
+            "Base": 0.0d
+        },
+        {
+            "Name": "generic.movementSpeed",
+            "Base": 0.25d
+        },
+        {
+            "Name": "generic.armor",
+            "Base": 0.0d
+        },
+        {
+            "Name": "generic.armorToughness",
+            "Base": 0.0d
+        },
+        {
+            "Name": "forge.swimSpeed",
+            "Base": 1.0d
+        },
+        {
+            "Name": "generic.followRange",
+            "Base": 180.0d
+        },
+        {
+            "Name": "generic.attackDamage",
+            "Base": 5.0d
+        },
+        {
+            "Name": "generic.flyingSpeed",
+            "Base": 0.5d
+        }
+    ],
+    "FallFlying": 0b,
+    "CanPickUpLoot": 0b,
+    "PersistenceRequired": 0b,
+    "ArmorItems": [
+        {
+        },
+        {
+        },
+        {
+        },
+        {
+        }
+    ],
+    "HandItems": [
+        {
+        },
+        {
+        }
+    ],
+    "ArmorDropChances": [
+        0.085f,
+        0.085f,
+        0.085f,
+        0.085f
+    ],
+    "HandDropChances": [
+        0.085f,
+        0.085f
+    ],
+    "Leashed": 0b,
+    "LeftHanded": 0b,
+    "Name": "Kraken Soldier",
+    "MarkovGeneratorId": 2,
+    "MarkovGender": 0,
+    "Title": "",
+    "SkinUrl": "",
+    "Texture": "customnpcs:textures/entity/humanmale/steve.png",
+    "CloakTexture": "",
+    "GlowTexture": "",
+    "UsingSkinUrl": 0b,
+    "Size": 5,
+    "ShowName": 1,
+    "SkinColor": 16777215,
+    "NpcVisible": 0,
+    "NoLivingAnimation": 0b,
+    "IsStatue": 0b,
+    "BossBar": 0b,
+    "BossColor": 2,
+    "Resistances": {
+        "Knockback": 2.0f,
+        "Arrow": 1.2112676f,
+        "Melee": 1.3098592f,
+        "Explosion": 0.0f
+    },
+    "MaxHealth": 25,
+    "AggroRange": 150,
+    "HideBodyWhenKilled": 0b,
+    "RespawnTime": 0,
+    "SpawnCycle": 3,
+    "CreatureType": 0,
+    "HealthRegen": 1,
+    "CombatRegen": 0,
+    "ImmuneToFire": 0b,
+    "PotionImmune": 0b,
+    "CanDrown": 1b,
+    "BurnInSun": 0b,
+    "NoFallDamage": 0b,
+    "IgnoreCobweb": 0b,
+    "AttackStrenght": 5,
+    "AttackSpeed": 20,
+    "AttackRange": 2,
+    "KnockBack": 0,
+    "PotionEffect": 0,
+    "PotionDuration": 5,
+    "PotionAmp": 0,
+    "BurstCount": 30,
+    "pSpeed": 40,
+    "pDamage": 6,
+    "pImpact": 0,
+    "pSize": 8,
+    "pArea": 0,
+    "pTrail": 5,
+    "MaxFiringRange": 150,
+    "FireRate": 4,
+    "minDelay": 50,
+    "maxDelay": 50,
+    "ShotCount": 1,
+    "Accuracy": 80,
+    "pRender3D": 1b,
+    "pSpin": 0b,
+    "pStick": 0b,
+    "pPhysics": 0b,
+    "pXlr8": 0b,
+    "pGlows": 0b,
+    "AimWhileShooting": 1b,
+    "pEffect": 0,
+    "pDur": 5,
+    "pEffAmp": 0,
+    "FiringSound": "mwc:m4a1",
+    "HitSound": "mwc:flashbang",
+    "GroundSound": "minecraft:block.anvil.break",
+    "FireIndirect": 0,
+    "DistanceToMelee": 0,
+    "CanSwim": 1b,
+    "ReactsToFire": 0b,
+    "AvoidsWater": 0b,
+    "AvoidsSun": 0b,
+    "ReturnToStart": 0b,
+    "OnAttack": 0,
+    "DoorInteract": 1,
+    "FindShelter": 2,
+    "DirectLOS": 0b,
+    "CanLeap": 0b,
+    "CanSprint": 0b,
+    "TacticalRadius": 64,
+    "MovingPause": 1b,
+    "npcInteracting": 1b,
+    "stopAndInteract": 1b,
+    "MoveState": 0,
+    "StandingState": 0,
+    "MovingState": 1,
+    "TacticalVariant": 3,
+    "MovementType": 0,
+    "Orientation": 0,
+    "PositionOffsetX": 5.0f,
+    "PositionOffsetY": 5.0f,
+    "PositionOffsetZ": 5.0f,
+    "WalkingRange": 99,
+    "MoveSpeed": 5,
+    "MovingPos": 0,
+    "MovingPatern": 0,
+    "AttackInvisible": 0b,
+    "Scripts": [
+        {
+            "Script": "var Animation = 1;
+
+function target(t) {
+Animation = Math.floor(Math.random() * (3 - 1 + 1) + 1);
+
+      
+    if(Animation == 1) {
+        t.npc.ai.setAnimation(0);
+        t.npc.stats.ranged.setHasAimAnimation(true) ; 
+    }
+    
+    if(Animation == 2) {
+        t.npc.ai.setAnimation(4);
+        t.npc.stats.ranged.setHasAimAnimation(false);
+    }
+    
+    if(Animation == 3) {
+    t.npc.ai.setAnimation(7);
+    t.npc.stats.ranged.setHasAimAnimation(false);
+    }
+    
+}",
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "var LIMIT = 12; //Projectile limit before running way
+var TacticalType;
+var ShootAt = 0;
+function tick (t) {
+var Flyby = t.npc.world.getNearbyEntities(t.npc.getPos(), 15, EntityType_PROJECTILE);
+
+if (Flyby.length > 1) {
+    ShootAt++
+    if(ShootAt >= LIMIT) {
+        TacticalType = t.npc.ai.getTacticalType();
+        t.npc.ai.setRetaliateType(2);
+        t.npc.timers.forceStart(678, 200, false);
+    }
+}
+
+}
+
+function timer(o) {
+    o.npc.ai.setRetaliateType(0);
+    o.npc.ai.setTacticalType(TacticalType);
+    ShootAt = 0;
+}",
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        },
+        {
+            "Script": "var target;
+var targetPos;
+var fireStop;
+function target(e) {
+   target = e.entity;
+   targetPos = target.getPos();
+}
+
+function targetLost(e) {
+    while (fireStop == false) {
+    var targetX = targetPos.x;
+    var targetY = targetPos.y;
+    var targetZ = targetPos.z;
+    var bulletCount = e.npc.stats.ranged.getShotCount();
+    
+    for (var i = 0; i < bulletCoun; i++) {
+        e.npc.shootItem(Math.random() * targetX, Math.random() * targetY, Math.random() * targetZ, e.npc.inventory.getProjectile(), e.npc.stats.ranged.getAccuracy())
+        }
+    }
+}",
+            "Console": [
+            ],
+            "ScriptList": [
+            ]
+        }
+    ],
+    "ScriptLanguage": "ECMAScript",
+    "ScriptEnabled": 1b,
+    "NpcsTimers": [
+    ],
+    "NpcLines": {
+        "Lines": [
+        ]
+    },
+    "NpcKilledLines": {
+        "Lines": [
+        ]
+    },
+    "NpcInteractLines": {
+        "Lines": [
+            {
+                "Slot": 0,
+                "Line": "Hello @p",
+                "Song": ""
+            }
+        ]
+    },
+    "NpcAttackLines": {
+        "Lines": [
+        ]
+    },
+    "NpcKillLines": {
+        "Lines": [
+        ]
+    },
+    "NpcInteractNPCLines": {
+        "Lines": [
+        ]
+    },
+    "OrderedLines": 0b,
+    "NpcIdleSound": "",
+    "NpcAngrySound": "",
+    "NpcHurtSound": "minecraft:entity.player.hurt",
+    "NpcDeathSound": "minecraft:entity.player.hurt",
+    "NpcStepSound": "",
+    "FactionID": 3,
+    "AttackOtherFactions": 1b,
+    "DefendFaction": 1b,
+    "DisablePitch": 0b,
+    "Role": 0,
+    "NpcJob": 0,
+    "FactionPoints": {
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "OptionFaction2Points": 100,
+        "DecreaseFaction1Points": 0b,
+        "DecreaseFaction2Points": 0b
+    },
+    "NPCDialogOptions": [
+    ],
+    "NpcScenes": {
+        "Scenes": [
+        ]
+    },
+    "MinExp": 0,
+    "MaxExp": 0,
+    "NpcInv": [
+    ],
+    "Armor": [
+        {
+            "Slot": 0b,
+            "id": "flansmod:marinehelmet",
+            "Count": 1b,
+            "Damage": 0s,
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        },
+        {
+            "Slot": 1b,
+            "id": "flansmod:marinebody",
+            "Count": 1b,
+            "Damage": 0s,
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        },
+        {
+            "Slot": 2b,
+            "id": "flansmod:marinepants",
+            "Count": 1b,
+            "Damage": 0s,
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        },
+        {
+            "Slot": 3b,
+            "id": "flansmod:marineboots",
+            "Count": 1b,
+            "Damage": 0s,
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        }
+    ],
+    "Weapons": [
+        {
+            "Slot": 0b,
+            "id": "mwc:m16a1",
+            "Count": 1b,
+            "Damage": 0s,
+            "tag": {
+                "IUuidLeast": -8390154622484447330L,
+                "Ammo": 30,
+                "IUuidMost": -5254197692097937266L,
+                "Instance": [B;76B,97B,-17B,6B,112B,-40B,-64B,96B,-20B,-124B,8B,-95B,100B,-107B,5B,-33B,0B,0B,0B,9B,-73B,21B,87B,9B,118B,-45B,64B,-114B,-117B,-112B,46B,-46B,-28B,54B,127B,-98B,0B,0B,19B,-63B,0B,0B,0B,3B,0B,0B,0B,0B,0B,0B,0B,12B,-56B,-30B,-89B,46B,-14B,7B,37B,75B,-109B,48B,-17B,71B,-94B,4B,125B,-126B,0B,0B,0B,1B,27B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,19B,85B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,17B,-85B,0B,0B,17B,-27B,0B,0B,17B,-71B,0B,0B,0B,0B,0B,0B,18B,14B,0B,0B,18B,86B,0B,0B,19B,7B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,16B,-94B,0B,0B,0B,0B,0B,0B,0B,0B,30B,0B,65B,64B,0B,0B,0B,0B,0B,1B,63B,-128B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B,0B]
+            },
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        },
+        {
+            "Slot": 1b,
+            "id": "chiselsandbits:block_bit",
+            "Count": 1b,
+            "Damage": 0s,
+            "tag": {
+                "id": 42
+            },
+            "ForgeCaps": {
+                "customnpcs:itemscripteddata": {
+                }
+            }
+        }
+    ],
+    "DropChance": [
+        {
+            "Slot": 0,
+            "Integer": 100
+        },
+        {
+            "Slot": 1,
+            "Integer": 100
+        },
+        {
+            "Slot": 2,
+            "Integer": 100
+        },
+        {
+            "Slot": 3,
+            "Integer": 100
+        },
+        {
+            "Slot": 4,
+            "Integer": 100
+        },
+        {
+            "Slot": 5,
+            "Integer": 100
+        },
+        {
+            "Slot": 6,
+            "Integer": 100
+        },
+        {
+            "Slot": 7,
+            "Integer": 100
+        },
+        {
+            "Slot": 8,
+            "Integer": 100
+        }
+    ],
+    "LootMode": 0,
+    "TransformIsActive": 0b,
+    "TransformHasDisplay": 0b,
+    "TransformHasAI": 0b,
+    "TransformHasAdvanced": 0b,
+    "TransformHasInv": 0b,
+    "TransformHasStats": 0b,
+    "TransformHasRole": 0b,
+    "TransformHasJob": 0b,
+    "TransformEditingModus": 0b,
+    "KilledTime": 0L,
+    "TotalTicksAlive": 36396L,
+    "ModRev": 18,
+    "LinkedNpcName": "",
+    "NpcModelData": {
+        "ArmsConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": -0.0f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "BodyConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "LegsConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.012000002f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "HeadConfig": {
+            "ScaleX": 1.0f,
+            "ScaleY": 1.0f,
+            "ScaleZ": 1.0f,
+            "TransX": 0.0f,
+            "TransY": 0.0f,
+            "TransZ": 0.0f,
+            "NotShared": 0b
+        },
+        "LegParts": {
+            "Type": 0b,
+            "Color": 16777215,
+            "PlayerTexture": 0b,
+            "Pattern": 0b
+        },
+        "Eyes": {
+            "Type": 0b,
+            "Color": 6704179,
+            "PlayerTexture": 0b,
+            "Pattern": 0b,
+            "Glint": 1b,
+            "SkinColor": 11830381,
+            "BrowColor": 5982516,
+            "PositionY": 1,
+            "BrowThickness": 4
+        },
+        "ExtraData": {
+        },
+        "Parts": [
+        ]
+    }
+}

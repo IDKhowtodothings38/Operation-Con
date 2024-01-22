@@ -1,0 +1,38 @@
+{
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-01-20 13:49:48 -0600"
+    },
+    "done": true
+  },
+  "nocubessrparmory:advsrparmoryroot": {
+    "criteria": {
+      "advsrparmoryroot": "2024-01-20 13:20:58 -0600"
+    },
+    "done": true
+  },
+  "nocubessrpnests:advsrpnestsaddonroot": {
+    "criteria": {
+      "advsrpnestsaddonroot": "2024-01-20 13:20:58 -0600"
+    },
+    "done": true
+  },
+  "wyrmsofnyrus:root": {
+    "criteria": {
+      "tick": "2024-01-20 13:20:58 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2024-01-20 13:20:56 -0600"
+    },
+    "done": false
+  },
+  "nocubessrpsurvival:advparasitesurvivalroot": {
+    "criteria": {
+      "advparasitesurvivalroot": "2024-01-20 13:20:58 -0600"
+    },
+    "done": true
+  }
+}

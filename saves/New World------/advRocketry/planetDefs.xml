@@ -404,7 +404,7 @@
             <generateVolcanos>false</generateVolcanos>
             <generateStructures>true</generateStructures>
             <generateGeodes>true</generateGeodes>
-            <biomeIds>biomesoplenty:kelp_forest;30,minecraft:deep_ocean;30,biomesoplenty:lush_swamp;30,biomesoplenty:corrupted_sands;30,lepidodendron:appleorchard;2</biomeIds>
+            <biomeIds>biomesoplenty:kelp_forest;30,minecraft:deep_ocean;30,biomesoplenty:lush_swamp;30,biomesoplenty:corrupted_sands;30</biomeIds>
             <planet DIMID="16" name="Sol 14: 1">
                 <isKnown>false</isKnown>
                 <fogColor>1.0,1.0,1.0</fogColor>
@@ -441,7 +441,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>lepidodendron:olivegrove;1,minecraft:mutated_redwood_taiga_hills;30,minecraft:mutated_savanna;30,minecraft:mutated_birch_forest_hills;30,advancedrocketry:crystalchasms;30</biomeIds>
+                <biomeIds>minecraft:mutated_redwood_taiga_hills;30,minecraft:mutated_savanna;30,minecraft:mutated_birch_forest_hills;30,advancedrocketry:crystalchasms;30</biomeIds>
             </planet>
         </planet>
     </star>
@@ -1186,7 +1186,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>biomesoplenty:temperate_rainforest;30,biomesoplenty:oasis;30,minecraft:mesa;30,biomesoplenty:lush_swamp;30,lepidodendron:olivegrove;1</biomeIds>
+                <biomeIds>biomesoplenty:temperate_rainforest;30,biomesoplenty:oasis;30,minecraft:mesa;30,biomesoplenty:lush_swamp;30</biomeIds>
             </planet>
         </planet>
     </star>
@@ -1227,7 +1227,7 @@
                 <generateVolcanos>false</generateVolcanos>
                 <generateStructures>false</generateStructures>
                 <generateGeodes>false</generateGeodes>
-                <biomeIds>biomesoplenty:lush_swamp;30,minecraft:mutated_savanna;30,lepidodendron:appleorchard;2,minecraft:mutated_plains;30,biomesoplenty:undergarden;30</biomeIds>
+                <biomeIds>biomesoplenty:lush_swamp;30,minecraft:mutated_savanna;30,minecraft:mutated_plains;30,biomesoplenty:undergarden;30</biomeIds>
             </planet>
             <planet DIMID="66" name="Ma-Roo 64: 1">
                 <isKnown>false</isKnown>

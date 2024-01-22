@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "lepidodendron:pf_base_adv": {
-    "criteria": {
-      "tick": "2024-01-03 18:29:59 -0600"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-01-04 12:26:31 -0600"
@@ -68,12 +62,6 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-01-04 11:48:01 -0600"
-    },
-    "done": true
-  },
-  "lepidodendron:pf_palaeopedia_given": {
-    "criteria": {
-      "pf_trigger": "2024-01-03 18:29:58 -0600"
     },
     "done": true
   },
@@ -266,12 +254,6 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-01-04 12:26:31 -0600"
-    },
-    "done": true
-  },
-  "lepidodendron:pf_base_adv_knowledge": {
-    "criteria": {
-      "tick": "2024-01-03 18:29:59 -0600"
     },
     "done": true
   },
