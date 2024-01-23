@@ -1,7 +1,0 @@
-[08:56:15][FINE/CustomNPCs][noppes.npcs.controllers.ScriptController:87] Mon Jan 22 08:56:15 CST 2024
-[08:56:16][FINE/CustomNPCs][noppes.npcs.CustomNpcs:236] Script Engines Available:
-[08:58:10][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Loading Linked Npcs
-[08:58:10][FINE/CustomNPCs][noppes.npcs.controllers.LinkedNpcController:28] Done loading Linked Npcs
-[08:58:25][FINE/CustomNPCs][noppes.npcs.CustomNpcs:300] Loading Dialogs
-[08:58:25][FINE/CustomNPCs][noppes.npcs.CustomNpcs:300] Done loading Dialogs
-[09:03:01][FINE/CustomNPCs][noppes.npcs.controllers.ScriptContainer:176] EntityCustomNpc{x=362, y=1, z=372} script errored
