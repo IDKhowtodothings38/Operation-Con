@@ -3,3 +3,5 @@ version: 0.01
 version: 0.101
 	MainMenu Added
 	FutureCraft Removed
+version 0.54
+	IDR
